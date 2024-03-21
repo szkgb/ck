@@ -240,19 +240,6 @@ CGTN俄语高清,http://219.128.40.55:8888/udp/239.253.43.201:5146
 综合频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 新闻综合,http://112.132.181.221:9988/hls/51/index.m3u8
 文旅频道,http://112.132.181.221:9988/hls/60/index.m3u8
-抖音电台,#genre#
-电台轮播1,https://pull-l3.douyincdn.com/third/stream-691230181394219487_or4.flv?auth_key=1711139811-0-0-b604469c8af2d5985f14f57109af9dd7&abr_pts=-800&_session_id=037-202403160506513220A7513FD624A0BBE6.1710536832108.61803
-电台直播2,http://43.138.170.29:35455/douyu/7011290
-电台轮播3,https://v2mb2w8hub849xuzmg3z3pkqd4ho0bkua.mobgslb.tbcache.com/ali-adaptive.pull.yximgs.com/gifshow/O3oYbkxdCMM.flv?kabr_spts=-5000&sidc=205492&auth_key=1711006845-0-0-4370783d78960839198fe3744aea7238&fd=1&oidc=watchmen&pullDomain=ali-adaptive.pull.yximgs.com&ss=s20&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn2317&ali_302c=701&ali_st=cn4607&ali_ts=1710920458
-电台轮播4,https://pull-l3.douyincdn.com/third/stream-691277034118447583.flv?kabr_spts=-800&_session_id=037-20240320152834000BFCE463698E016239.1710919721571.91744&auth_key=1711522715-0-0-ca2cd398dc5e88294d3c0ff0e8ab1f42&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666100&ali_stream_type=00&ali_stream_type_ring=011&ali_orig_station=cn3070&ali_302c=700&ali_st=cn2114&ali_ts=1710919719
-电台轮播5,https://pull-flv-f1.douyincdn.com/third/stream-114790158079623851_or4.flv?keeptime=00093a80&wsSecret=8b6add9141bd3f395e61afa1143650a3&wsTime=65f4b999&abr_pts=-800&_session_id=037-202403160511539C864DAE0DED81BBE995.1710537145901.99638
-电台轮播6,https://c8143c24775eba7966b4658b0c356c19.h2.smtcdns.net/pull-flv-l11.douyincdn.com/third/stream-403034872041177564_or4.flv?expire=1711409776&sign=ffb9eed5e67ebef2e604fc52e71e1054&abr_pts=-800&_session_id=037-202403190736151921F1E208CB07793D53.1710804995433.59137&TxLiveCode=cold_stream&TxDispType=3&svr_type=live_oc&tencent_test_client_ip=113.101.137.75&dispatch_from=OC_MGR124.225.189.45&utime=1710804995894
-电台轮播7,https://pull-flv-l13.douyincdn.com/stage/stream-691272954840089016.flv?expire=1711459819&sign=63a84b5f36e1d59bacf36f88e60e2fdb&select_mode=score&pre_q=md&abr_pts=19862399&_session_id=037-2024031921301835B5EEDE19857742919C.1710855026029.30937
-电台轮播8,https://pull-flv-l11.douyincdn.com/third/stream-114804995983933916.flv?expire=1711377916&sign=467fd2d9989524634ee4b79b9069dafa&abr_pts=-800&_session_id=037-2024031822451556992691A9FA0A721D3D.1710773127472.75759&TxLiveCode=cold_stream&TxDispType=3&svr_type=live_oc&tencent_test_client_ip=113.101.137.75&dispatch_from=OC_MGR124.225.195.118&utime=1710773126360
-电台轮播9,https://pull-flv-l11.douyincdn.com/third/stream-114805165768311260_or4.flv?expire=1711388727&sign=b7eab2f8e406dca65d47bc4e8e6afda9&abr_pts=-800&_session_id=037-202403190145265E40BFB8B03CD67F1703.1710783936743.79405&TxLiveCode=cold_stream&TxDispType=3&svr_type=live_oc&tencent_test_client_ip=113.101.137.75&dispatch_from=OC_MGR183.61.248.221&utime=1710783936346
-电台轮播10,http://43.138.170.29:35455/douyu/1770806
-电台轮播11,https://v20lri1gr1130g9w3mfxz3q89u3cmeqmv.mobgslb.tbcache.com/ali-adaptive.pull.yximgs.com/gifshow/fxrpFULvjXY_ShowAvcHdL1.flv?kabr_spts=-5000&pullDomain=ali-adaptive.pull.yximgs.com&sidc=206077&auth_key=1710941918-0-0-37e81bc51f5abd60c11c2e86296f14a7&fd=1&oidc=watchmen&ss=s20&tsc=origin&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666100&ali_stream_type=00&ali_stream_type_ring=&ali_orig_station=cn4796&ali_302c=700&ali_st=cn6011&ali_ts=1710855521
-电台轮播12,https://ali-adaptive.pull.yximgs.com/gifshow/n8oaEUJIUPI.flv?auth_key=1710975880-0-0-ae4232640154aa0da83ecc28704fc478&oidc=watchmen&sidc=204180&fd=1&ss=s20&kabr_spts=-5000
 
 卫视广东,#genre#
 
@@ -323,8 +310,7 @@ CGTN俄语高清,http://219.128.40.55:8888/udp/239.253.43.201:5146
 凤凰资讯台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
 凤凰资讯台,mitv://135.148.104.228:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-凤凰香港台,mitv://135.148.104.228:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+凤凰香港台,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 
 now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
