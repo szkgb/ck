@@ -515,7 +515,10 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 Fashion TV,http://185.150.190.225:14961
 Fashion tv,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Fashion tv,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-
+Fashion tv,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+Fashion tv,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fashion tv,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+Fashion tv,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 汕头,#genre#
 
