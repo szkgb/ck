@@ -391,16 +391,15 @@ Channel8,mitv://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
 Mono29,mitv://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
 MCOT,mitv://generationnexxxt.com:19806/84419b9f1d144bd687913e3739c10011
 ONE,mitv://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
-Thairath TV,mitv://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
+ThairathTV,mitv://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
 Channel3,mitv://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
 AmarinTV,mitv://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
 Channel7,mitv://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
-PPTV,mitv://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
 ThaiParliament TV,mitv://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
 ThaiPBS,mitv://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
-News1,mitv://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
+ThaiTPTV,mitv://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
 Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
-TVD10,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
+ThaiTVD10,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
 FashionTV,http://185.150.190.225:14961
 
