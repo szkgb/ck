@@ -18,109 +18,6 @@ SITV欢笑剧场4K,http://[2409:8087:7000:20::14]:80/dbiptv.sn.chinamobile.com/P
 华数4K影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT153820240204170314742984&channel-id=wasusyt&Contentid=6000000003000004748
 华数4K测试,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
-央视频道[v4],#genre#
-
-CCTV-1综合,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
-CCTV-2财经,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
-CCTV-3综艺,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
-CCTV-4中文国际,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
-CCTV-5体育,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
-CCTV-5+体育赛事,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
-CCTV-6电影频道,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
-CCTV-7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
-CCTV-9纪录,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
-CCTV-10科教,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
-CCTV-11戏曲,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
-CCTV-12社会与法,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
-CCTV-13新闻,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
-CCTV-14少儿,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000013647/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
-CCTV-15音乐,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
-CCTV-16奥林匹克,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV-17农业农村,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
-CCTV4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-CCTV兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
-CCTV-1综合,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.17:5146
-CCTV-1综合,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.144:5146
-CCTV-2财经,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.158:5146
-CCTV-2财经,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.137:5146
-CCTV-3综艺,http://ddns.cyruslee.top:8888/udp/239.77.0.169:5146
-CCTV-3综艺,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.169:5146
-CCTV-4中文国际,http://ddns.cyruslee.top:8888/udp/239.77.1.163:5146
-CCTV-4中文国际,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.163:5146
-CCTV-4中文国际,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.166:5146
-CCTV-4中文国际,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.78:5146
-CCTV-5体育,http://ddns.cyruslee.top:8888/udp/239.77.0.170:5146
-CCTV-5体育,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.170:5146
-CCTV-5+体育赛事,http://111.207.22.10:8888/newlive/live/hls/7/live.m3u8
-CCTV-5+体育赛事,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.87:5146
-CCTV-5+体育赛事,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.31:5146
-CCTV-6电影频道,http://111.207.22.10:8888/newlive/live/hls/8/live.m3u8
-CCTV-6电影频道,http://111.207.22.10:8888/newlive/live/hls/9/live.m3u8
-CCTV-6电影频道,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.171:5146
-CCTV-7国防军事,http://ddns.cyruslee.top:8888/udp/239.77.1.159:5146
-CCTV-7国防军事,http://111.207.22.10:8888/newlive/live/hls/9/live.m3u8
-CCTV-7国防军事,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.159:5146
-CCTV-7国防军事,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.138:5146
-CCTV-8电视剧,http://111.207.22.10:8888/newlive/live/hls/10/live.m3u8
-CCTV-8电视剧,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.172:5146
-CCTV-9纪录,http://111.207.22.10:8888/newlive/live/hls/11/live.m3u8
-CCTV-9纪录,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.160:5146
-CCTV-9纪录,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.135:5146
-CCTV-10科教,http://ddns.cyruslee.top:8888/udp/239.77.1.113:5146
-CCTV-10科教,http://111.207.22.10:8888/newlive/live/hls/12/live.m3u8
-CCTV-10科教,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.113:5146
-CCTV-10科教,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.134:5146
-CCTV-11戏曲,http://ddns.cyruslee.top:8888/udp/239.77.1.238:5146
-CCTV-11戏曲,http://111.207.22.10:8888/newlive/live/hls/13/live.m3u8
-CCTV-11戏曲,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.238:5146
-CCTV-12社会与法,http://111.207.22.10:8888/newlive/live/hls/14/live.m3u8
-CCTV-12社会与法,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.136:5146
-CCTV-12社会与法,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.109:5146
-CCTV-13新闻,http://ddns.cyruslee.top:8888/udp/239.77.0.188:5146
-CCTV-13新闻,http://111.207.22.10:8888/newlive/live/hls/15/live.m3u8
-CCTV-13新闻,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.188:5146
-CCTV-13新闻,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.196:5146
-CCTV-14少儿,http://ddns.cyruslee.top:8888/udp/239.77.1.161:5146
-CCTV-14少儿,http://111.207.22.10:8888/newlive/live/hls/16/live.m3u8
-CCTV-14少儿,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.161:5146
-CCTV-14少儿,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.133:5146
-CCTV-15音乐,http://111.207.22.10:8888/newlive/live/hls/17/live.m3u8
-CCTV-15音乐,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.239:5146
-CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-16奥林匹克,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.76:5146
-CCTV-16-4K,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.98:5146
-CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-17农业农村,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.121:5146
-CCTV-17农业农村,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.198:5146
-CCTV4K,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.194:5146
-CCTV4K50p,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.174:5146
-CGTN,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.45:5146
-CGTN,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.27:5146
-CGTN 英语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.199:5146
-CGTN 纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN 俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN 俄语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.201:5146
-CGTN 法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN 法语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.228:5146
-CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN西班牙语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.221:5146
-CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN阿拉伯语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.200:5146
-
 央视电信,#genre#
 
 CCTV1标清,http://110.53.191.212:9901/tsfile/live/0001_1.m3u8
@@ -467,9 +364,6 @@ HBO 家庭台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxc
 爱尔达体育Ⅲ台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 CGNTV台,http://live.cgtn.com/500/prog_index.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
-EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
@@ -480,45 +374,43 @@ ELEVEN1台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhf
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+TOPNEWS,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-TVB Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
-Channel 5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
+BloombergTV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+TVBThai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
+Channel5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
 NBT,mitv://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
-TNN 16,mitv://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
-JKN 18,mitv://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
-Voice TV,mitv://generationnexxxt.com:19806/565ee6db091d4f5eb249d8cfd88ff392
-Nation TV,mitv://generationnexxxt.com:19806/9006192061234d3abc002c9df98617a3
-Workpoint TV,mitv://generationnexxxt.com:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
-true4U,mitv://generationnexxxt.com:19806/70d07d9bf1594d1aafa109803f097fd5
-GMM 25,mitv://generationnexxxt.com:19806/7202eeef804f4338bcd118210a39a66b
-Channel 8,mitv://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
-Mono 29,mitv://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
+TNN16,mitv://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN18,mitv://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
+VoiceTV,mitv://generationnexxxt.com:19806/565ee6db091d4f5eb249d8cfd88ff392
+NationTV,mitv://generationnexxxt.com:19806/9006192061234d3abc002c9df98617a3
+WorkpointTV,mitv://generationnexxxt.com:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
+True4U,mitv://generationnexxxt.com:19806/70d07d9bf1594d1aafa109803f097fd5
+GMM25,mitv://generationnexxxt.com:19806/7202eeef804f4338bcd118210a39a66b
+Channel8,mitv://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
+Mono29,mitv://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
 MCOT,mitv://generationnexxxt.com:19806/84419b9f1d144bd687913e3739c10011
 ONE,mitv://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
 Thairath TV,mitv://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
-Channel 3,mitv://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
-Amarin TV,mitv://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
-Channel 7,mitv://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
+Channel3,mitv://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
+AmarinTV,mitv://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
+Channel7,mitv://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
 PPTV,mitv://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
-Thai Parliament TV,mitv://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
-Thai PBS,mitv://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
-News 1,mitv://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
+ThaiParliament TV,mitv://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
+ThaiPBS,mitv://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
+News1,mitv://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
 Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
-Top News,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
+TopNews,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-Fashion TV,http://185.150.190.225:14961
-Fashion tv,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-Fashion tv,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-Fashion tv,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-Fashion tv,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Fashion tv,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-Fashion tv,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+FashionTV1,http://185.150.190.225:14961
+FashionTv2,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+FashionTv3,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+FashionTv4,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+FashionTv5,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FashionTv6,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+FashionTtv7,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 汕头,#genre#
 
