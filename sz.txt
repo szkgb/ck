@@ -281,8 +281,8 @@ TVBJ2台,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-TVB明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
-TVB新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+TVB明珠台,http://223.71.206.22:30080/HK/mz/hls.m3u8
+TVB新闻台,http://45.89.104.154/mlTW2268.php?id=inews_twn
 TVB星河国,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
 TVB星河台,http://jyjxy.7766.org:8811/hls/35/index.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -290,7 +290,7 @@ TVB星河台,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB财经资讯台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
+TVB财经资讯台,http://183.6.122.31:8091/HK/j5.live.flv
 TVB财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 TVB财经资讯台,http://43.132.147.111:11123/tvb.php?id=2&hq
 TVB财经台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
@@ -310,9 +310,9 @@ RTHK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04
 RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 HOY新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
 HOY新闻台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-HOY77台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+HOY77台,http://223.71.206.22:30080/HK/hoy77/hls.m3u8
 HOY77台,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
-HOY78台,https://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+HOY78台,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
 HOY78台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 天映频道粤,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
 天映经典国,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
@@ -362,6 +362,7 @@ TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
 寰宇新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
 寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻台,mitv://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
+中天新闻台,http://223.71.206.22:30080/TW/ztxw/hls.m3u8
 中天新闻台,https://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻台,mitv://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
