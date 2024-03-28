@@ -343,9 +343,7 @@ pondo793杏奈,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
 siro1774奏音花音,https://videomy.yongaomy.com/20210716/1uTF5FjS/1500kb/hls/index.m3u8
 ssis-096乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
-ssis-108,https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
 ssis-118梦乃,https://siwazywcdn2.com:5278/zhongwenzimu/5yvSxVeg/index.m3u8
-ssis-169miru,https://siwazywcdn2.com:5278/zhongwenzimu/tyv0dmpK/index.m3u8
 SSNI-658A,https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
 SSNI-658B,https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
 ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
