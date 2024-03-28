@@ -168,7 +168,7 @@ Asian,http://live.adultiptv.net/asian.m3u8
 萬聖節緊急企劃/金蓮領我回家/TZ-030,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ag/qi/ij/l2/079eca9b44664d84be021c4998bc0400.m3u8?
 街頭搭訕女大學生拍攝AV/TZ-001,https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
 
-JP#genre#
+JP,#genre#
 
 安斋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
 百永纱理奈,https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
