@@ -351,3 +351,9 @@ ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3
 UMD-737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
 WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
 WANZ-957奏音花音,https://videomy.yongaomy.com/20211017/jSi0DQcD/1500kb/hls/index.m3u8
+
+测试,#genre#
+A,https://edge-hls.doppiocdn.com/hls/84309668/master/84309668.m3u8
+B,https://edge-hls.doppiocdn.com/hls/83434713/master/83434713.m3u8
+C,https://edge-hls.doppiocdn.com/hls/83335761/master/83335761.m3u8
+D,https://edge-hls.doppiocdn.com/hls/81646341/master/81646341.m3u8
