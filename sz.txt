@@ -278,8 +278,8 @@ TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB明珠台,http://223.71.206.22:30080/HK/mz/hls.m3u8
-TVB新闻台,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+TVB新闻台,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 TVB星河台,http://jyjxy.7766.org:8811/hls/35/index.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
