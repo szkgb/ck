@@ -353,12 +353,5 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 WANZ-957奏音花音,https://videomy.yongaomy.com/20211017/jSi0DQcD/1500kb/hls/index.m3u8
 
 测试,#genre#
-A,https://edge-hls.doppiocdn.com/hls/84309668/master/84309668.m3u8
-B,https://edge-hls.doppiocdn.com/hls/83434713/master/83434713.m3u8
-C,https://edge-hls.doppiocdn.com/hls/83335761/master/83335761.m3u8
-D,https://edge-hls.doppiocdn.com/hls/81646341/master/81646341.m3u8
 TVB新闻1,http://live.cooltv.top/tv/tvb.php?id=0
-TVB新闻2,http://r.jdshipin.com/CkuBd
-寰宇新闻,http://47.242.38.45:9999/twjd678-2.php?id=34
-中天新闻,http://47.242.38.45:9999/twjd678-2.php?id=31
 
