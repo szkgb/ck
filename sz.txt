@@ -269,7 +269,6 @@ CGTN阿拉伯语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.200:5146
 now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
 TVBJ2台,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB明珠台,http://223.71.206.22:30080/HK/mz/hls.m3u8
