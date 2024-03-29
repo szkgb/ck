@@ -254,22 +254,17 @@ CGTN阿拉伯语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.200:5146
 港澳台,#genre#
 
 凤凰中文台,http://112.19.171.156:9999/udp/239.93.0.162:2192
-凤凰中文台,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰中文台,http://171.214.202.220:4000/udp/239.93.0.162:2192
-凤凰中文台,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰中文台,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8
+凤凰中文台,http://8.134.88.173:9092/HK/fhzw/hls.m3u8
 凤凰中文台,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰中文台,http://113.64.145.84:8081/hls/37/index.m3u8
 凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰资讯台,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
 凤凰资讯台,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8
-凤凰资讯台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
-凤凰资讯台,mitv://135.148.104.228:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰资讯台,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰资讯台,http://113.64.145.84:8081/hls/36/index.m3u8
-凤凰香港台,http://113.64.145.84:8081/hls/38/index.m3u8
+凤凰香港台,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
+凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 凤凰香港台,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
