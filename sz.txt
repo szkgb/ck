@@ -245,9 +245,11 @@ CGTN阿拉伯语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.200:5146
 港澳台,#genre#
 凤凰中文台,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰中文台,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯台,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰资讯台,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 凤凰香港台,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
@@ -256,7 +258,6 @@ TVBJ2台,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB明珠台,http://223.71.206.22:30080/HK/mz/hls.m3u8
-TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0
 TVB新闻台,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 TVB星河台,http://jyjxy.7766.org:8811/hls/35/index.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -319,11 +320,8 @@ TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
 中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
 中视新闻台,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 中视新闻台,mitv://135.148.104.228:19806/cb5965a89e434df7aeb66b2364116ae4
-寰宇新闻台,http://119.23.61.191:8088/TW/hyxw/hls.m3u8
 寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻台,mitv://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
-中天新闻台,http://223.71.206.22:30080/TW/ztxw/hls.m3u8
-中天新闻台,http://120.79.160.134:8066/TW/ztxw/hls.m3u8
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻台,mitv://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
 年代新闻台,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
