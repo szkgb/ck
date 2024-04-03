@@ -1,5 +1,6 @@
 ﻿
-⚡｜4K,#genre#
+4K,#genre#
+
 爱上4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州-4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
@@ -17,6 +18,7 @@ SITV欢笑剧场4K,http://[2409:8087:7000:20::14]:80/dbiptv.sn.chinamobile.com/P
 华数4K影视,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT153820240204170314742984&channel-id=wasusyt&Contentid=6000000003000004748
 华数4K测试,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+
 央视频道,#genre#
 CCTV-1综合,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CCTV-2财经,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
@@ -117,7 +119,9 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN西班牙语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.221:5146
 CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN阿拉伯语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.200:5146
+
 卫视电信,#genre#
+
 广东卫视标清,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8     
 广东卫视高清,http://120.7.86.46:808/hls/49/index.m3u8#http://60.174.40.117:9901/tsfile/live/1037_1.m3u8#http://59.55.35.92:20000/hls/32/index.m3u8 
 深圳卫视标清,http://110.53.191.212:9901/tsfile/live/0126_1.m3u8 
@@ -192,7 +196,9 @@ CGTN阿拉伯语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.200:5146
 综合频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 新闻综合,http://112.132.181.221:9988/hls/51/index.m3u8
 文旅频道,http://112.132.181.221:9988/hls/60/index.m3u8
+
 卫视广东,#genre#
+
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
 东方卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000056/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000056&livemode=1&stbId=3
 天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009186/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
@@ -243,7 +249,9 @@ CGTN阿拉伯语,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.200:5146
 卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 金鹰卡通,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 优漫卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
+
 港澳台,#genre#
+
 凤凰中文台,http://39.134.18.196:80/wh7f454c46tw2172490011_-1360941031/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8?icpid=88888890&RTS=1707328982&from=20&ocs=2_111.20.45.169_80&hms_devid=8368&online=1707328982&vqe=3
 凤凰中文台,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文台,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8
@@ -416,7 +424,9 @@ Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
 ThaiTVD10,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
 FashionTV,http://185.150.190.225:14961
+
 汕头,#genre#
+
 汕头综合,http://14.121.146.49:554/udp/239.77.1.130:5146
 汕头综合,http://14.121.146.49:554/udp/239.253.43.45:5146
 汕头综合,http://61.140.124.156:8888/udp/239.77.1.130:5146
@@ -442,7 +452,9 @@ FashionTV,http://185.150.190.225:14961
 汕头文旅体育,http://ddns.cyruslee.top:8888/udp/239.77.1.132:5146
 汕头文旅体育,http://ddns.cyruslee.top:8888/udp/239.253.43.47:5146
 汕头文旅体育,http://27.41.249.205:801/hls/80/index.m3u8
-春晚,#genre#	
+
+历年春晚,#genre#
+	
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4	
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4	
@@ -474,7 +486,9 @@ FashionTV,http://185.150.190.225:14961
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4	
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8	
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4	
+
 广东电信,#genre#
+
 广东卫视高清,http://112.132.181.221:9988/hls/28/index.m3u8#http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8#http://111.207.22.10:8888/newlive/live/hls/21/live.m3u8#http://ddns.cyruslee.top:8888/udp/239.77.0.166:5146
 广东珠江高清,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146#http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
 广东新闻高清,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146#http://120.84.121.208:808/hls/124/index.m3u8
@@ -549,7 +563,9 @@ HZTV-2高清,http://ddns.cyruslee.top:8888/udp/239.77.1.233:5146#http://219.128.
 中山综合高清,http://ddns.cyruslee.top:8888/udp/239.253.43.62:5146#http://219.128.40.55:8888/udp/239.253.43.62:5146
 香山文化高清,http://ddns.cyruslee.top:8888/udp/239.253.43.63:5146#http://219.128.40.55:8888/udp/239.253.43.63:5146
 徐闻综合高清,http://ddns.cyruslee.top:8888/udp/239.253.43.112:5146#http://219.128.40.55:8888/udp/239.253.43.112:5146
+
 央视卫视[V6],#genre#
+
 CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV-2 财经,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV-3 综艺,http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
