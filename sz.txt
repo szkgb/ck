@@ -105,6 +105,30 @@ CGTN英,http://php.jdshipin.com:8880/bst.php?id=ottcctvnews/1300000
 
 🌟卫视频道,#genre#
 
+北京卫视,https://pi.0472.org/live/bjws.m3u8?token=240411
+东方卫视,https://pi.0472.org/live/dfws.m3u8?token=240411
+天津卫视,https://pi.0472.org/live/tjws.m3u8?token=240411
+重庆卫视,https://pi.0472.org/live/cqws.m3u8?token=240411
+黑龙江卫视,https://pi.0472.org/live/hljws.m3u8?token=240411
+辽宁卫视,https://pi.0472.org/live/lnws.m3u8?token=240411
+河北卫视,https://pi.0472.org/live/hbws.m3u8?token=240411
+山东卫视,https://pi.0472.org/live/sdws.m3u8?token=240411
+安徽卫视,https://pi.0472.org/live/ahws.m3u8?token=240411
+河南卫视,https://pi.0472.org/live/hnws.m3u8?token=240411
+湖北卫视,https://pi.0472.org/live/hubws.m3u8?token=240411
+湖南卫视,https://pi.0472.org/live/hunws.m3u8?token=240411
+江西卫视,https://pi.0472.org/live/jxws.m3u8?token=240411
+江苏卫视,https://pi.0472.org/live/jsws.m3u8?token=240411
+浙江卫视,https://pi.0472.org/live/zjws.m3u8?token=240411
+东南卫视,https://pi.0472.org/live/dnws.m3u8?token=240411
+广东卫视,https://pi.0472.org/live/gdws.m3u8?token=240411
+深圳卫视,https://pi.0472.org/live/szws.m3u8?token=240411
+广西卫视,https://pi.0472.org/live/gxws.m3u8?token=240411
+贵州卫视,https://pi.0472.org/live/gzws.m3u8?token=240411
+四川卫视,https://pi.0472.org/live/scws.m3u8?token=240411
+新疆卫视,https://pi.0472.org/live/xjws.m3u8?token=240411
+海南卫视,https://pi.0472.org/live/hinws.m3u8?token=240411
+
 北京卫视,http://php.jdshipin.com:8880/bst.php?id=bjwshd/4000000
 东方卫视,http://php.jdshipin.com:8880/bst.php?id=hddfws/4000000
 浙江卫视,http://php.jdshipin.com:8880/bst.php?id=zjwshd/4000000
