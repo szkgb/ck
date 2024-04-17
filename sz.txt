@@ -326,6 +326,8 @@ TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
 寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻台,mitv://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
 中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天新闻台,http://mtw.so/5FDwQQ
+中天新闻台,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻台,mitv://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
 年代新闻台,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
