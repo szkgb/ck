@@ -221,7 +221,7 @@ CCTV-17农业,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001021
 上海纪实,https://cdn2.jdshipin.com/api/bst2.php?id=jspdhd/4000000
 上海教育,https://cdn2.jdshipin.com/api/bst2.php?id=setvhd/8000000
 上海外语,https://cdn2.jdshipin.com/api/bst2.php?id=icshd8m/8000000
-新 视 觉,https://cdn2.jdshipin.com/api/bst2.php?id=xsjhd8m/8000000
+新视觉,https://cdn2.jdshipin.com/api/bst2.php?id=xsjhd8m/8000000
 东方影视,https://cdn2.jdshipin.com/api/bst2.php?id=dfyshd8m/8000000
 七彩戏剧,https://cdn2.jdshipin.com/api/bst2.php?id=qcxjhd8m/8000000
 乐游高清,https://cdn2.jdshipin.com/api/bst2.php?id=qjshd8m/8000000
