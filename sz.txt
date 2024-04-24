@@ -284,34 +284,31 @@ CCTV-17农业,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001021
 
 🌏港澳台,#genre#
 
-凤凰中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文台,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰中文台,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 凤凰中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰中文台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰资讯台,http://113.64.145.126:8081/hls/36/index.m3u8
 凤凰资讯台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰香港台,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港台,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 now新闻台,http://60.30.198.43:5080/HK/nowxw/hls.m3u8
 now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
-TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 TVB翡翠台,http://60.30.198.43:5080/HK/tvb/hls.m3u8
+TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 TVB新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
-TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 TVB经典台,https://epg.pw/stream/88ee4b87004cdda8d42ab7ae30ccefe560f7929bae745d45eaf3ea2979dab62a.ctv
