@@ -440,8 +440,10 @@ ThaiTPTV,mitv://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
 Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
 ThaiTVD10,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-FashionTV,http://185.150.190.225:14961
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+FashionTVTokyo(PG13),https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+Fashion&Lifestyle,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+Fashion&Lifestyle,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 🏠汕头,#genre#
 
