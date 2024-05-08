@@ -285,17 +285,13 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 🌏港澳台,#genre#
 
 凤凰中文台,http:/tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
-凤凰中文台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文台,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文台,http://www.lebaobei.top:6868/udp/239.255.30.50:8231
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯台,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
-凤凰资讯台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯台,http://113.64.145.91:8081/hls/37/index.m3u8
 凤凰资讯台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-凤凰资讯台,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯台,http://www.lebaobei.top:6868/udp/239.255.30.70:8231
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港台,http://113.64.145.91:8081/hls/38/index.m3u8
@@ -309,8 +305,8 @@ now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 TVB翡翠台,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
-TVB新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+http://live.cooltv.top/tv/tvb.php?id=0
 TVB星河台,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
