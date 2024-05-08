@@ -370,7 +370,6 @@ TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
 寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻台,mitv://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
 中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天新闻台,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻台,mitv://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
 年代新闻台,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
@@ -441,9 +440,9 @@ Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
 ThaiTVD10,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
 FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
-FashionTVTokyo(PG13),https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-Fashion&Lifestyle,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-Fashion&Lifestyle,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+FashionTV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+FashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 🏠汕头,#genre#
 
