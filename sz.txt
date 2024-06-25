@@ -294,6 +294,7 @@ now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
 TVB翡翠台,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB星河台,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
@@ -322,34 +323,46 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 华视,rtmp://f13h.mine.nu/sat/tv111
 东森超视台,rtmp://f13h.mine.nu/sat/tv331
+TVBSHD台,http://154.12.50.54:123/smt.php?id=tvbs
 TVBSHD台,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBSHD台,mitv://135.148.104.228:19806/9fb651a7ec2e402588a0752ba1035476
+TVBS新闻台,http://154.12.50.54:123/smt.php?id=tvbs_n
 TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS欢乐台,http://154.12.50.54:123/smt.php?id=tvbshuanle_twn
 民视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=11
 民视新闻台,https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8#https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
+民视新闻台,http://154.12.50.54:123/smt.php?id=ftvnew_taiwan
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民视新闻台,mitv://135.148.104.228:19806/d24f18e610d248b7a450d29492b37ebf
+中视新闻台,http://154.12.50.54:123/smt.php?id=ca73a13c37
 中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
 中视新闻台,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 中视新闻台,mitv://135.148.104.228:19806/cb5965a89e434df7aeb66b2364116ae4
+寰宇新闻台,http://154.12.50.54:123/smt.php?id=huanyuxinwen_twn
 寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻台,mitv://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
 中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天新闻台,https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天新闻台,mitv://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
+中天亚洲台,http://154.12.50.54:123/smt.php?id=ctiasia_twn
 年代新闻台,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 中天新闻2,http://livetv.skycf.eu.org/live.m3u8?c=10
+年代新闻台,http://154.12.50.54:123/smt.php?id=niandainews_twn
 年代新闻台,mitv://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+东森新闻台,http://154.12.50.54:123/smt.php?id=ettvnews
 东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 东森新闻台,mitv://135.148.104.228:19806/e1a899eded4d48578084c61957fb8c2b
 东森新闻台(备),mitv://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
 东森新闻台(备),mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+东森经财台,http://154.12.50.54:123/smt.php?id=ettvcaijing_twn
+三立新闻台,http://154.12.50.54:123/smt.php?id=sanlitaiwan
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立新闻台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立新闻台,mitv://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+非凡新闻台,http://154.12.50.54:123/smt.php?id=feifannews_twn
 非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻台,mitv://135.148.104.228:19806/02f80f7aad2c480992e06e1bd8a7facb
 壹新闻台,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
@@ -357,12 +370,14 @@ TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
 镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=10
 镜新闻台,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 镜新闻台,mitv://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b
+台视新闻台,http://154.12.50.54:123/smt.php?id=ttvnews_twn
 台视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=4
 台视新闻台,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 台视新闻台,mitv://135.148.104.228:19806/9817b59742464113bd5656fcc7dced84
 华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
 华视新闻台,mitv://135.148.104.228:19806/ebe8db2daafa47768f37bcae17bfe299
 华视新闻台,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
+公视新闻台,http://154.12.50.54:123/smt.php?id=ctv_taiwan
 公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 美亚粤电影台,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
@@ -413,6 +428,7 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 🏠汕头,#genre#
 
+汕头综合,https://stqznews.top/tv/live/stzhbq.php
 汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8
 汕头综合,http://ddns.cyruslee.top:8888/udp/239.77.1.130:5146
 汕头综合,http://ddns.cyruslee.top:8888/udp/239.253.43.45:5146
