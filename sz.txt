@@ -284,24 +284,33 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 🌏港澳台,#genre#
 
+凤凰中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文台,http://www.lebaobei.top:6868/udp/239.255.30.50:8231
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰资讯台,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8
 凤凰资讯台,http://www.lebaobei.top:6868/udp/239.255.30.70:8231
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰香港台,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
 凤凰香港台,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠台,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河台,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+VIUTV台,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViUTV台,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViUTV6,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
+RTHK31台,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK31台,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
+RTHK32台,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK32台,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
@@ -343,6 +352,7 @@ TVBS欢乐台,http://154.12.50.54:123/smt.php?id=tvbshuanle_twn
 寰宇新闻台,http://154.12.50.54:123/smt.php?id=huanyuxinwen_twn
 寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 寰宇新闻台,mitv://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
+中天新闻台,http://154.12.50.54:123/smt.php?id=ctinews
 中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天新闻台,https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
