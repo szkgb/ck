@@ -9,7 +9,7 @@
 北京IPTV4K,http://114.253.253.97:4001/rtp/239.3.1.249:8001
 北京IPTV4K,http://111.193.225.167:8888/rtp/239.3.1.249:8001
 
-💝央视频道,#genre#
+💝央视,#genre#
 
 CCTV1,http://rihou.cc:55/lib/aikan.php?id=cctv1
 CCTV2,http://rihou.cc:55/lib/aikan.php?id=cctv2
@@ -31,7 +31,7 @@ CCTV14,http://rihou.cc:55/lib/aikan.php?id=cctv14
 CCTV15,http://rihou.cc:55/lib/aikan.php?id=cctv15
 CCTV17,http://rihou.cc:55/lib/aikan.php?id=cctv17
 
-💝央视频道1,#genre# 
+💝💝央视,#genre# 
 
 CCTV1,http://rihou.cc:555/cqyx.php?id=cctv1
 CCTV2,http://rihou.cc:555/cqyx.php?id=cctv2
@@ -85,7 +85,7 @@ CETV4,http://rihou.cc:555/cqyx.php?id=cetv4
 家庭影院,http://rihou.cc:555/cqyx.php?id=chcjt
 影迷电影,http://rihou.cc:555/cqyx.php?id=chcgq
 
-💝央视频道2,#genre#
+💝💝💝央视,#genre#
 
 CCTV1,http://rihou.cc:55/lib/cqyx.php?id=cctv1
 CCTV2,http://rihou.cc:55/lib/cqyx.php?id=cctv2
@@ -130,117 +130,7 @@ CHC影迷电影,http://rihou.cc:55/lib/cqyx.php?id=chcgq
 CHC动作电影,http://rihou.cc:55/lib/cqyx.php?id=chcdz
 CHC家庭影院,http://rihou.cc:55/lib/cqyx.php?id=chcjt
 
-💝央视频道3,#genre#
-
-CCTV1,http://222.186.57.43:22222/php/akmg.php?id=cctv1
-CCTV2,http://222.186.57.43:22222/php/akmg.php?id=cctv2
-CCTV3,http://222.186.57.43:22222/php/akmg.php?id=cctv3
-CCTV4,http://222.186.57.43:22222/php/akmg.php?id=cctv4
-CCTV4欧洲,http://222.186.57.43:22222/php/akmg.php?id=cctv4o
-CCTV4美洲,http://222.186.57.43:22222/php/akmg.php?id=cctv4a
-CCTV5,http://222.186.57.43:22222/php/akmg.php?id=cctv5
-CCTV5+,http://222.186.57.43:22222/php/akmg.php?id=cctv5p
-CCTV6,http://222.186.57.43:22222/php/akmg.php?id=cctv6
-CCTV7,http://222.186.57.43:22222/php/akmg.php?id=cctv7
-CCTV8,http://222.186.57.43:22222/php/akmg.php?id=cctv8
-CCTV9,http://222.186.57.43:22222/php/akmg.php?id=cctv9
-CCTV10,http://222.186.57.43:22222/php/akmg.php?id=cctv10
-CCTV11,http://222.186.57.43:22222/php/akmg.php?id=cctv11
-CCTV12,http://222.186.57.43:22222/php/akmg.php?id=cctv12
-CCTV13,http://222.186.57.43:22222/php/akmg.php?id=cctv13
-CCTV14,http://222.186.57.43:22222/php/akmg.php?id=cctv14
-CCTV15,http://222.186.57.43:22222/php/akmg.php?id=cctv15
-CCTV17,http://222.186.57.43:22222/php/akmg.php?id=cctv17
-
-💝央视频道4,#genre#
-
-CCTV1,http://222.186.57.43:22222/php/migu.php?id=cctv1
-CCTV2,http://222.186.57.43:22222/php/migu.php?id=cctv2
-CCTV3,http://222.186.57.43:22222/php/migu.php?id=cctv3
-CCTV4,http://222.186.57.43:22222/php/migu.php?id=cctv4
-CCTV5,http://222.186.57.43:22222/php/migu.php?id=cctv5
-CCTV5+,http://222.186.57.43:22222/php/migu.php?id=cctv5p
-CCTV6,http://222.186.57.43:22222/php/migu.php?id=cctv6
-CCTV7,http://222.186.57.43:22222/php/migu.php?id=cctv7
-CCTV8,http://222.186.57.43:22222/php/migu.php?id=cctv8
-CCTV9,http://222.186.57.43:22222/php/migu.php?id=cctv9
-CCTV10,http://222.186.57.43:22222/php/migu.php?id=cctv10
-CCTV11,http://222.186.57.43:22222/php/migu.php?id=cctv11
-CCTV12,http://222.186.57.43:22222/php/migu.php?id=cctv12
-CCTV13,http://222.186.57.43:22222/php/migu.php?id=cctv13
-CCTV14,http://222.186.57.43:22222/php/migu.php?id=cctv14
-CCTV15,http://222.186.57.43:22222/php/migu.php?id=cctv15
-CCTV17,http://222.186.57.43:22222/php/migu.php?id=cctv17
-
-💝央视频道5,#genre#
-
-CCTV1,http://222.186.57.43:22222/php/best.php?id=cctv1&live=/PLTV/
-CCTV2,http://222.186.57.43:22222/php/best.php?id=cctv2&live=/PLTV/
-CCTV3,http://222.186.57.43:22222/php/best.php?id=cctv3&live=/PLTV/
-CCTV4,http://222.186.57.43:22222/php/best.php?id=cctv4&live=/PLTV/
-CCTV5,http://222.186.57.43:22222/php/best.php?id=cctv5&live=/PLTV/
-CCTV5+,http://222.186.57.43:22222/php/best.php?id=cctv5p&live=/PLTV/
-CCTV6,http://222.186.57.43:22222/php/best.php?id=cctv6&live=/PLTV/
-CCTV7,http://222.186.57.43:22222/php/best.php?id=cctv7&live=/PLTV/
-CCTV8,http://222.186.57.43:22222/php/best.php?id=cctv8&live=/PLTV/
-CCTV9,http://222.186.57.43:22222/php/best.php?id=cctv9&live=/PLTV/
-CCTV10,http://222.186.57.43:22222/php/best.php?id=cctv10&live=/PLTV/
-CCTV11,http://222.186.57.43:22222/php/best.php?id=cctv11&live=/PLTV/
-CCTV12,http://222.186.57.43:22222/php/best.php?id=cctv12&live=/PLTV/
-CCTV13,http://222.186.57.43:22222/php/best.php?id=cctv13&live=/PLTV/
-CCTV14,http://222.186.57.43:22222/php/best.php?id=cctv14&live=/PLTV/
-CCTV15,http://222.186.57.43:22222/php/best.php?id=cctv15&live=/PLTV/
-CCTV16,http://222.186.57.43:22222/php/best.php?id=cctv16&live=/PLTV/
-CCTV17,http://222.186.57.43:22222/php/best.php?id=cctv17&live=/PLTV/
-CCTV4k,http://222.186.57.43:22222/php/best.php?id=cctv4k&live=/PLTV/
-
-💝央视频道6,#genre#
-
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回看
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$可回看
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$可回看
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$可回看
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$可回看
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$可回看
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$可回看
-CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$可回看
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$可回看
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$可回看
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$可回看
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$可回看
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$可回看
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$可回看
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$可回看
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$可回看
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$可回看
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$可回看
-
-💝央视频道7,#genre#
-
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$可回看
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$可回看
-CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$可回看
-CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$可回看
-CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$可回看
-CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$可回看
-CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8$可回看
-CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8$可回看
-CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$可回看
-CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8$可回看
-CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$可回看
-CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$可回看
-CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$可回看
-CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8$可回看
-CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$可回看
-CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$可回看
-CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$可回看
-CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$可回看
-
-💝国内组建,#genre#
+💝国内,#genre#
 
 CCTV-1HD,http://114.253.253.97:4001/rtp/239.3.1.129:8008
 CCTV-2HD,http://114.253.253.97:4001/rtp/239.3.1.60:8084
@@ -385,7 +275,7 @@ CETV4,http://114.253.253.97:4001/rtp/239.3.1.56:4120
 高网,http://114.253.253.97:4001/rtp/239.3.1.88:4120
 魅力时尚,http://114.253.253.97:4001/rtp/239.3.1.196:9012
 
-💝国内组建1,#genre#
+💝💝国内,#genre#
 
 CCTV-1HD,http://111.193.225.167:8888/rtp/239.3.1.129:8008
 CCTV-2HD,http://111.193.225.167:8888/rtp/239.3.1.60:8084
@@ -552,6 +442,8 @@ CCTV-16奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/322122
 CCTV-17农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
+🌟🌟央视V6,#genre#
+
 CCTV-1综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 CCTV-2财经,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
 CCTV-3综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
@@ -567,17 +459,6 @@ CCTV-14少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001020
 CCTV-15音乐,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
 CCTV-16奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
-
-💝卫视频道,#genre#
-
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科影院,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 ▶️卫视V6,#genre#
 
