@@ -751,6 +751,8 @@ TVBS新闻,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 中天新闻,p3p://173.208.176.178:19806/613dba64000abeb1c801c02934bb45fc
 中天新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
 寰宇新闻,http://cdn.iptv8k.top/dl/jspd.php?id=7
+寰宇新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+寰宇新闻,http://111.76.16.111:9000/live.m3u8?c=10
 中视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv074
 中视新闻,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
 华视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv052
