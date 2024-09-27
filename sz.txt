@@ -9,7 +9,7 @@
 北京IPTV4K,http://114.253.253.97:4001/rtp/239.3.1.249:8001
 北京IPTV4K,http://111.193.225.167:8888/rtp/239.3.1.249:8001
 
-💝央视频道,#genre#
+🌟央视频道,#genre#
 
 CCTV1,http://rihou.cc:55/lib/aikan.php?id=cctv1
 CCTV2,http://rihou.cc:55/lib/aikan.php?id=cctv2
