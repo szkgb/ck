@@ -9,6 +9,29 @@
 北京IPTV4K,http://114.253.253.97:4001/rtp/239.3.1.249:8001
 北京IPTV4K,http://111.193.225.167:8888/rtp/239.3.1.249:8001
 
+💝央视频道,#genre#
+
+CCTV1,http://rihou.cc:55/lib/aikan.php?id=cctv1
+CCTV2,http://rihou.cc:55/lib/aikan.php?id=cctv2
+CCTV3,http://rihou.cc:55/lib/aikan.php?id=cctv3
+CCTV4,http://rihou.cc:55/lib/aikan.php?id=cctv4
+CCTV4欧洲,http://rihou.cc:55/lib/aikan.php?id=cctv4o
+CCTV4美洲,http://rihou.cc:55/lib/aikan.php?id=cctv4a
+CCTV5,http://rihou.cc:55/lib/aikan.php?id=cctv5
+CCTV5+,http://rihou.cc:55/lib/aikan.php?id=cctv5p
+CCTV6,http://rihou.cc:55/lib/aikan.php?id=cctv6
+CCTV7,http://rihou.cc:55/lib/aikan.php?id=cctv7
+CCTV8,http://rihou.cc:55/lib/aikan.php?id=cctv8
+CCTV9,http://rihou.cc:55/lib/aikan.php?id=cctv9
+CCTV10,http://rihou.cc:55/lib/aikan.php?id=cctv10
+CCTV11,http://rihou.cc:55/lib/aikan.php?id=cctv11
+CCTV12,http://rihou.cc:55/lib/aikan.php?id=cctv12
+CCTV13,http://rihou.cc:55/lib/aikan.php?id=cctv13
+CCTV14,http://rihou.cc:55/lib/aikan.php?id=cctv14
+CCTV15,http://rihou.cc:55/lib/aikan.php?id=cctv15
+CCTV17,http://rihou.cc:55/lib/aikan.php?id=cctv17
+
+
 💝央视卫视,#genre#
 
 CCTV-1HD,http://111.193.225.167:8888/rtp/239.3.1.129:8008
