@@ -348,6 +348,33 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 汕头文旅体育,http://fannas.cn:8888/rtp/239.77.1.132:5146
 汕头市小公园,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 
+🌏临时港闽,#genre#
+
+Plus综合频道,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+PopC电影频道,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+凤凰中文频道,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯频道,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港频道,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+中天新闻频道,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+TVB新闻频道,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVB翡翠频道,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB明珠频道,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB赛马频道,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVBJ1综合美,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVB新闻频美,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+TVB翡翠频泰,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+tvbs新闻频道,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvbs闽南频道,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+三立新闻频道,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+三立综合频道,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+中视闽南频道,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视闽南频道,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中天亚洲频道,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+靖天电影频道,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
 💃历年春晚,#genre#
 	
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
