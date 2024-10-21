@@ -485,7 +485,6 @@ TVBS新闻,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 中天新闻频加,http://103.193.151.158:8500/live.m3u8?c=2
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-中天新闻,http://103.193.151.158:8500/live.m3u8?c=1
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 寰宇新闻,http://23.224.49.18:8866/haiou.php?id=litv-longturn14
 中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=50
