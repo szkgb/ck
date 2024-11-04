@@ -448,6 +448,88 @@ GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 汕头文旅体育,http://14.154.189.204:4022/udp/239.253.43.47:5146
 汕头市小公园,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 
+💝粤潮汕深,#genre#
+
+广东珠江频高,http://www.zzlag.top:9087/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+广东新闻频高,http://www.zzlag.top:9087/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+广东民生频高,http://www.zzlag.top:9087/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
+广东体育频高,http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+广东影视频高,http://www.zzlag.top:9087/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
+广东科教频高,http://www.zzlag.top:9087/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&down=1
+广东少儿频高,http://www.zzlag.top:9087/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
+广东嘉佳频高,http://www.zzlag.top:9087/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
+广东戏曲频高,http://www.zzlag.top:9087/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
+潮州公共频高,http://www.zzlag.top:9087/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
+汕头新闻频高,http://www.zzlag.top:9087/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+汕头经济频高,http://www.zzlag.top:9087/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
+汕头文旅频高,http://www.zzlag.top:9087/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+揭阳综合频高,http://www.zzlag.top:9087/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+深圳都市频高,http://www.zzlag.top:9087/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
+深圳电视频高,http://www.zzlag.top:9087/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
+深圳体育频高,http://www.zzlag.top:9087/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
+深圳生活频高,http://www.zzlag.top:9087/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&down=1
+深圳少儿频高,http://www.zzlag.top:9087/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
+深圳移动频标,http://www.zzlag.top:9087/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1
+影迷电影频高,http://www.zzlag.top:9087/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-01频高,http://www.zzlag.top:9087/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-02频高,http://www.zzlag.top:9087/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-03频高,http://www.zzlag.top:9087/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-04频高,http://www.zzlag.top:9087/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-05频高,http://www.zzlag.top:9087/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-5+频高,http://www.zzlag.top:9087/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-06频高,http://www.zzlag.top:9087/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-07频高,http://www.zzlag.top:9087/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-08频高,http://www.zzlag.top:9087/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-09频高,http://www.zzlag.top:9087/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-10频高,http://www.zzlag.top:9087/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-12频高,http://www.zzlag.top:9087/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-13频高,http://www.zzlag.top:9087/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-14频高,http://www.zzlag.top:9087/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-15频高,http://www.zzlag.top:9087/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-17频高,http://www.zzlag.top:9087/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
+世界地理频高,http://www.zzlag.top:9087/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
+兵器科技频高,http://www.zzlag.top:9087/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&down=1
+怀旧剧场频高,http://www.zzlag.top:9087/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
+第一剧场频高,http://www.zzlag.top:9087/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
+风云剧场频高,http://www.zzlag.top:9087/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
+风云音乐频高,http://www.zzlag.top:9087/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+文化精品频高,http://www.zzlag.top:9087/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
+中国教育频高,http://www.zzlag.top:9087/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+北京卫视频高,http://www.zzlag.top:9087/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&down=1
+东方卫视频高,http://www.zzlag.top:9087/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&down=1
+江苏卫视频高,http://www.zzlag.top:9087/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&down=1
+浙江卫视频高,http://www.zzlag.top:9087/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&down=1
+湖南卫视频高,http://www.zzlag.top:9087/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&down=1
+广东卫视频高,http://www.zzlag.top:9087/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&down=1
+深圳卫视频高,http://www.zzlag.top:9087/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&down=1
+天津卫视频高,http://www.zzlag.top:9087/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&down=1
+安徽卫视频高,http://www.zzlag.top:9087/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&down=1
+山东卫视频高,http://www.zzlag.top:9087/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&down=1
+湖北卫视频高,http://www.zzlag.top:9087/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&down=1
+贵州卫视频高,http://www.zzlag.top:9087/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&down=1
+重庆卫视频高,http://www.zzlag.top:9087/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&down=1
+东南卫视频高,http://www.zzlag.top:9087/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1
+河北卫视频高,http://www.zzlag.top:9087/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&down=1
+江西卫视频高,http://www.zzlag.top:9087/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&down=1
+辽宁卫视频高,http://www.zzlag.top:9087/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&down=1
+吉林卫视频高,http://www.zzlag.top:9087/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&down=1
+四川卫视频高,http://www.zzlag.top:9087/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&down=1
+河南卫视频高,http://www.zzlag.top:9087/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&down=1
+海南卫视频高,http://www.zzlag.top:9087/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&down=1
+南方卫视频高,http://www.zzlag.top:9087/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
+甘肃卫视频高,http://www.zzlag.top:9087/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&down=1
+云南卫视频高,http://www.zzlag.top:9087/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&down=1
+青海卫视频高,http://www.zzlag.top:9087/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&down=1
+三沙卫视频高,http://www.zzlag.top:9087/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
+山西卫视频标,http://www.zzlag.top:9087/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&down=1
+广西卫视频标,http://www.zzlag.top:9087/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&down=1
+宁夏卫视频标,http://www.zzlag.top:9087/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&down=1
+陕西卫视频标,http://www.zzlag.top:9087/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&down=1
+内蒙古视频标,http://www.zzlag.top:9087/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&down=1
+黑龙江视频高,http://www.zzlag.top:9087/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&down=1
+北京纪实频高,http://www.zzlag.top:9087/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&down=1
+金鹰纪实频高,http://www.zzlag.top:9087/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&down=1
+
 🌏临时港闽,#genre#
 
 Plus综合频道,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
