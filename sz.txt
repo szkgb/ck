@@ -282,18 +282,25 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 🌏港澳台,#genre#
 
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
+凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://45.89.104.154/mlTW3586.php?id=phoenixtv_hd
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://45.89.104.154/mlTW3586.php?id=phoenixinfo_hd
+凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://45.89.104.154/mlTW3586.php?id=hkphoenix_twn
 Now新闻台,P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
+TVB翡翠台http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB新闻台,mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 TVB新闻台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
@@ -301,6 +308,7 @@ TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
 TVB明珠台,P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
 无线Plus台,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
+TVB星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB娱乐新闻台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
 TVB财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
