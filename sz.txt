@@ -282,18 +282,14 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 🌏港澳台,#genre#
 
-凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
+凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰中文,http://45.89.104.154/mlTW3586.php?id=phoenixtv_hd
-凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
+凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰资讯,http://45.89.104.154/mlTW3586.php?id=phoenixinfo_hd
 凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -374,6 +370,10 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来体育台,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 FashionTV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 FashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
