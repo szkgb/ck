@@ -564,21 +564,95 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 🏠汕头,#genre#
 
-汕头综合,http://113.89.245.163:4200/udp/239.77.1.130:5146
-汕头综合,http://113.89.245.163:4200/udp/239.253.43.45:5146
+汕头综合,http://113.65.253.11:7777/udp/239.77.1.130:5146
+汕头综合,http://113.65.253.11:7777/udp/239.253.43.45:5146
 汕头综合,http://14.154.189.204:4022/udp/239.77.1.130:5146
 汕头综合,http://14.154.189.204:4022/udp/239.253.43.45:5146
 汕头综合,https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv
-汕头经济生活,http://113.89.245.163:4200/udp/239.77.1.131:5146
-汕头经济生活,http://113.89.245.163:4200/udp/239.253.43.46:5146
+汕头经济生活,http://113.65.253.11:7777/udp/239.77.1.131:5146
+汕头经济生活,http://113.65.253.11:7777/udp/239.253.43.46:5146
 汕头经济生活,http://14.154.189.204:4022/udp/239.77.1.131:5146
 汕头经济生活,http://14.154.189.204:4022/udp/239.253.43.46:5146
 汕头经济生活,https://stream1.freetv.fun/287336249dac4916bd0ac5c6c786f11c96405d7c7cb5a0464d6c7011adf9a89b.ctv
-汕头文旅体育,http://113.89.245.163:4200/udp/239.77.1.132:5146
-汕头文旅体育,http://113.89.245.163:4200/udp/239.253.43.47:5146
+汕头文旅体育,http://113.65.253.11:7777/udp/239.77.1.132:5146
+汕头文旅体育,http://113.65.253.11:7777/udp/239.253.43.47:5146
 汕头文旅体育,http://14.154.189.204:4022/udp/239.77.1.132:5146
 汕头文旅体育,http://14.154.189.204:4022/udp/239.253.43.47:5146
 汕头市小公园,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+
+📀闽南4Gtv,#genre#
+
+中天新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+东森新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+tvbs新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+寰宇新闻4Gtv,http://litv.zapi.us.kg/?id=litv-longturn14
+非凡新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+闽镜新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+民视新闻4Gtv,http://litv.zapi.us.kg/?id=litv-ftv13
+中视新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+华视新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+台视新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv051
+
+📀港闽AKtv,#genre#
+
+Plus综合AKtv,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+pₒₚc电影AKtv,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+Now星影AKtv,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
+Now爆谷AKtv,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+美亚电影AKtv,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+凤凰中文AKtv,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯AKtv,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港AKtv,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+中天新闻AKtv,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+有线新闻AKtv,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+无线新闻AKtv,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+无线翡翠AKtv,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+无线明珠AKtv,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+无线赛马AKtv,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+28ai赛马AKtv,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+黄金翡翠AKtv,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+无线娱乐AKtv,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+无线星河AKtv,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+无线经典AKtv,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+无线亚剧AKtv,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+无线翡剧AKtv,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+无线明剧AKtv,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+无线J1美AKtv,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+无线新美AKtv,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+VIUTV-粤AKtv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+VIUTV-英AKtv,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+tvbs新闻AKtv,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvbs新闻AKtv,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+tvbs闽南AKtv,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+寰宇新闻AKtv,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+三立新闻AKtv,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+中视闽南AKtv,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视闽南AKtv,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中天亚洲AKtv,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+靖天电影AKtv,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龙华电影AKtv,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龙华日韩AKtv,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+神州新闻AKtv,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+东方国际AKtv,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+国家地理AKtv,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+channeluAKtv,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+channel5AKtv,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+channel8AKtv,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+C+_香港AKtv,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+ThrIll_影AKtv,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+Nhk新闻AKtv,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+CNa新闻AKtv,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+TVN韩综AKtv,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+KIX_韩综AKtv,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+DW_综合AKtv,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+france24AKtv,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+rock影综AKtv,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+Nick综合AKtv,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Nick卡通AKtv,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+AniMAX_AKtv,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+ZooMoo-AKtv,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+日本新闻AKtv,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+泰语购物AKtv,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 
 📀日韩线路,#genre#
 
