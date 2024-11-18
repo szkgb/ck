@@ -92,43 +92,6 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 兵团卫视频道,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
-🌏港闽频限,#genre#
-Plus综合频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
-pₒₚc电影频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a27-golive.flv
-凤凰中文频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah001-golive.flv
-凤凰资讯频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah002-golive.flv
-凤凰香港频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah003-golive.flv
-有线新闻频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b49-golive.flv
-无线新闻频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv
-无线新闻频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a20-golive.flv
-Now新闻频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
-Now财经频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
-有线综讯频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b48-golive.flv
-有线赛讯频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b47-golive.flv
-有线赛马频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a17-golive.flv
-黄金翡翠频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a11-golive.flv
-黄金华剧频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a12-golive.flv
-无线翡翠频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
-无线明珠频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah008-golive.flv
-无线娱乐频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah009-golive.flv
-千禧经典频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
-千禧经典频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a19-golive.flv
-无线经典频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a13-golive.flv
-无线华剧频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a15-golive.flv
-无线亚剧频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b37-golive.flv
-无线粤片频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b38-golive.flv
-无线戏曲频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a14-golive.flv
-美亚电影频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a23-golive.flv
-创世电视频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a24-golive.flv
-RTHK-31频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a25-golive.flv
-RTHK-32频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a26-golive.flv
-rock娱乐频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
-AXN电影频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b32-golive.flv
-thrill电影频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
-TVN韩综频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
-国家地理频限,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
-
-
 🌟央视V6,#genre#
 
 CCTV-1综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -364,18 +327,12 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 汕头综合,http://113.65.253.11:7777/udp/239.77.1.130:5146
 汕头综合,http://113.65.253.11:7777/udp/239.253.43.45:5146
-汕头综合,http://14.154.189.204:4022/udp/239.77.1.130:5146
-汕头综合,http://14.154.189.204:4022/udp/239.253.43.45:5146
 汕头综合,https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv
 汕头经济生活,http://113.65.253.11:7777/udp/239.77.1.131:5146
 汕头经济生活,http://113.65.253.11:7777/udp/239.253.43.46:5146
-汕头经济生活,http://14.154.189.204:4022/udp/239.77.1.131:5146
-汕头经济生活,http://14.154.189.204:4022/udp/239.253.43.46:5146
 汕头经济生活,https://stream1.freetv.fun/287336249dac4916bd0ac5c6c786f11c96405d7c7cb5a0464d6c7011adf9a89b.ctv
 汕头文旅体育,http://113.65.253.11:7777/udp/239.77.1.132:5146
 汕头文旅体育,http://113.65.253.11:7777/udp/239.253.43.47:5146
-汕头文旅体育,http://14.154.189.204:4022/udp/239.77.1.132:5146
-汕头文旅体育,http://14.154.189.204:4022/udp/239.253.43.47:5146
 汕头市小公园,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 
 📀闽南4Gtv,#genre#
