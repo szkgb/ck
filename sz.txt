@@ -465,39 +465,18 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 🌏港澳台,#genre#
 
-凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
-凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
-凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-凤凰香港,http://45.89.104.154/mlTW3586.php?id=hkphoenix_twn
-Now新闻台,P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
 TVB翡翠台http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB新闻台,mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
-TVB新闻台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-TVB明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
-TVB明珠台,P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
-无线Plus台,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 TVB星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB娱乐新闻台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
-TVB财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线戏曲台,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-HOY78台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
@@ -514,38 +493,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 东森超视台,rtmp://f13h.mine.nu/sat/tv331
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
-TVBS新闻,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
-TVBS新闻,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
-民视新闻,http://tw.ts138.top/4g/?id=litv-ftv13
-民视新闻,https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
-中天新闻频加,http://103.193.151.158:8500/live.m3u8?c=2
 中天新闻,http://139.196.45.155:80/中天新闻-盗源者死全家/易發TV/hls.m3u8
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
-中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=50
-中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=51
-中视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv074
-中视新闻,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
-华视新闻,http://8.137.59.151:3009/TV2/gat.php?id=109
-华视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv052
-台视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv051
-年代新闻,P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
-年代新闻,P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
-年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
-年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-年代新闻,mitv://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
-东森财经新闻台,http://194.87.101.118/live.m3u8?c=14
-东森新闻,P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4
-三立新闻,http://8.137.59.151:3009/TV2/gat.php?id=49
-三立新闻,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
-三立新闻,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
-非凡新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv010
-非凡新闻,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09
-非凡新闻,P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
-闽镜新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv075
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
