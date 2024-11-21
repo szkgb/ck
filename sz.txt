@@ -12,7 +12,10 @@
 北京IPTV淘电影,http://106.120.14.74:2333/udp/225.1.8.38:8002
 北京IPTV淘娱乐,http://106.120.14.74:2333/udp/225.1.8.61:8002
 北京IPTV萌宠TV,http://106.120.14.74:2333/udp/225.1.8.63:8002
-北京IPTV4K,http://106.120.14.74:2333/udp/225.1.8.211:8002
+北京IPTV4K,http://106.12峨眉电影4K,http://60.255.240.247:8090/live/emdy4k_8000.m3u8
+欢笑剧场_4K,http://60.255.240.247:8090/live/hxjc-4k_8000.m3u8
+北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K0.14.74:2333/udp/225.1.8.211:8002
+lovenature4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 🌏央卫频道,#genre#
 
@@ -317,7 +320,9 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 中天新闻,http://139.196.45.155:80/中天新闻-盗源者死全家/易發TV/hls.m3u8
+中天新闻,http://211.72.65.236:8541/.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+寰宇新闻,http://211.72.65.236:8547/.m3u8
 寰宇新闻,p3p://108.181.32.169:23504/64295eb60008744efaf37ae07d17520b
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
