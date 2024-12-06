@@ -340,6 +340,7 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 汕头文旅体育,http://14.112.86.101:4022/rtp/239.77.1.132:5146
 汕头文旅体育,http://14.112.86.101:4022/rtp/239.253.43.47:5146
 汕头市小公园,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+深圳红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 
 📀闽南4Gtv,#genre#
 
