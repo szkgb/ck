@@ -244,6 +244,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 🌏港澳台,#genre#
 
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
+凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
