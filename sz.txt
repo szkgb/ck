@@ -206,6 +206,11 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 💝广东频道,#genre#
 
+广东珠江,http://219.159.194.172:8181/tsfile/live/1000_1.m3u8
+广东新闻,http://219.159.194.172:8181/tsfile/live/1007_1.m3u8
+广东民生,http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
+广东体育,http://219.159.194.172:8181/tsfile/live/1001_1.m3u8
+广东影视,http://219.159.194.172:8181/tsfile/live/1004_1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -250,6 +255,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+无线新闻,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 TVB翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
