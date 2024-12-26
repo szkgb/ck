@@ -248,12 +248,14 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 🌏港澳台,#genre#
 
+凤凰中文,http://kxrj.site:12581/665/fh.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+凤凰资讯,http://kxrj.site:12581/665/fh.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+凤凰香港,http://kxrj.site:12581/665/fh.php?id=fhhk
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线新闻,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
@@ -277,27 +279,24 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 华视,rtmp://f13h.mine.nu/sat/tv111
 东森超视台,rtmp://f13h.mine.nu/sat/tv331
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://59.127.17.227:8597/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
-TVBS新闻,p3p://108.181.32.169:42218/64252188000673fcea647eb0397d464d
+TVBS新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv072
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-中天新闻,http://114.33.60.49:8541/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
-寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
+中天新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv009
+中天亚洲台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv109
+寰宇新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn14
 寰宇新闻,http://114.33.60.49:8513/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-寰宇新闻台湾台,https://litv.zapi.us.kg/?id=litv-longturn15
-东森新闻,http://59.127.17.227:8597/http/61.67.128.137:8081/hls/63/805/ch10.m3u8
-东森新闻,p3p://108.181.32.169:42218/64251f9700046520ea5ce8b85b6c11da
-非凡新闻,http://59.127.17.227:8544/http/61.67.128.137:8081/hls/75/817/ch57.m3u8
-非凡新闻,p3p://108.181.32.169:42218/64258e8600060f7eec0e3ebd6c49020e
-三立新闻,http://59.127.17.227:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8
-三立新闻,p3p://108.181.32.169:42218/64251e23000bcd04ea573d7c0f0a002e
+寰宇新闻台湾台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn15
+东森新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv152
+非凡新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv010
+三立新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/229
 年代新闻,http://59.127.17.227:8514/http/61.67.128.137:8081/hls/67/809/ch27.m3u8
 年代新闻,p3p://108.181.32.169:42218/645b2569000acf2fbd624de55e212fb2
+台视新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv051
 壹新闻,http://59.127.17.227:8548/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
 壹新闻,p3p://108.181.32.169:42218/642521bd0005dfe9ea654d921969472d
-民视新闻,http://59.127.17.227:8542/http/61.67.128.137:8081/hls/73/815/ch51.m3u8
-民视新闻,p3p://108.181.32.169:42218/64c859e10007934267f487ac0fa618e0
-中视新闻,p3p://108.181.32.169:25221/642d016e000643ab0926e0907da252ca
+镜电视新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv075
+民视新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv13
+中视新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv074
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
