@@ -284,7 +284,6 @@ TVBS新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/l
 中天新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv009
 中天亚洲台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv109
 寰宇新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn14
-寰宇新闻,http://114.33.60.49:8513/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 寰宇新闻台湾台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn15
 东森新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv152
 非凡新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv010
