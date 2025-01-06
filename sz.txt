@@ -307,6 +307,9 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 FashionTV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 FashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
