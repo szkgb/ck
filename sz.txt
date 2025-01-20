@@ -226,6 +226,10 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 华视,rtmp://f13h.mine.nu/sat/tv111
 东森超视台,rtmp://f13h.mine.nu/sat/tv331
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d686e9ec5c6eda876ad3695acb7d31e6
+TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
@@ -262,13 +266,7 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 🏠汕头,#genre#
 
 汕头综合,https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv
-汕头综合,http://113.100.72.88:8899/udp/239.253.43.45:5146
-汕头综合,http://113.65.5.217:85/udp/239.77.1.130:5146
-汕头综合,http://113.65.5.217:85/udp/239.253.43.45:5146
 汕头经济生活,https://stream1.freetv.fun/287336249dac4916bd0ac5c6c786f11c96405d7c7cb5a0464d6c7011adf9a89b.ctv
-汕头经济生活,http://113.100.72.88:8899/udp/239.253.43.46:5146
-汕头经济生活,http://113.65.5.217:85/udp/239.77.1.131:5146
-汕头经济生活,http://113.65.5.217:85/udp/239.253.43.46:5146
 汕头文旅体育,http://113.100.72.88:8899/udp/239.77.1.132:5146
 汕头文旅体育,http://113.100.72.88:8899/udp/239.253.43.47:5146
 汕头文旅体育,http://113.65.5.217:85/udp/239.77.1.132:5146
