@@ -200,7 +200,12 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 🌏港澳台,#genre#
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94c9b15cff25b978e637ccd4720b9f20
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 无线新闻,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -222,6 +227,11 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 东森超视台,rtmp://f13h.mine.nu/sat/tv331
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
+中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e54497f1f00af5ef3ebb4cc3bdcccd7b
 寰宇新闻,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde
 寰宇新闻,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn14
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -239,6 +249,7 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+時尚FTV,http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
