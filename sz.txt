@@ -203,11 +203,6 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 
 💝广东频道,#genre#
 
-广东珠江,http://219.159.194.172:8181/tsfile/live/1000_1.m3u8
-广东新闻,http://219.159.194.172:8181/tsfile/live/1007_1.m3u8
-广东民生,http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
-广东体育,http://219.159.194.172:8181/tsfile/live/1001_1.m3u8
-广东影视,http://219.159.194.172:8181/tsfile/live/1004_1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
