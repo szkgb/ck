@@ -498,7 +498,11 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 
 🏠汕头,#genre#
 
-汕头综合,https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
+汕头综合,https://stream1.freetv.fun/dc908e40c20eab71dc70b537a6c3b778ec7ff725126a5a2cb43ed7cc89e16737.ctv
+汕头综合,https://stream1.freetv.fun/5b9e54af40320a67df5e05285f5c9df21161a6318e321b85f57bbd878ac64935.ctv
+汕头综合,https://stream1.freetv.fun/4c0697159291e0b3c60ef085a497800adf206214021e05c68d3819971b87425d.ctv
+汕头综合,https://stream1.freetv.fun/a794cf282e739e983950cb4b21c14efbc997af480977b2cdb5d8daeb68f49650.ctv
 汕头综合,http://125.89.163.44:8888/udp/239.77.1.130:5146
 汕头综合,http://125.89.163.44:8888/udp/239.253.43.45:5146
 汕头经济生活,https://stream1.freetv.fun/287336249dac4916bd0ac5c6c786f11c96405d7c7cb5a0464d6c7011adf9a89b.ctv
