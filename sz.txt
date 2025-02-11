@@ -291,6 +291,56 @@ CETV-04高清,http://119.32.12.32:2901/udp/224.1.100.109:11111
 云浮综合台,https://livestream.oeeee.com/slive/17806.m3u8
 云浮文旅台,https://livestream.oeeee.com/slive/17807.m3u8
 
+🌏闽南频解,#genre#
+
+中天新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477695.m3u8
+中天新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/489006.m3u8
+东森新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8
+东森新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/479200.m3u8
+寰宇新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
+非凡新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477083.m3u8
+三立新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/492922.m3u8
+年代新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477030.m3u8
+闽壹新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477087.m3u8
+民视新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477080.m3u8
+中视新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476269.m3u8
+华视新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476266.m3u8
+台视新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476268.m3u8
+凤凰资讯'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476961.m3u8
+凤凰中文'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476962.m3u8
+凤凰香港'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476963.m3u8
+凤凰香港'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8
+有线新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476957.m3u8
+无线新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476925.m3u8
+Now新闻'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477070.m3u8
+Now财经'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477534.m3u8
+Plus综合'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476931.m3u8
+Plus综合'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476933.m3u8
+VIUTV粤'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477538.m3u8
+VIUTV英'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476939.m3u8
+Ftv1时代'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477609.m3u8
+Ftv2时代'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476215.m3u8
+tvb1综合'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3u8
+无线翡翠'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476927.m3u8
+无线明珠'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476935.m3u8
+有线综讯'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476213.m3u8
+有线综讯'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/481867.m3u8
+无线赛马'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477555.m3u8
+无线星河'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476200.m3u8
+无线经典'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476210.m3u8
+无线功夫'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476226.m3u8
+无线粤片'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476225.m3u8
+无线戏曲'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477553.m3u8
+无线综艺'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477547.m3u8
+无线综壹'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477554.m3u8
+无线综贰'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477551.m3u8
+无线亚剧'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477549.m3u8
+无线华语'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477550.m3u8
+天映频道'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476310.m3u8
+美亚电影'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476212.m3u8
+华纳电影'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476977.m3u8
+尼克动画'EXO,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477025.m3u8
+
 🌏港澳台,#genre#
 
 凤凰中文,http://ttkx.cc:1380/公开源/fh.php?id=fhzw
