@@ -490,10 +490,7 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
-FashionTV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 FashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FASHIONTV,https://stream1.freetv.fun/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5486496e9ff9.m3u8
 Fashion TV,https://stream1.freetv.fun/cd60e39dc2f9a84b78062cff16be152709fa2acdff8e80aef9303007aa9713d8.m3u8
