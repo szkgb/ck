@@ -497,18 +497,13 @@ FashionTV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FASHIONTV,https://stream1.freetv.fun/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5486496e9ff9.m3u8
 Fashion TV,https://stream1.freetv.fun/cd60e39dc2f9a84b78062cff16be152709fa2acdff8e80aef9303007aa9713d8.m3u8
-Fashion TV,https://stream1.freetv.fun/6d2687743688f192d31e8732c8aed9420cdfae89ee815a6bb708f6b681ab3e38.m3u8
-Fashion TV,https://stream1.freetv.fun/cd20cf27789ddbacb38c83494c2f9e600894cb3935add8051d2a4062be47e456.m3u8
 Fashion TV,https://stream1.freetv.fun/e1bfde7671b19a3cd26cfe0ad3ea9c5c56f6c2bb042cbad06c5ea30c428e04ab.m3u8
 Fashion TV,https://stream1.freetv.fun/8352afc8c658818733b75985c4f691e617bb076ea915b07761dac0c44876d066.m3u8
 Fashion TV,https://stream1.freetv.fun/016e9d73d68c84070ece9dfc1c7278c279fb6653e6a29a20d39b1e83255b51b1.m3u8
 Fashion TV,https://stream1.freetv.fun/2e13667446f83ae6b5e0645107139f72273b3f60e89450a266f33942a88f92d6.m3u8
-Fashion TV,https://stream1.freetv.fun/085eef84fd7311964d5193efcc34ea926c8ced862118300fe15b05ea71514208.m3u8
 Fashion TV,https://stream1.freetv.fun/b26405f61be3b79be99728ec6d985737a518eacda849bd4284ed818a521d16fd.m3u8
 Fashion TV[geo-blocked],https://stream1.freetv.fun/a577f98e500bdd829d92a81915dbb575d7d884516cb8800703f51655844ffc2c.m3u8
 Fashion TV,https://stream1.freetv.fun/3f134c5dd3633f9e49f789787ff9cc6da8a96684625bfea75efab2386b89106b.m3u8
-Fashion TV,https://stream1.freetv.fun/971b30d1f3c3082bb5123116aa559d87460e11568085adba0c226d9bb10528c7.m3u8
-Fashion TV,https://stream1.freetv.fun/6ed007c1b3eb9ce9244ec1f0bb5460f43150e506cc4ebe7ad5d19d5df08f64a3.m3u8
 Fashion TV,https://stream1.freetv.fun/4e395d34efc0b5fc235bdc6b10af4eb07a0e2e8669ad4a22bafd355aac511ba5.m3u8
 Fashion TV,https://stream1.freetv.fun/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b781f7bcf6d18d38fd2669c.m3u8
 Fashion World,https://stream1.freetv.fun/85e22d38728080507d9f861eec46137ca7000601b06c351a84a64cc6aef23628.m3u8
