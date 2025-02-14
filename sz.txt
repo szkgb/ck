@@ -780,7 +780,7 @@ Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e
 福建武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
 河北承德避暑山庄,http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
 
-🐼广东,#genre#
+广东,#genre#
 
 广东珠江,http://14.112.86.101:4022/rtp/239.77.0.3:5146
 广东珠江,http://14.112.86.101:4022/rtp/239.77.1.94:5146
