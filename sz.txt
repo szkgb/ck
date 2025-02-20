@@ -8,6 +8,19 @@ lovenature4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+🌟哪吒,#genre#
+
+哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
+哪吒2闹海,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8
+美国队长4,https://cdn7.ryplay7.com/20250217/10692_fbe18652/index.m3u8
+峡谷2025HD中,https://cdn7.ryplay7.com/20250215/10678_9c49fdd1/index.m3u8
+死待与金刚狼H,https://svip.high21-playback.com/20241103/39766_5615a4fa/index.m3u8
+神偷奶爸4国语,https://svip.high21-playback.com/20241018/39470_042b09a4/index.m3u8
+危机航线-HD国,https://svip.high21-playback.com/20241129/40285_ed081458/index.m3u8
+九龙城寨-HD国,https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/index.m3u8
+九龙城寨-HD粤,https://svipsvip.ffzy-online5.com/20240621/28900_f7dce56e/index.m3u8
+
+
 🌏央卫咪咕,#genre#
 
 CCTV-01咪咕,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -506,6 +519,19 @@ Fashion TV,https://stream1.freetv.fun/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b
 Fashion World,https://stream1.freetv.fun/85e22d38728080507d9f861eec46137ca7000601b06c351a84a64cc6aef23628.m3u8
 Fashion World[geo-blocked],https://stream1.freetv.fun/5e37b6770128701e350d9afc7e4fd81fc7e1c5b36d54f4cc4a179f98a4f757bf.m3u8
 Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e5a7539f81705e495cdd388bc7.m3u8
+
+🏠广东潮汕,#genre#
+
+潮州综合联通,http://120.86.230.81:9003//hls/1/index.m3u8
+潮州公共联通,http://120.86.230.81:9003//hls/2/index.m3u8
+汕头综合联通,http://120.86.230.81:9003//hls/3/index.m3u8
+汕头生活联通,http://120.86.230.81:9003//hls/4/index.m3u8
+汕头文旅联通,http://120.86.230.81:9003//hls/5/index.m3u8
+揭阳综合联通,http://120.86.230.81:9003//hls/6/index.m3u8
+揭阳生活联通,http://120.86.230.81:9003//hls/7/index.m3u8
+饶平频道联通,http://120.86.230.81:9003//hls/8/index.m3u8
+潮安综合联通,http://120.86.230.81:9003//hls/9/index.m3u8
+深圳电视联通,http://120.86.230.81:9003//hls/10/index.m3u8
 
 🏠汕头,#genre#
 
