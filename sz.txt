@@ -150,6 +150,12 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
+广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
+广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
+广州南国,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -159,25 +165,13 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
-广州综合台,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州新闻台,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州竞赛台,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视台,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治台,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-佛山综合台,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视台,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共台,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海台,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德台,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明台,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-佛山三水台,http://php.jdshipin.com:8880/fstv.php?id=fsss
-南国都市台,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 梅州生活台,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.flv
 梅州客家台,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.flv
 河源综合台,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 云浮综合台,https://livestream.oeeee.com/slive/17806.m3u8
 云浮文旅台,https://livestream.oeeee.com/slive/17807.m3u8
+广西天等频道,rtmp://live.gxrb.com.cn/gx/tiandeng
 
 🌏港澳台,#genre#
 
@@ -554,26 +548,6 @@ Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e
 福建武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
 河北承德避暑山庄,http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
 
-广东,#genre#
 
-广州综合频道,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-广州新闻频道,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-广州竞赛频道,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
-广州影视频道,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
-广州法治频道,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
-广州南国频道,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-广州综合频道,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州新闻频道,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州竞赛频道,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视频道,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治频道,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广西天等频道,rtmp://live.gxrb.com.cn/gx/tiandeng
-佛山影视频道,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共频道,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山高明频道,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-南国都市频道,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-番禺电视频道,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-河源综合频道,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-云浮综合频道,https://livestream.oeeee.com/slive/17806.m3u8
-云浮文旅频道,https://livestream.oeeee.com/slive/17807.m3u8
+
 
