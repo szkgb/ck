@@ -175,21 +175,11 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 
 🌏港澳台,#genre#
 
-凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
-凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476963.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-无线新闻,http://vallest.uk/livehttpplay?channel_id=20123
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.m3u8
@@ -226,10 +216,7 @@ TVB PLUS,http://cdn.163189.xyz/live/?id=tvbp
 华视,rtmp://f13h.mine.nu/sat/tv111
 东森超视台,rtmp://f13h.mine.nu/sat/tv331
 TVBS新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
-TVBS新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
 中天新闻,http://live.iill.top/youtube/vr3XyVCR4T0
 中天新闻,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
@@ -244,14 +231,7 @@ TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-9.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
-中视新闻,https://stream1.freetv.fun/zhong-shi-xin-wen-2.m3u8
-中视新闻,https://stream1.freetv.fun/zhong-shi-xin-wen-4.m3u8
-华视新闻,https://stream1.freetv.fun/hua-shi-xin-wen-4.m3u8
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
-台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8
-台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-20.m3u8
-台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-6.m3u8
-台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-7.m3u8
 镜新闻,rtmp://live.iwcmt.cn:1936/live/zhxw
 镜新闻,https://stream1.freetv.fun/xin-wen-1.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
