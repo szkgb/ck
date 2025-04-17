@@ -270,7 +270,6 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 镜新闻,rtmp://live.iwcmt.cn:1936/live/zhxw
 镜新闻,https://stream1.freetv.fun/xin-wen-1.m3u8
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
@@ -278,14 +277,10 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+時尚台FTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 FashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 Fashion World,https://stream1.freetv.fun/85e22d38728080507d9f861eec46137ca7000601b06c351a84a64cc6aef23628.m3u8
 Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e5a7539f81705e495cdd388bc7.m3u8
