@@ -248,14 +248,13 @@ TVB PLUS,http://cdn.163189.xyz/live/?id=tvbp
 TVBS新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 TVBS新闻,http://122.117.71.103:8541/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
+中天新闻,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻,http://live.iill.top/youtube/vr3XyVCR4T0
 中天新闻,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 中天新闻,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-中天新闻,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
-寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
+中天新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+寰宇新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
 寰宇新闻,http://live.iill.top/youtube/@globalnewstw/live
 寰宇新闻,http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 年代新闻,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
