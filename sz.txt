@@ -210,7 +210,6 @@ CETV-04高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111
 无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-无线翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
@@ -220,13 +219,11 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 生命电视台,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 台视,rtmp://f13h.mine.nu/sat/tv071
-台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-东森超视台,rtmp://f13h.mine.nu/sat/tv331
 tvbs闽南,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv073
-tvbs闽南,http://ali.hlspull.yximgs.com/live/12388tdnladisbsbsbilddsshabibscbmlTTvbsmytv6peqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+tvbs新闻,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
 tvbs新闻,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=TVBS新闻台
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
@@ -237,9 +234,6 @@ tvbs新闻,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=TVBS新闻�
 寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XNkGn6bw9KKiK2y0RcgHRVke7yQhC5PkQ4hkeRMVJUGHhzCm45.flv
 寰宇新闻,https://www.judy.xx.kg/judy.php?id=litv-longturn14
 寰宇闽南,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv156
-中视新闻,http://ali.hlspull.yximgs.com/live/12388tdnladisbsbsbilddsshabibscbmlabceqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
-tvbs新闻,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
-民视新闻,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
