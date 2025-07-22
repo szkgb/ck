@@ -227,12 +227,8 @@ tvbs新闻,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
 tvbs新闻,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=TVBS新闻台
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/KNxQhC5Pd0QWdsDuYnX84iZanamxeIGuZ1rGHgVlSPqkHm8y1E.flv
-中天新闻,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
 中天新闻加,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
 寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
-寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XNkGn6bw9KKiK2y0RcgHRVke7yQhC5PkQ4hkeRMVJUGHhzCm45.flv
-寰宇新闻,https://www.judy.xx.kg/judy.php?id=litv-longturn14
 寰宇闽南,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv156
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -256,11 +252,13 @@ Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e
 🏠汕头,#genre#
 
 汕头综合,http://113.103.52.51:8686/udp/239.77.1.130:5146
+汕头综合,http://113.103.52.51:8686/udp/239.253.43.45:5146
 汕头综合1,http://113.117.107.239:8800/udp/239.77.1.130:5146
 汕头综合2,http://61.144.148.139:4000/udp/239.77.1.130:5146
 汕头综合3,http://61.144.148.139:4000/udp/239.253.43.45:5146
 汕头综合4,http://14.19.203.68:4022/udp/239.253.43.45:5146
-汕头经济生活1,http://113.103.52.51:8686/udp/239.77.1.131:5146
+汕头经济生活,http://113.103.52.51:8686/udp/239.77.1.131:5146
+汕头经济生活,http://113.103.52.51:8686/udp/239.253.43.46:5146
 汕头经济生活1,http://113.117.107.239:8800/udp/239.77.1.131:5146
 汕头经济生活2,http://61.144.148.139:4000/udp/239.77.1.131:5146
 汕头经济生活3,http://61.144.148.139:4000/udp/239.253.43.46:5146
