@@ -351,32 +351,31 @@ Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e
 
 💃直播中国,#genre#
 
-汕头市小公园,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
-深圳红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-直播中国精编直播,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-贵州遵义黄果树瀑布,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+青海李家峡水电站,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广东韶关车八岭,http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-陕西渭南大荔县,http://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-安徽宣城溪桃,http://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+广东广州白江湖,http://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+四川成都环球中心,http://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 西藏林芝工步江达,http://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-四川峨眉山云海日出,http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+安徽黄山始信新道,http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 浙江舟山嵊泗县,http://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 祁连县国家公园,http://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 山西大同,http://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-安徽黄山黟县,http://gcalic.v.myalicdn.com/gc/wysyxdhp_1/index.m3u8
-新疆天山(定海神针),http://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+安徽黄山平天矼,http://gcalic.v.myalicdn.com/gc/wysyxdhp_1/index.m3u8
+河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 河南平顶山鲁山县,http://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
 河南信阳浉河港镇,http://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
 云南普洱澜沧县,http://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-陕西渭南韩城市,http://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-新疆昌吉州天山天池,http://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-云南普洱景东县,http://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+甘肃兰州中山桥,http://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+安徽黄山光明顶,http://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+江苏无锡亀头渚,http://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 陕西西安钟楼,http://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 西藏林芝南迦巴瓦,http://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 山东青岛艾山天文台,http://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 重庆渝中李子坝,http://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 南京玄武湖公园,http://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-内蒙古呼和浩特赛罕区,http://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+广东广州绿美白江湖,http://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 云南保山板桥镇,http://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
 陕西渭南潼关县,http://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 云南丽江玉龙雪山草甸,http://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
