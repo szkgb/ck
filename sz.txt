@@ -182,9 +182,11 @@ tvbs新闻,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=TVBS新闻�
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新闻,http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939
 中天新闻,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
+中天新闻,https://live.catvod.com/catvod_com.php?id=ctinews
 寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
 寰宇新闻,http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539
 寰宇新闻,http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132
+寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 寰宇闽南,http://api.mytv666.top/api/hk.php?id=3033373433646530353534613238376432643166376430666330623766303633267469643d74762669643d313133
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
