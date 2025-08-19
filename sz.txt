@@ -312,18 +312,12 @@ tvbs闽南,http://api.mytv666.top/api/hk.php?id=63383537653930313139643638303962
 tvbs闽南,http://api.mytv666.top/api/hk.php?id=3266393834623966663864373438353433313662666237356336646262653465267469643d74762669643d3937
 tvbs新闻,http://api.mytv666.top/api/hk.php?id=6437303339323237356232633666346535353937623264636361613238353236267469643d74762669643d3633
 tvbs新闻,http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw1.flv
 中天新闻,http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻加,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw202.flv
-寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
-寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 寰宇新闻,http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539
 寰宇新闻,http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132
-寰宇新闻,http://bxtv.3a.ink/api.php?id=hyxw
 寰宇闽南,http://api.mytv666.top/api/hk.php?id=6663313334653639326536343765613362363865383137386639663930323237267469643d74762669643d3630
 寰宇闽南,http://api.mytv666.top/api/hk.php?id=3033373433646530353534613238376432643166376430666330623766303633267469643d74762669643d313133
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
@@ -357,9 +351,6 @@ Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e
 汕头经济生活,http://113.102.83.52:4022/udp/239.253.43.46:5146
 汕头文旅体育,http://61.145.188.90:60022/udp/239.77.1.132:5146
 汕头文旅体育,http://61.145.188.90:60022/udp/239.253.43.47:5146
-汕头文旅体育,http://113.102.83.52:4022/udp/239.77.1.132:5146
-汕头文旅体育,http://113.102.83.52:4022/udp/239.253.43.47:5146
-汕头经济电信,http://rustdesk.szsun.xyz:8088/udp/239.77.1.131:5146
 
 💃历年春晚,#genre#
 	
