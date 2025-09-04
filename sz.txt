@@ -1,16 +1,9 @@
 
 🌟4K,#genre#
 
-北京卫视频4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
-深圳卫视频4k,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogeszws4k.flv
-深圳卫视频4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+2025-9-3阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
-爱自然4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K0.14.74:2333/udp/225.1.8.211:8002
-lovenature4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 🌟哪吒,#genre#
@@ -279,20 +272,19 @@ CETV-04高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111
 
 🌏港澳台,#genre#
 
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-凤凰资讯,https://edge.163189.xyz/163189/fhzx
-凤凰香港,https://edge.163189.xyz/163189/fhhk
-凤凰中文,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+无线新闻,http://iptv.4666888.xyz/iptv.php?id=20069
+无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+无线新闻,https://live3.jiatianxiazhuangshi.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfo6UZDdgNC09xXfFvAn4GP.flv
+无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
@@ -311,7 +303,7 @@ tvbs新闻,http://iptv.4666888.xyz/iptv.php?id=20168
 中天新闻,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
-中天新闻加,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
+中天新闻加,http://iptv.4666888.xyz/iptv.php?id=20181
 寰宇新闻,http://t.061899.xyz/tl/js/api.php?id=hyxw
 寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt
 寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
