@@ -2,12 +2,16 @@
 🌟4K,#genre#
 
 2025-9-3阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
+北京卫视频4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-🌟哪吒,#genre#
+🌟电影,#genre#
 
+东极岛国语,https://cdn.yzzy29-play.com/20250809/535_33e8075e/index.m3u8
+南京照相馆,https://cdn.yzzy29-play.com/20250728/431_66368270/index.m3u8
+浪浪山小妖,https://cdn.yzzy29-play.com/20250808/528_f4be0027/index.m3u8
 哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
 哪吒2闹海,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8
 美国队长4,https://cdn7.ryplay7.com/20250217/10692_fbe18652/index.m3u8
@@ -272,14 +276,24 @@ CETV-04高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111
 
 🌏港澳台,#genre#
 
-凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
-凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
-凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
+凤凰中文,https://jackcdn6.946985.qzz.io/live/fhzw/stream.m3u8
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰中文,http://j.s.bkpcp.top/js/fhzw
+凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,https://jackcdn6.946985.qzz.io/live/fhzx/stream.m3u8
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+凤凰香港,https://jackcdn6.946985.qzz.io/live/fhhk/stream.m3u8
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://iptv.4666888.xyz/iptv.php?id=20069
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 无线新闻,https://live3.jiatianxiazhuangshi.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfo6UZDdgNC09xXfFvAn4GP.flv
@@ -297,19 +311,33 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-tvbs新闻,http://iptv.4666888.xyz/iptv.php?id=20168
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
-中天新闻加,http://iptv.4666888.xyz/iptv.php?id=20181
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxwt
 寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt
 寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
 寰宇闽南,http://t.061899.xyz/tl/js/api.php?id=hyxwtw
 寰宇闽南,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
+
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
+中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
+中天新闻加,http://iptv.4666888.xyz/iptv.php?id=20181
+寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
+东森新闻,http://iptv.4666888.xyz/iptv.php?id=20174
+tvbs新闻,http://iptv.4666888.xyz/iptv.php?id=20168
+三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169
+年代新闻,http://iptv.4666888.xyz/iptv.php?id=20178
+非凡新闻,http://iptv.4666888.xyz/iptv.php?id=20179
+闽镜新闻,http://iptv.4666888.xyz/iptv.php?id=20180
+民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177
+中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
+台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172
 中旺电视,http://iptv.4666888.xyz/iptv.php?id=20187
 中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
-镜新闻,http://iptv.4666888.xyz/iptv.php?id=20180
+
 镜新闻,rtmp://live.iwcmt.cn:1936/live/zhxw
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
