@@ -335,13 +335,9 @@ tvbs新闻,http://iptv.4666888.xyz/iptv.php?id=20168
 民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177
 中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
 台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172
-中旺电视,http://iptv.4666888.xyz/iptv.php?id=20187
 中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
 
-镜新闻,rtmp://live.iwcmt.cn:1936/live/zhxw
-民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
