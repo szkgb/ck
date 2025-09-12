@@ -2,9 +2,22 @@
 🌟4K,#genre#
 
 2025-9-3阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
+CCTV-16超清4k,http://qjrhc.jydjd.top:2911/udp/225.1.1.4:7523
+CCTV-16超清4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.130:7523
+CCTV-4K超清清,http://qjrhc.jydjd.top:2911/udp/225.1.1.1:7523
+CCTV-4K超清清,http://qjrhc.jydjd.top:2911/udp/225.1.101.109:7523
+北京卫视频4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.72:7523
 北京卫视频4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
-苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
+广东卫视频4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.86:7523
+深圳卫视频4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.35:7523
+深圳卫视频4k,https://jackcdn3.946985.qzz.io/live/szws4k/stream.m3u8
+广东南国超4k,http://qjrhc.jydjd.top:2911/udp/225.1.1.2:7523
+广东南国超4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.202:7523
+广东超高清4k,http://qjrhc.jydjd.top:2911/udp/225.1.1.3:7523
+广东超高清4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.44:7523
+苏州4k频道,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4k频道,https://event.pull.hebtv.com:443/live/live101.m3u8
+无线翡翠4k,https://jackcdn6.946985.qzz.io/live/fct4k/stream.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 🌟电影,#genre#
