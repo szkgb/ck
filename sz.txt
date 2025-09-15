@@ -330,7 +330,6 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxwt
 寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt
 寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-寰宇闽南,http://t.061899.xyz/tl/js/api.php?id=hyxwtw
 寰宇闽南,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
 
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
