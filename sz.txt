@@ -289,17 +289,7 @@ CETV-04高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111
 
 🌏港澳台,#genre#
 
-凤凰中文,https://jackcdn6.946985.qzz.io/live/fhzw/stream.m3u8
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
-凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰资讯,https://jackcdn6.946985.qzz.io/live/fhzx/stream.m3u8
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-凤凰香港,https://jackcdn6.946985.qzz.io/live/fhhk/stream.m3u8
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
@@ -326,28 +316,6 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 华视,rtmp://f13h.mine.nu/sat/tv111
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxwt
-寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt
-寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-寰宇闽南,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
-
-凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
-凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
-凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
-中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
-中天新闻加,http://iptv.4666888.xyz/iptv.php?id=20181
-寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
-东森新闻,http://iptv.4666888.xyz/iptv.php?id=20174
-tvbs新闻,http://iptv.4666888.xyz/iptv.php?id=20168
-三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169
-年代新闻,http://iptv.4666888.xyz/iptv.php?id=20178
-非凡新闻,http://iptv.4666888.xyz/iptv.php?id=20179
-闽镜新闻,http://iptv.4666888.xyz/iptv.php?id=20180
-民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177
-中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
-台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172
-中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
 
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
@@ -369,22 +337,22 @@ Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e
 
 汕头综合,http://61.145.188.90:60022/udp/239.77.1.130:5146
 汕头综合,http://61.145.188.90:60022/udp/239.253.43.45:5146
-汕头综合,http://113.95.137.203:55555/udp/239.77.1.130:5146
-汕头综合,http://113.95.137.203:55555/udp/239.253.43.45:5146
+汕头综合,http://183.30.202.83:8000/udp/239.77.1.130:5146
+汕头综合,http://183.30.202.83:8000/udp/239.253.43.45:5146
 汕头综合,http://14.153.182.41:8686/udp/239.77.1.130:5146
 汕头综合,http://14.153.182.41:8686/udp/239.253.43.45:5146
 汕头综合,http://113.109.250.40:9999/udp/239.77.1.130:5146
 汕头综合,http://113.109.250.40:9999/udp/239.253.43.45:5146
 汕头经济生活,http://61.145.188.90:60022/udp/239.77.1.131:5146
 汕头经济生活,http://61.145.188.90:60022/udp/239.253.43.46:5146
-汕头经济生活,http://113.95.137.203:55555/udp/239.77.1.131:5146
-汕头经济生活,http://113.95.137.203:55555/udp/239.253.43.46:5146
+汕头经济生活,http://183.30.202.83:8000/udp/239.77.1.131:5146
+汕头经济生活,http://183.30.202.83:8000/udp/239.253.43.46:5146
 汕头经济生活,http://14.153.182.41:8686/udp/239.77.1.131:5146
 汕头经济生活,http://14.153.182.41:8686/udp/239.253.43.46:5146
 汕头经济生活,http://113.109.250.40:9999/udp/239.77.1.131:5146
 汕头经济生活,http://113.109.250.40:9999/udp/239.253.43.46:5146
-汕头文旅体育,http://113.109.250.40:9999/udp/239.77.1.132:5146
-汕头文旅体育,http://14.153.182.41:8686/udp/239.253.43.47:5146
+汕头文旅体育,http://183.30.202.83:8000/udp/239.77.1.132:5146
+汕头文旅体育,http://183.30.202.83:8000/udp/239.253.43.47:5146
 
 
 💃历年春晚,#genre#
