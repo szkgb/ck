@@ -317,14 +317,8 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新闻,https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
 寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-寰宇新闻,https://stream1.freetv.fun/f1aee25c74ec1e559ed86c00feb6074cef35d76d15a0d3f7019530b7ac094bcc.ctv
-寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
-寰宇新闻台湾,http://iptv.4666888.xyz/iptv.php?id=20293
-寰宇新闻台湾,http://152.32.229.52:5050/litv-longturn15/index.m3u8?proxy=true
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
