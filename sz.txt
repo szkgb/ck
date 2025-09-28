@@ -305,15 +305,11 @@ CETV-04高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
-
-
-无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-无线新闻,http://iptv.4666888.xyz/iptv.php?id=20069
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-无线新闻,https://live3.jiatianxiazhuangshi.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfo6UZDdgNC09xXfFvAn4GP.flv
-无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+无线翡翠,http://parking.treasureislandresortsworld.com:1001/hls/307/index.m3u8
+无线翡翠,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
