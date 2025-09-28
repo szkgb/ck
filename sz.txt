@@ -289,13 +289,24 @@ CETV-04高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111
 
 🌏港澳台,#genre#
 
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
+
+
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://iptv.4666888.xyz/iptv.php?id=20069
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
