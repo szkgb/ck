@@ -317,8 +317,13 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
+中天新闻+,http://tlive24.uk/livehttpplay?channel_id=20182
 寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
+寰宇新闻,http://tlive24.uk/livehttpplay?channel_id=20176
+寰宇新闻台湾,http://tlive24.uk/livehttpplay?channel_id=20193
+寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
@@ -339,16 +344,16 @@ Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e
 
 汕头综合,http://61.145.188.90:60022/udp/239.77.1.130:5146
 汕头综合,http://61.145.188.90:60022/udp/239.253.43.45:5146
-汕头综合,http://183.30.202.83:8000/udp/239.77.1.130:5146
-汕头综合,http://183.30.202.83:8000/udp/239.253.43.45:5146
+汕头综合,http://183.33.58.238:8686/udp/239.77.1.130:5146
+汕头综合,http://183.33.58.238:8686/udp/239.253.43.45:5146
 汕头综合,http://14.153.182.41:8686/udp/239.77.1.130:5146
 汕头综合,http://14.153.182.41:8686/udp/239.253.43.45:5146
 汕头综合,http://113.109.250.40:9999/udp/239.77.1.130:5146
 汕头综合,http://113.109.250.40:9999/udp/239.253.43.45:5146
 汕头经济生活,http://61.145.188.90:60022/udp/239.77.1.131:5146
 汕头经济生活,http://61.145.188.90:60022/udp/239.253.43.46:5146
-汕头经济生活,http://183.30.202.83:8000/udp/239.77.1.131:5146
-汕头经济生活,http://183.30.202.83:8000/udp/239.253.43.46:5146
+汕头经济生活,http://183.33.58.238:8686/udp/239.77.1.131:5146
+汕头经济生活,http://183.33.58.238:8686/udp/239.253.43.46:5146
 汕头经济生活,http://14.153.182.41:8686/udp/239.77.1.131:5146
 汕头经济生活,http://14.153.182.41:8686/udp/239.253.43.46:5146
 汕头经济生活,http://113.109.250.40:9999/udp/239.77.1.131:5146
