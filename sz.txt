@@ -250,19 +250,6 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8?
 
 ▶️广电传媒,#genre#
 
-CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$山东有线IPV6
-CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东有线IPV6
-CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东有线IPV6
-CHC影迷电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8$重庆广电FHD
-CHC动作电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8$重庆广电FHD
-CHC家庭影院,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8$重庆广电FHD
-CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8$高清1920*1080
-CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$标清1024*576
-CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$标清1024*576
-CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
-CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
-CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
-
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
