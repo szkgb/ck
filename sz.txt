@@ -387,7 +387,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 汕头经济生活,http://113.109.250.40:9999/udp/239.253.43.46:5146
 汕头文旅体育,http://183.30.202.83:8000/udp/239.77.1.132:5146
 汕头文旅体育,http://183.30.202.83:8000/udp/239.253.43.47:5146
-
+汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
+深圳福田红树林,http://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 
 💃历年春晚,#genre#
 	
@@ -458,7 +459,6 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 💃直播中国,#genre#
 
 汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
-陕西西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 青海李家峡水电站,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 广东深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -479,6 +479,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 安徽黄山光明顶,http://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
 江苏无锡亀头渚,http://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 陕西西安钟楼,http://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+陕西西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 西藏林芝南迦巴瓦,http://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 山东青岛艾山天文台,http://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 重庆渝中李子坝,http://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
