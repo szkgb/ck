@@ -20,9 +20,176 @@
 九龙城寨-HD国,https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/index.m3u8
 九龙城寨-HD粤,https://svipsvip.ffzy-online5.com/20240621/28900_f7dce56e/index.m3u8
 
-🌏央卫,#genre#
+🌏央视1,#genre#
 
-▶️广东,#genre#
+CCTV-1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
+CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV-3,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV-5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv
+CCTV-6,http://112.27.235.94:8000/hls/7/index.m3u8&https://cc06.tv12.xyz/7.m3u8
+CCTV-7,http://112.27.235.94:8000/hls/8/index.m3u8&https://cc06.tv12.xyz/8.m3u8
+CCTV-8,http://112.27.235.94:8000/hls/9/index.m3u8&http://183.223.157.33:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0&http://112.27.235.94:8000/hls/11/index.m3u8
+CCTV-11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0&https://cc06.tv12.xyz/12.m3u8
+CCTV-12,http://112.27.235.94:8000/hls/13/index.m3u8&https://cc06.tv12.xyz/13.m3u8
+CCTV-13,http://183.223.157.33:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://183.223.157.33:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8&http://183.223.157.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,https://cc06.tv12.xyz/17.m3u8
+
+🌏央视2,#genre#
+
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8?
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8?
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8?
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8?
+CCTV2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8?
+CCTV3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8?
+CCTV3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8?
+CCTV4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8?
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8?
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8?
+CCTV6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8?
+CCTV6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8?
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8?
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8?
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8?
+CCTV8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8?
+CCTV8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8?
+CCTV10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8?
+CCTV10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8?
+CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8?
+CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8?
+CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8?
+CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8?
+CCTV13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8?
+CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8?
+CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8?
+CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8?
+CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
+CETV1,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8?
+CETV4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8?
+CETV4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8?
+CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8?
+广东珠江,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+大湾区卫视,https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8?
+黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8?
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8?
+北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8?
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8?
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8?
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8?
+湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8?
+安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8?
+江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8?
+天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8?
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8?
+山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8?
+东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8?
+辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8?
+西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8?
+康巴卫视,https://zby.130519.xyz/PLTV/11/224/3221225773/index.m3u8?
+厦门卫视,https://zby.130519.xyz/PLTV/11/224/3221226008/index.m3u8?
+内蒙古卫视,https://zby.130519.xyz/PLTV/11/224/3221226011/index.m3u8?
+西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221226012/index.m3u8?
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8?
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8?
+陕西卫视,https://zby.130519.xyz/PLTV/11/224/3221226086/index.m3u8?
+新疆卫视,https://zby.130519.xyz/PLTV/11/224/3221226088/index.m3u8?
+甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8?
+宁夏卫视,https://zby.130519.xyz/PLTV/11/224/3221226092/index.m3u8?
+河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8?
+青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8?
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8?
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8?
+兵团卫视,https://zby.130519.xyz/PLTV/11/224/3221226111/index.m3u8?
+山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8?
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8?
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8?
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8?
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8?
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8?
+四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8?
+海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8?
+重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8?
+贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8?
+东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8?
+新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8?
+第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8?
+五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8?
+东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8?
+上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?
+金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8?
+都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8?
+都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8?
+动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8?
+动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8?
+生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8?
+欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8?
+法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8?
+游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8?
+游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8?
+金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8?
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8?
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8?
+卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8?
+嘉佳卡通,https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8?
+乐游,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8?
+乐游,https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8?
+睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8?
+睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8?
+睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8?
+
+▶️广电传媒,#genre#
+
+CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$山东有线IPV6
+CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东有线IPV6
+CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东有线IPV6
+CHC影迷电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8$重庆广电FHD
+CHC动作电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8$重庆广电FHD
+CHC家庭影院,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8$重庆广电FHD
+CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8$高清1920*1080
+CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$标清1024*576
+CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$标清1024*576
+CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
+CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
+CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
+
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
+广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
+
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+中国蓝新闻台,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+江苏无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
+江苏无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
+江苏无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
+江苏无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
+江苏无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+江苏无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
+江苏无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
+江苏无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
+江苏无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
+
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8$河北广电
+苏州4K频道,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8$苏州广电
 
 🌏港澳台,#genre#
 
@@ -80,6 +247,10 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 FashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 WFCTV,https://stream1.freetv.fun/85e22d38728080507d9f861eec46137ca7000601b06c351a84a64cc6aef23628.m3u8
 Fashion World,https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e5a7539f81705e495cdd388bc7.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 
 🏠汕头,#genre#
 
