@@ -457,6 +457,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 
 💃直播中国,#genre#
 
+汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
+陕西西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 青海李家峡水电站,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 广东深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -635,3 +637,17 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 乐山大佛全景,http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
 福建武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
 河北承德避暑山庄,http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
+
+💃熊猫直播,#genre#
+
+ipanda-青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+ipanda-娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+ipanda-瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+ipanda英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+ipanda玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+ipanda怡然,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+ipanda成都园区,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+ipanda都江堰园区,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+ipanda都江堰园区,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+ipanda大丰园区,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+
