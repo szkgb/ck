@@ -316,11 +316,16 @@ CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
 凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻, http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+无线新闻,http://r.jdshipin.com/CkuBd
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线翡翠,http://parking.treasureislandresortsworld.com:1001/hls/307/index.m3u8
 无线翡翠,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
+无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+NOW新闻台,https://cdn.163189.xyz/163189/now
+娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
@@ -337,6 +342,8 @@ RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02
 寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
 寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
@@ -356,6 +363,9 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
 
 🏠汕头,#genre#
 
