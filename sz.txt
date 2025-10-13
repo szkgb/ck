@@ -341,6 +341,7 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,http://114.34.40.48:50008/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新闻,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1760217407316
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
