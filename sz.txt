@@ -342,6 +342,60 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 
+Plus综合,http://vallest.uk/livehttpplay?channel_id=30023
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
+有线综合,http://vallest.uk/livehttpplay?channel_id=20152
+无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
+无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
+无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
+VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032
+VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033
+RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
+
+Plus综合,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
+凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+中天新闻加,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
+有线新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3FuzD0&tk=6WC5NrBMEYVI
+有线新闻,http://feng163.com:8003/bysid/78.m3u8
+有线新闻,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
+有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
+无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
+有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
+无线明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+无线千禧,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
+无线一台,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+无线综台,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
+VIUTV'粤,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
+tvbs台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
+三立都会,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
+纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
+星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
+重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
+爱奇艺频,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
+
+十方法界,http://stream-ali1.csslcloud.net/live/hktv-09ali19.flv
+Now爆谷,http://stream-ali1.csslcloud.net/live/hktv-09ali20.flv
+Now星影,http://stream-ali1.csslcloud.net/live/hktv-09ali21.flv
+pₒₚc电影,http://stream-ali1.csslcloud.net/live/hktv-09ali22.flv
+无线新闻,http://stream-ali1.csslcloud.net/live/hktv-09ali23.flv
+HUB如意,http://stream-ali1.csslcloud.net/live/hktv-10ali2.flv
+HUB娱家,http://stream-ali1.csslcloud.net/live/hktv-10ali3.flv
+HUB都会,http://stream-ali1.csslcloud.net/live/hktv-10ali4.flv
+
+
+
 🏠汕头,#genre#
 
 汕头综合,http://61.145.188.90:60022/udp/239.77.1.130:5146
