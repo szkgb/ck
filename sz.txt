@@ -286,34 +286,29 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8?
 🌏港澳台,#genre#
 
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
+凤凰香港,http://r.jdshipin.com/yDoTN
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻, http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-无线翡翠,http://parking.treasureislandresortsworld.com:1001/hls/307/index.m3u8
-无线翡翠,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
 无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
-RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 NOW新闻台,https://cdn.163189.xyz/163189/now
 娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
@@ -324,11 +319,7 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 华视,rtmp://f13h.mine.nu/sat/tv111
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-中天新闻+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
-寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
-寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -350,9 +341,6 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
 
 🏠汕头,#genre#
 
@@ -360,16 +348,10 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 汕头综合,http://61.145.188.90:60022/udp/239.253.43.45:5146
 汕头综合,http://183.33.58.238:8686/udp/239.77.1.130:5146
 汕头综合,http://183.33.58.238:8686/udp/239.253.43.45:5146
-汕头综合,http://113.109.250.40:9999/udp/239.77.1.130:5146
-汕头综合,http://113.109.250.40:9999/udp/239.253.43.45:5146
 汕头经济生活,http://61.145.188.90:60022/udp/239.77.1.131:5146
 汕头经济生活,http://61.145.188.90:60022/udp/239.253.43.46:5146
 汕头经济生活,http://183.33.58.238:8686/udp/239.77.1.131:5146
 汕头经济生活,http://183.33.58.238:8686/udp/239.253.43.46:5146
-汕头经济生活,http://113.109.250.40:9999/udp/239.77.1.131:5146
-汕头经济生活,http://113.109.250.40:9999/udp/239.253.43.46:5146
-汕头文旅体育,http://183.30.202.83:8000/udp/239.77.1.132:5146
-汕头文旅体育,http://183.30.202.83:8000/udp/239.253.43.47:5146
 汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
 深圳福田红树林,http://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 
