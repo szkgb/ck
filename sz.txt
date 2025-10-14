@@ -390,6 +390,8 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 华视,rtmp://f13h.mine.nu/sat/tv111
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
+中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
+中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 寰宇新闻,http://205.185.120.57:8081/channel/n4ea431ea/index.m3u8
 寰宇新闻,http://cnlive.org/channel/n43c34be8/index.m3u8
 寰宇新闻,http://114.34.40.48:50008/li-litv-longturn14/index.m3u8?proxy=true
