@@ -473,6 +473,15 @@ HUB如意,http://stream-ali1.csslcloud.net/live/hktv-10ali2.flv
 HUB娱家,http://stream-ali1.csslcloud.net/live/hktv-10ali3.flv
 HUB都会,http://stream-ali1.csslcloud.net/live/hktv-10ali4.flv
 
+中天新闻频,http://51.89.166.17:3002/index.php?id=ctinews
+东森新闻频,http://51.89.166.17:3002/index.php?id=ettvnews
+寰宇新闻频,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
+tvbs新闻频,http://51.89.166.17:3002/index.php?id=tvbs_n
+年代新闻频,http://51.89.166.17:3002/index.php?id=niandainews_twn
+民视新闻频,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
+中视新闻频,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+台视新闻频,http://51.89.166.17:3002/index.php?id=ttvnews_twn
+非凡新闻频,http://51.89.166.17:3002/index.php?id=feifannews_twn
 
 
 🏠汕头,#genre#
