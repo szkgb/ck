@@ -463,6 +463,20 @@ tvbs台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
 爱奇艺频,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
 
+中天新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新闻肆Tv,http://166.108.228.188:1234/litv-longturn14/index.m3u8?proxy=true
+东森新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv072/index.m3u8?proxy=true
+三立新闻肆Tv,http://166.108.228.188:1234/4gtv-live089/index.m3u8?proxy=true
+三立新闻肆Tv,http://166.108.228.188:1234/iNEWS/index.m3u8?proxy=true
+非凡新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv010/index.m3u8?proxy=true
+闽镜新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻肆Tv,http://166.108.228.188:1234/litv-ftv13/index.m3u8?proxy=true
+中视新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻肆Tv,http://166.108.228.188:1234/4gtv-4gtv051/index.m3u8?proxy=true
+寰宇闽南肆Tv,http://166.108.228.188:1234/4gtv-4gtv156/index.m3u8?proxy=true
+
 🏠汕头,#genre#
 
 汕头综合,http://61.145.188.90:60022/udp/239.77.1.130:5146
