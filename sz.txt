@@ -729,13 +729,3 @@ ipanda都江堰园区,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 ipanda大丰园区,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 
 💃临时,#genre#
-
-中天,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
-中天,http://51.89.166.17:3002/index.php?id=ctinews
-中天,http://cnlive.org/channel/41d8a09d/index.m3u8
-中天,https://k44991.kylintv.tv/live/cti_iphone.m3u8
-中天,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-
-寰宇,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1760217407316
-寰宇,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
-寰宇,https://stream1.freetv.fun/f1aee25c74ec1e559ed86c00feb6074cef35d76d15a0d3f7019530b7ac094bcc.ctv
