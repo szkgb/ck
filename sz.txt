@@ -5,26 +5,6 @@
 苏州4k频道,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k频道,https://event.pull.hebtv.com:443/live/live101.m3u8
 
-北京卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.51:5140
-东方卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.67:5140
-浙江卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.65:5140
-江苏卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
-湖南卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.63:5140
-广东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
-深圳卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.104:5140
-山东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
-四川卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
-北京卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-东方卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-浙江卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
-江苏卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
-湖南卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
-广东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-深圳卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-山东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-四川卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-
-
 🌟电影,#genre#
 
 东极岛国语,https://cdn.yzzy29-play.com/20250809/535_33e8075e/index.m3u8
@@ -390,6 +370,7 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
 寰宇台湾台,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
+寰宇台湾台,http://180.176.212.253:5051/4gtv-4gtv156/index.m3u8?proxy=true
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -430,7 +411,6 @@ Plus综合,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
 凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中天新闻加,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 有线新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3FuzD0&tk=6WC5NrBMEYVI
 有线新闻,http://feng163.com:8003/bysid/78.m3u8
@@ -454,6 +434,20 @@ tvbs台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
 爱奇艺频,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
+
+中天新闻,http://180.176.212.253:5051/4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新闻,http://180.176.212.253:5051/litv-longturn14/index.m3u8?proxy=true
+东森新闻,http://180.176.212.253:5051/4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻,http://180.176.212.253:5051/4gtv-4gtv072/index.m3u8?proxy=true
+三立新闻,http://180.176.212.253:5051/4gtv-live089/index.m3u8?proxy=true
+三立新闻,http://180.176.212.253:5051/iNEWS/index.m3u8?proxy=true
+非凡新闻,http://180.176.212.253:5051/4gtv-4gtv010/index.m3u8?proxy=true
+闽镜新闻,http://180.176.212.253:5051/4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻,http://180.176.212.253:5051/litv-ftv13/index.m3u8?proxy=true
+中视新闻,http://180.176.212.253:5051/4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻,http://180.176.212.253:5051/4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻,http://180.176.212.253:5051/4gtv-4gtv051/index.m3u8?proxy=true
+
 
 🏠汕头,#genre#
 
