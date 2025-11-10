@@ -366,7 +366,7 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxw.flv
@@ -377,7 +377,6 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 寰宇新闻,http://cnlive.org/channel/n43c34be8/index.m3u8
 寰宇新闻,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
 寰宇新闻,http://212.192.12.163:8081/channel/n43c34be8/index.m3u8
-
 寰宇台湾台,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
 寰宇台湾台,http://180.176.212.253:5051/4gtv-4gtv156/index.m3u8?proxy=true
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
