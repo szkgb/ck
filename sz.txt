@@ -378,18 +378,8 @@ tvbs闽南,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlk
 tvbs新话,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
 中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新闻,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxw.flv
-中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
-中天新闻加,rtmp://123.161.179.74/live/yifatv-ztxw02
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
-寰宇新闻,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1760217407316
-寰宇新闻,http://cnlive.org/channel/n43c34be8/index.m3u8
-寰宇新闻,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
-寰宇新闻,http://212.192.12.163:8081/channel/n43c34be8/index.m3u8
 寰宇台湾台,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
-寰宇台湾台,http://180.176.212.253:5051/4gtv-4gtv156/index.m3u8?proxy=true
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -425,34 +415,14 @@ VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033
 RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
 RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
 
-Plus综合,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-中天新闻加,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 有线新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3FuzD0&tk=6WC5NrBMEYVI
 有线新闻,http://feng163.com:8003/bysid/78.m3u8
 有线新闻,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
-无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-无线明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
-无线千禧,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
-无线一台,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
-无线综台,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
-VIUTV'粤,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
-tvbs台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
-三立都会,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
-纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
-重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
-爱奇艺频,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
 
 🏠汕头,#genre#
 
