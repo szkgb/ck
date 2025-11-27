@@ -681,7 +681,7 @@ tvbs新闻,http://156.239.254.7:5555/smt.php?id=tvbs_n
 重庆巫山长江,http://gctxyc.liveplay.myqcloud.com/gc/ljgcwglytylxs_1/index.m3u8
 四川成都天府熊猫塔,http://gctxyc.liveplay.myqcloud.com/gc/ljgcszsnkgc_1/index.m3u8
 云南昆明寻甸县,http://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
-北京鸟巢与水立方,http://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+深圳福田中心区,http://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
 河北秦皇岛老龙头,http://gctxyc.liveplay.myqcloud.com/gc/zjwzbblh_1/index.m3u8
 新疆昌吉州天山天池,http://gctxyc.liveplay.myqcloud.com/gc/zjwzlxt_1/index.m3u8
 河北秦皇岛金梦海湾,http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1/index.m3u8
