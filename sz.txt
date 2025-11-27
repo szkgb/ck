@@ -374,13 +374,8 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-tvbs闽南,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskks.flv
-tvbs新话,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新闻,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
 寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
 寰宇台湾台,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -423,7 +418,6 @@ RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
 有线新闻,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
-无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 
