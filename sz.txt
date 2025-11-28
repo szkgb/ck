@@ -550,6 +550,7 @@ tvbs新闻,http://156.239.254.7:5555/smt.php?id=tvbs_n
 💃直播中国,#genre#
 
 汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
+实况中国慢直播,https://live.iill.top/bilibili/26351451
 青海李家峡水电站,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 广东深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
