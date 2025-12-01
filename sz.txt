@@ -5,16 +5,6 @@
 苏州4k频道,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k频道,https://event.pull.hebtv.com:443/live/live101.m3u8
 
-北京卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-东方卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-浙江卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
-江苏卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
-湖南卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
-广东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-深圳卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-山东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-四川卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-
 🌟电影,#genre#
 
 志愿军三,http://jx.999315.xyz/ffzy/20251002/45987_4fcd88ed/index.m3u8
