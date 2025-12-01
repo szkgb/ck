@@ -436,14 +436,6 @@ RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 
-tvbs闽南,http://rihou.cc:555/tv/|tvbs闽南|
-tvbs新话,http://rihou.cc:555/tv/|tvbs新话|
-中天新闻,http://rihou.cc:555/tv/|中天新闻|
-寰宇新闻,http://rihou.cc:555/tv/|寰宇新闻|
-东森新闻,http://rihou.cc:555/tv/|东森新闻|
-中视新闻,http://rihou.cc:555/tv/|中视新闻|
-台视新闻,http://rihou.cc:555/tv/|台视新闻|
-
 中天新闻,https://tzh911.qzz.io/play-smt.php?id=ctinews
 东森新闻,https://tzh911.qzz.io/play-smt.php?id=ettvnews
 寰宇新闻,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
