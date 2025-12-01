@@ -345,9 +345,6 @@ CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 江苏无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
 江苏无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8$河北广电
-苏州4K频道,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8$苏州广电
-
 🌏港澳台,#genre#
 
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
@@ -359,8 +356,6 @@ CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -410,19 +405,6 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
-
-Plus综合,http://vallest.uk/livehttpplay?channel_id=30023
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-有线综合,http://vallest.uk/livehttpplay?channel_id=20152
-无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
-无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
-无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
-VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032
-VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033
-RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
 
 有线新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3FuzD0&tk=6WC5NrBMEYVI
 有线新闻,http://feng163.com:8003/bysid/78.m3u8
@@ -743,4 +725,3 @@ ipanda都江堰园区,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
 ipanda都江堰园区,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 ipanda大丰园区,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 
-💃临时,#genre#
