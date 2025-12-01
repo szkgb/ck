@@ -454,28 +454,6 @@ tvbs新闻,https://tzh911.qzz.io/play-smt.php?id=tvbs_n
 台视新闻,https://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
 非凡新闻,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
 
-中天新闻,http://156.239.254.7:5555/smt.php?id=ctinews
-东森新闻,http://156.239.254.7:5555/smt.php?id=ettvnews
-寰宇新闻,http://156.239.254.7:5555/smt.php?id=huanyuxinwen_twn
-tvbs新闻,http://156.239.254.7:5555/smt.php?id=tvbs_n
-年代新闻,http://156.239.254.7:5555/smt.php?id=niandainews_twn
-民视新闻,http://156.239.254.7:5555/smt.php?id=ftvnew_taiwan
-中视新闻,http://156.239.254.7:5555/smt.php?id=zhongshinews_twn
-台视新闻,http://156.239.254.7:5555/smt.php?id=ttvnews_twn
-非凡新闻,http://156.239.254.7:5555/smt.php?id=feifannews_twn
-
-中天新闻,https://tmxk.pp.ua/smt.php?id=ctinews
-中天亚洲,https://tmxk.pp.ua/smt.php?id=ctiasia_twn
-台视新闻,https://tmxk.pp.ua/smt.php?id=ttvnews_twn
-中视新闻,https://tmxk.pp.ua/smt.php?id=zhongshinews_twn
-民视新闻,https://tmxk.pp.ua/smt.php?id=ftvnew_taiwan
-东森新闻,https://tmxk.pp.ua/smt.php?id=ettvnews
-寰宇新闻,https://tmxk.pp.ua/smt.php?id=huanyuxinwen_twn
-非凡新闻,https://tmxk.pp.ua/smt.php?id=feifannews_twn
-年代新闻,https://tmxk.pp.ua/smt.php?id=niandainews_twn
-TVBS新闻,https://tmxk.pp.ua/smt.php?id=tvbs_n
-
-
 🏠汕头,#genre#
 
 汕头综合,http://denghao.net:4022/udp/239.77.1.130:5146
