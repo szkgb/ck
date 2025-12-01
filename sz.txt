@@ -15,7 +15,6 @@
 山东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 四川卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 
-
 🌟电影,#genre#
 
 志愿军三,http://jx.999315.xyz/ffzy/20251002/45987_4fcd88ed/index.m3u8
@@ -444,6 +443,19 @@ pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
 凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
 无线翡翠,http://rihou.cc:555/tv/Bxl无线翡翠
 无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
+
+中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
+寰宇新闻,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
+东森新闻,http://cmtv.netlib.re/channel/n6a969278.m3u8
+tvbs新闻,http://cmtv.netlib.re/channel/313be55e.m3u8
+三立新闻,http://cmtv.netlib.re/channel/n21c6f191.m3u8
+闽镜新闻,http://cmtv.netlib.re/channel/n7afe2afd.m3u8
+民视新闻,http://cmtv.netlib.re/channel/n1a919f80.m3u8
+中视新闻,http://cmtv.netlib.re/channel/n4840462c.m3u8
+华视新闻,http://cmtv.netlib.re/channel/n2fd06b2e.m3u8
+寰宇闽南,http://cmtv.netlib.re/channel/757f39bb.m3u8
+tvbs闽南,http://cmtv.netlib.re/channel/n6db37f50.m3u8
+民视台湾,http://cmtv.netlib.re/channel/n1ad630a5.m3u8
 
 🏠汕头,#genre#
 
