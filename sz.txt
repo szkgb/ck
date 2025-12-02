@@ -443,6 +443,8 @@ tvbs闽南,http://cmtv.netlib.re/channel/n6db37f50.m3u8
 汕头经济生活,http://www.bigyan.cn:8225/udp/239.77.1.131:5146
 汕头经济生活,http://www.bigyan.cn:8225/udp/239.253.43.46:5146
 汕头文旅,http://14.145.195.170:8888/udp/239.253.43.47:5146
+汕头文旅,http://14.145.195.170:8888/udp/239.77.1.132:5146
+汕头文旅,http://www.bigyan.cn:8225/udp/239.253.43.47:5146
 汕头文旅,http://www.bigyan.cn:8225/udp/239.77.1.132:5146
 汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
 深圳福田红树林,http://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
