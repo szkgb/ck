@@ -386,16 +386,6 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 
-🌏港澳台1,#genre#
-
-有线新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3FuzD0&tk=6WC5NrBMEYVI
-有线新闻,http://feng163.com:8003/bysid/78.m3u8
-有线新闻,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
-有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
-有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
-
 🌏港澳台2,#genre#
 
 中天新闻,https://tzh911.qzz.io/play-smt.php?id=ctinews
