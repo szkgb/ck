@@ -386,6 +386,8 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 
+🌏港澳台1,#genre#
+
 有线新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3FuzD0&tk=6WC5NrBMEYVI
 有线新闻,http://feng163.com:8003/bysid/78.m3u8
 有线新闻,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
@@ -393,6 +395,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
 有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+
+🌏港澳台2,#genre#
 
 中天新闻,https://tzh911.qzz.io/play-smt.php?id=ctinews
 东森新闻,https://tzh911.qzz.io/play-smt.php?id=ettvnews
@@ -404,26 +408,24 @@ tvbs新闻,https://tzh911.qzz.io/play-smt.php?id=tvbs_n
 台视新闻,https://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
 非凡新闻,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
 
+🌏港澳台3,#genre#
+
 有线新闻,http://rihou.cc:555/tv/Mtl有线新闻
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
-中天新闻,http://rihou.cc:555/tv/Hkl中天新闻
-Now新闻,http://rihou.cc:555/tv/MtlNow新闻
-tvbs闽南,http://rihou.cc:555/tv/Hkltvbs闽南
-无线翡翠v,http://rihou.cc:555/tv/Mtl无线翡翠
-无线明珠,http://rihou.cc:555/tv/Mtl无线明珠
-有线赛讯v,http://rihou.cc:555/tv/Mtl有线赛讯
-有线综合,http://rihou.cc:555/tv/Mtl有线综合
-Plus综合,http://rihou.cc:555/tv/MtlPlus综合
-Now星影,http://rihou.cc:555/tv/MtlNow星影
-Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
 无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
+Now新闻,http://rihou.cc:555/tv/MtlNow新闻
+中天新闻,http://rihou.cc:555/tv/SZl中天新闻
 中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
-Plus综合,http://rihou.cc:555/tv/BxlPlus综合
-pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
+闽镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
+tvbS新闻,http://rihou.cc:555/tv/FYltvbS新闻
+凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
 凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
-无线翡翠,http://rihou.cc:555/tv/Bxl无线翡翠
-无线明珠,http://rihou.cc:555/tv/Bxl无线明珠
+
+🌏港澳台4,#genre#
 
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
 寰宇新闻,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
