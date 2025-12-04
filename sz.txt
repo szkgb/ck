@@ -399,15 +399,23 @@ tvbs新闻,https://tzh911.qzz.io/play-smt.php?id=tvbs_n
 
 🌏港澳台3,#genre#
 
+有线新闻,http://rihou.cc:555/tv/STl有线新闻
 有线新闻,http://rihou.cc:555/tv/Mtl有线新闻
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
 无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
+中天新闻,http://rihou.cc:555/tv/STl中天新闻
 中天新闻,http://rihou.cc:555/tv/SZl中天新闻
 中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
+寰宇新闻,http://rihou.cc:555/tv/STl寰宇新闻
+东森新闻,http://rihou.cc:555/tv/STl东森新闻
+中视新闻,http://rihou.cc:555/tv/STl中视新闻
+台视新闻,http://rihou.cc:555/tv/STl台视新闻
 闽镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
 tvbS新闻,http://rihou.cc:555/tv/FYltvbS新闻
+tvbS新闻,http://rihou.cc:555/tv/STltvbS新闻
+tvbs闽南,http://rihou.cc:555/tv/STltvbS闽南
 凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
