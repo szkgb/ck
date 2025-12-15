@@ -360,9 +360,7 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新闻,http://152.32.229.52:5050/litv-longturn14/index.m3u8?proxy=true
+中天新闻,http://156.239.254.7:5555/smt.php?id=ctinews
 寰宇台湾台,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -387,72 +385,75 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 
 🌏港澳台2,#genre#
 
-中天新闻,https://tzh911.qzz.io/play-smt.php?id=ctinews
-东森新闻,https://tzh911.qzz.io/play-smt.php?id=ettvnews
-寰宇新闻,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-tvbs新闻,https://tzh911.qzz.io/play-smt.php?id=tvbs_n
-年代新闻,https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
-民视新闻,https://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
-中视新闻,https://tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
-台视新闻,https://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
-非凡新闻,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
+有线新闻欣赏,http://rihou.cc:555/tv/[FY]有线新闻
+有线新闻欣赏,http://rihou.cc:555/tv/[Mt]有线新闻
+无线新闻欣赏,rtmp://nowast.net/live/yifatv-wxxw01
+无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
+无线新闻欣赏,http://rihou.cc:555/tv/[Mt]无线新闻
+无线新闻欣赏,http://rihou.cc:555/tv/[SZ]无线新闻
+无线新闻欣赏,http://rihou.cc:555/tv/[Bx]无线新闻
+Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻欣赏,http://rihou.cc:555/tv/[Mt]Now新闻
+中天新闻欣赏,http://rihou.cc:555/tv/[Hk]中天新聞
+中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻欣赏,http://rihou.cc:555/tv/[Bx]中天新闻
+寰宇新闻欣赏,http://rihou.cc:555/tv/[Hk]寰宇新闻
+中视新闻欣赏,http://rihou.cc:555/tv/[Hk]中视新闻
+闽镜新闻欣赏,http://rihou.cc:555/tv/[Hk]闽镜新闻
+中旺电视欣赏,http://rihou.cc:555/tv/[Hk]中旺电视
+tvbS新闻欣赏,http://rihou.cc:555/tv/[FY]tvbS新闻
+tvbS闽南欣赏,http://rihou.cc:555/tv/[Hk]tvbs闽南
+凤凰中文欣赏,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰中文欣赏,http://rihou.cc:555/tv/[Bx]凤凰中文
+凤凰资讯欣赏,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰资讯欣赏,http://rihou.cc:555/tv/[Bx]凤凰资讯
+凤凰香港欣赏,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰香港欣赏,http://rihou.cc:555/tv/[Bx]凤凰香港
 
 🌏港澳台3,#genre#
 
-有线新闻,http://rihou.cc:555/tv/STl有线新闻
-有线新闻,http://rihou.cc:555/tv/Mtl有线新闻
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
-无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
-Now新闻,http://rihou.cc:555/tv/MtlNow新闻
-中天新闻,http://rihou.cc:555/tv/STl中天新闻
-中天新闻,http://rihou.cc:555/tv/SZl中天新闻
-中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
-寰宇新闻,http://rihou.cc:555/tv/STl寰宇新闻
-东森新闻,http://rihou.cc:555/tv/STl东森新闻
-中视新闻,http://rihou.cc:555/tv/STl中视新闻
-台视新闻,http://rihou.cc:555/tv/STl台视新闻
-闽镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
-tvbS新闻,http://rihou.cc:555/tv/FYltvbS新闻
-tvbS新闻,http://rihou.cc:555/tv/STltvbS新闻
-tvbs闽南,http://rihou.cc:555/tv/STltvbS闽南
-凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
-凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
-
-🌏港澳台4,#genre#
-
-中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
-寰宇新闻,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
-东森新闻,http://cmtv.netlib.re/channel/n6a969278.m3u8
-tvbs新闻,http://cmtv.netlib.re/channel/313be55e.m3u8
-三立新闻,http://cmtv.netlib.re/channel/n21c6f191.m3u8
-闽镜新闻,http://cmtv.netlib.re/channel/n7afe2afd.m3u8
-民视新闻,http://cmtv.netlib.re/channel/n1a919f80.m3u8
-中视新闻,http://cmtv.netlib.re/channel/n4840462c.m3u8
-华视新闻,http://cmtv.netlib.re/channel/n2fd06b2e.m3u8
-寰宇闽南,http://cmtv.netlib.re/channel/757f39bb.m3u8
-tvbs闽南,http://cmtv.netlib.re/channel/n6db37f50.m3u8
-民视台湾,http://cmtv.netlib.re/channel/n1ad630a5.m3u8
+中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+东森新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
+三立新闻4Gtv,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
+三立新闻4Gtv,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+非凡新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
+闽镜新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻4Gtv,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
+中视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
+中天新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
+东森新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
+闽镜新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻4Gtv,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
+中视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
+中视新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
+华视新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
 
 🏠汕头,#genre#
 
 汕头综合,http://denghao.net:4022/udp/239.77.1.130:5146
 汕头综合,http://denghao.net:4022/udp/239.253.43.45:5146
-汕头综合,http://14.145.195.170:8888/udp/239.77.1.130:5146
-汕头综合,http://14.145.195.170:8888/udp/239.253.43.45:5146
+汕头综合,http://183.7.134.32:8088/udp/239.77.1.130:5146
+汕头综合,http://183.7.134.32:8088/udp/239.253.43.45:5146
 汕头综合,http://www.bigyan.cn:8225/udp/239.77.1.130:5146
 汕头综合,http://www.bigyan.cn:8225/udp/239.253.43.45:5146
 汕头经济生活,http://denghao.net:4022/udp/239.77.1.131:5146
 汕头经济生活,http://denghao.net:4022/udp/239.253.43.46:5146
-汕头经济生活,http://14.145.195.170:8888/udp/239.77.1.131:5146
-汕头经济生活,http://14.145.195.170:8888/udp/239.253.43.46:5146
+汕头经济生活,http://183.7.134.32:8088/udp/239.77.1.131:5146
+汕头经济生活,http://183.7.134.32:8088/udp/239.253.43.46:5146
 汕头经济生活,http://www.bigyan.cn:8225/udp/239.77.1.131:5146
 汕头经济生活,http://www.bigyan.cn:8225/udp/239.253.43.46:5146
-汕头文旅,http://14.145.195.170:8888/udp/239.253.43.47:5146
-汕头文旅,http://14.145.195.170:8888/udp/239.77.1.132:5146
+汕头文旅,http://183.7.134.32:8088/udp/239.253.43.47:5146
+汕头文旅,http://183.7.134.32:8088/udp/239.77.1.132:5146
 汕头文旅,http://www.bigyan.cn:8225/udp/239.253.43.47:5146
 汕头文旅,http://www.bigyan.cn:8225/udp/239.77.1.132:5146
 汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
