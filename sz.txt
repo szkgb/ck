@@ -1538,7 +1538,7 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 
 汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
 实况中国慢直播,https://live.iill.top/bilibili/26351451
-青海李家峡水电站,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+新疆博州赛里木湖,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 广东深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广东韶关车八岭,http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
@@ -1608,7 +1608,7 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 云南红河,http://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 江苏徐州,http://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 黄山飞来石,http://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-陕西西安长安三河水库,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+西藏那曲湿地全称,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 山西晋城釜山泫水湖,http://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
 吉林,http://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
 安徽黄山排云亭,http://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
@@ -1626,7 +1626,6 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 贵州黔东南加榜梯田,http://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 西藏日喀则珠峰,http://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 云南保山,http://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-广东深圳福田红树林,http://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 甘肃定西漳县清山植物园,http://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 福建南平武夷山玉女峰,http://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 河北承德避暑山庄,http://gcalic.v.myalicdn.com/gc/zsslsfwsgz_1/index.m3u8
@@ -1669,7 +1668,7 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 重庆巫山长江,http://gctxyc.liveplay.myqcloud.com/gc/ljgcwglytylxs_1/index.m3u8
 四川成都天府熊猫塔,http://gctxyc.liveplay.myqcloud.com/gc/ljgcszsnkgc_1/index.m3u8
 云南昆明寻甸县,http://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
-深圳福田中心区,http://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+回放,http://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
 河北秦皇岛老龙头,http://gctxyc.liveplay.myqcloud.com/gc/zjwzbblh_1/index.m3u8
 新疆昌吉州天山天池,http://gctxyc.liveplay.myqcloud.com/gc/zjwzlxt_1/index.m3u8
 河北秦皇岛金梦海湾,http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1/index.m3u8
@@ -1695,27 +1694,26 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 云南红河,http://gctxyc.liveplay.myqcloud.com/gc/hsyg_1/index.m3u8
 江苏徐州,http://gctxyc.liveplay.myqcloud.com/gc/hspyt_1/index.m3u8
 黄山飞来石,http://gctxyc.liveplay.myqcloud.com/gc/hsptgy_1/index.m3u8
-陕西西安长安三河水库,http://gctxyc.liveplay.myqcloud.com/gc/ahhs01_1/index.m3u8
+西藏那曲湿地全称,http://gctxyc.liveplay.myqcloud.com/gc/ahhs01_1/index.m3u8
 山西晋城釜山泫水湖,http://gctxyc.liveplay.myqcloud.com/gc/zh02_1/index.m3u8
 吉林,http://gctxyc.liveplay.myqcloud.com/gc/zh03_1/index.m3u8
-安徽黟县西递牌坊,http://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8
-安徽黟县芦村远眺,http://gctxyc.liveplay.myqcloud.com/gc/yxlcyt_1/index.m3u8
-河南南阳方城德云山,http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8
-云南大理南涧县,http://gctxyc.liveplay.myqcloud.com/gc/ztn_1/index.m3u8
-陕西渭南蒲城县,http://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
+安徽黄山排云亭,http://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8
+安徽黄山西海大峡谷,http://gctxyc.liveplay.myqcloud.com/gc/yxlcyt_1/index.m3u8
+河北沧州南大港湿地,http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8
+河北沧州南大港湿地2,http://gctxyc.liveplay.myqcloud.com/gc/ztn_1/index.m3u8
+吉林市朱雀云顶远眺,http://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
 河南商丘永城县,http://gctxyc.liveplay.myqcloud.com/gc/hgsspzxdpb_1/index.m3u8
 云南大理茶马古道,http://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8
-北京门头沟,http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1/index.m3u8
-安徽黟县西递,http://gctxyc.liveplay.myqcloud.com/gc/xywfl_1/index.m3u8
+河北沧州南川老街,http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1/index.m3u8
+安徽黄山梦笔生花,http://gctxyc.liveplay.myqcloud.com/gc/xywfl_1/index.m3u8
 北京密云古北水镇,http://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
 湖南邵阳莨山骆驼峰,http://gctxyc.liveplay.myqcloud.com/gc/dlst01_1/index.m3u8
-北京怀柔黄花城水长城,http://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
-贵州黔东南,http://gctxyc.liveplay.myqcloud.com/gc/qdls03_1/index.m3u8
+河北承德塞罕坝,http://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+贵州黔东南加榜梯田,http://gctxyc.liveplay.myqcloud.com/gc/qdls03_1/index.m3u8
 西藏日喀则珠峰,http://gctxyc.liveplay.myqcloud.com/gc/qdls02_1/index.m3u8
 云南保山,http://gctxyc.liveplay.myqcloud.com/gc/zyqcdx01_1/index.m3u8
-湖北武汉黄鹤楼,http://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
-乐山大佛全景,http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
-福建武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
+甘肃定西漳县清山植物园,http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
+福建南平武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
 河北承德避暑山庄,http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
 
 💃熊猫直播,#genre#
