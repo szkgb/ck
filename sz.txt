@@ -32,7 +32,7 @@
 九龙城寨-HD国,https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/index.m3u8
 九龙城寨-HD粤,https://svipsvip.ffzy-online5.com/20240621/28900_f7dce56e/index.m3u8
 
-🏠广东组播,#genre#
+🏠广东电信组播,#genre#
 
 CCTV1,http://113.89.244.174:4200/rtp/239.77.0.14:5146
 CCTV1,http://113.89.244.174:4200/rtp/239.77.0.30:5146
@@ -1159,7 +1159,7 @@ IPTV推荐8,http://183.7.144.126:8880/rtp/239.77.0.241:5146
 阳江-1,http://183.7.144.126:8880/rtp/239.253.43.82:5146
 阳江-2,http://183.7.144.126:8880/rtp/239.253.43.83:5146
 
-🏠全网央卫,#genre#
+🏠央视咪咕,#genre#
 
 CCTV1,https://migu.188766.xyz/?migutoken=f6f4cbca43639560e15dcee90bf812b3&id=CCTV1&type=yy
 CCTV2,https://migu.188766.xyz/?migutoken=d812ee770e6067cc6208734ed656d557&id=CCTV2&type=yy
@@ -1186,7 +1186,7 @@ CETV1,https://migu.188766.xyz/?migutoken=4a091c040c505c172b0ed399a66adbeb&id=CET
 CETV2,https://migu.188766.xyz/?migutoken=8de5665d629c3670df929cb410e0204e&id=CETV2&type=yy
 CETV4,https://migu.188766.xyz/?migutoken=2f92e1e32ba0a7e90476a749db7f5448&id=CETV4&type=yy
 
-🏠地方卫视,#genre#
+🏠卫视咪咕,#genre#
 
 湖南卫视,https://migu.188766.xyz/?migutoken=d98a66de60a974abf77977c44168cc77&id=hnws&type=sz
 浙江卫视,https://migu.188766.xyz/?migutoken=1ef0d63d18fb4cdc61e05a13854891c3&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
@@ -1235,7 +1235,7 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=48d19b9817576c83ced3b0f3f5f18
 现代教育,https://hk.188766.xyz/?migutoken=7f2955ef1c577c3dcfba81694cc4b08c&id=gd_xdjy&type=sz
 翡翠台4K,https://mgev.188766.xyz/?migutoken=075c1c79386db75034ade0497cdd033f&id=hk_fct4k&type=dy
 
-NewTV,#genre#
+🌏NewTV,#genre#
 
 CHC动作电影,https://migu.188766.xyz/?migutoken=f76f9a4401d1e90574ca8914ed633d14&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 翡翠台,https://mgev.188766.xyz/?migutoken=c16b675b3c0b5b68e43add3c51f85843&id=hk_fct&type=dy
