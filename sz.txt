@@ -396,7 +396,6 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻欣赏,http://rihou.cc:555/tv/[Mt]Now新闻
 中天新闻欣赏,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
-中天新闻欣赏,http://rihou.cc:555/tv/[Bx]中天新闻
 寰宇新闻欣赏,http://rihou.cc:555/tv/[Hk]寰宇新闻
 中视新闻欣赏,http://rihou.cc:555/tv/[Hk]中视新闻
 闽镜新闻欣赏,http://rihou.cc:555/tv/[Hk]闽镜新闻
