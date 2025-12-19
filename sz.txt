@@ -1073,6 +1073,118 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 台视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
 
+🌏GPT-台湾,#genre#
+
+台视 HD,https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
+台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
+台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
+中视 HD,https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
+华视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
+公视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
+公视台语台,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
+三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+三立都会台,https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
+三立综合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
+三立戏剧台,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
+东森新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+东森财经新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+东森综合台,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
+东森戏剧台,https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
+东森电影台,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森洋片台,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+东森幼幼台,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+东森超视,https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
+TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
+TVBS 新闻台,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
+TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
+民视 HD,https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
+民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
+民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
+中天综合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
+中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+中天亚洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
+中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
+寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
+寰宇财经台,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
+八大第一台,https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
+八大综合台,https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
+八大戏剧台,https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
+八大娱乐台,https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
+纬来体育,https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
+纬来精彩,https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
+纬来日本,https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
+纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+纬来综合,https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
+纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+爱尔达综合台,https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
+爱尔达影剧台,https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
+爱尔达体育1台,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
+爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+爱尔达体育4台,https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
+非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+年代新闻,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
+龙华戏剧,https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
+龙华偶像,https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
+龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+龙华经典,https://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
+靖天国际,https://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
+靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+大愛電視,https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
+大愛二台,https://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
+EYE 旅游台,https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
+EYE 戏剧台,https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
+亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+TLC旅遊生活,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+Arirang,https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
+AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+好萊塢電影台,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+卫视电影台,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
+龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+華藝綜合,https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
+博斯运动一台,https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
+博斯运动二台,https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
+博斯高球一台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
+博斯高球二台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
+博斯网球台,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+博斯无限台,https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
+好消息 2,https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
+
+🌏CATVOD频道,#genre#
+
+凤凰中文,https://live.catvod.com/iptv.php?id=phzw01&token=b1180c332bf5a7bca7e2b5a82e8be7910ffb68945944e3e47836adbdba2576c5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+凤凰中文,https://live.catvod.com/iptv.php?id=phzw02&token=77d870d63c2e45fcd3f128e433d7f68c0dd323e11034eddfa13408f7f61be75f%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01&token=5ee2bfcfa5997a1b049c15bfce6bf1ed460f5969caa95298398a344bd43b2176%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+凤凰资讯,https://live.catvod.com/iptv.php?id=phzx02&token=bc9d47d4690c3d1052fcc4de31b34610a0d93836be93796918bb2487e22e0cf5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+凤凰香港,https://live.catvod.com/iptv.php?id=fhhk01&token=b72cedf047fc88106eb4ef28fb4d019db8f533e7520aefef4735d0a7fe0abca2%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+凤凰香港,https://live.catvod.com/iptv.php?id=fhhk02&token=5a32c13c2e3386bc44103d1853af19c6b3b82ac8984ec476d15319c123d9f150%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+无线新闻台,https://live.catvod.com/iptv.php?id=wxxw01&token=f0c40120644293925e03a64fb2230768f2ef6660429513fc3a2d0251e81a547a%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+无线新闻,https://live.catvod.com/live.php?id=inews_twn&token=9f5083b8a9854fb0e179c5d1bddbe5c77afe8a2ad730ec1a0a66394ea9ed6862%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+无线新闻,https://live.catvod.com/iptv.php?id=tvbxw01&token=ef185d3adebb289c8bc5ce4d786e50365b508a537681a275dd50931673b8db3c%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+Now新闻台,https://live.catvod.com/iptv.php?id=nownews&token=18b5a1a6850697d6efa699d7c047fabbedb41384f8f95d4cab29dfe5e538aee5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+TVBS新闻台,https://live.catvod.com/live.php?id=tvbs_n&token=e01f10ba6252b69a6928b93b1fcc0ed41b94f7bb998f9d065cce6932effddae6%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+TVBSHD,https://live.catvod.com/live.php?id=tvbs&token=1a35140cc7dc9eae4c46143f74073911031c6fbcc8b240214694caa5ea8ffb2b%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+中天新闻,https://live.catvod.com/live.php?id=ctinews&token=d0325d840d3f91d297b5515cca4cc16cacf1d8cd3ee39491285a3c6ead54b921%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+中天亚洲,https://live.catvod.com/live.php?id=ctiasia_twn&token=c1cbca13564a29e20a157496e55d2bbd56cd8e7f35607be4f516b054d203e10f%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+台视新闻,https://live.catvod.com/live.php?id=ttvnews_twn&token=966ff9439ca7f2587bc08127f05a00415b270ec5481a54c84a02214c96f9171d%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+中视新闻,https://live.catvod.com/live.php?id=zhongshinews_twn&token=b0b92cf747729c7bc9e59935a8e46a758f7cf0d64629777e3a122ac17ab62fdc%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+民视新闻台,https://live.catvod.com/live.php?id=ftvnew_taiwan&token=a1b597f7e89d6e47ed24d1f84badcdb91088b1fd41467c3e0fca1711abe7e126%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+东森新闻台,https://live.catvod.com/live.php?id=ettvnews&token=8d869f92168e821c4b1767251132999d1bbf4207530fee623b44dc903fea2e12%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+寰宇新闻台,https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=1ba4a091c11667bb317efcc46f92dafde70132fb77e145dc72767cba01b6df35%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+壹新聞,https://live.catvod.com/live.php?id=yinews&token=262e86a3a482792e83f973235c3ffe4c31f1b6c333e3a539f0b668d5399083a5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+非凡新闻,https://live.catvod.com/live.php?id=feifannews_twn&token=2ef60ab00b791d8d91eba74d5fcdf55609290c7ae238e2d5377f390214fba27c%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+年代新闻,https://live.catvod.com/live.php?id=niandainews_twn&token=083df3a8e53255513b0005b6d2a82584158511c31ec4d4eed95059cc51ce997b%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
+
 🏠汕头,#genre#
 
 汕头综合,http://denghao.net:4022/udp/239.77.1.130:5146
