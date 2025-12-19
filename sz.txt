@@ -1160,31 +1160,6 @@ CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
 博斯无限台,https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
 好消息 2,https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
 
-🌏CATVOD频道,#genre#
-
-凤凰中文,https://live.catvod.com/iptv.php?id=phzw01&token=b1180c332bf5a7bca7e2b5a82e8be7910ffb68945944e3e47836adbdba2576c5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-凤凰中文,https://live.catvod.com/iptv.php?id=phzw02&token=77d870d63c2e45fcd3f128e433d7f68c0dd323e11034eddfa13408f7f61be75f%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01&token=5ee2bfcfa5997a1b049c15bfce6bf1ed460f5969caa95298398a344bd43b2176%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-凤凰资讯,https://live.catvod.com/iptv.php?id=phzx02&token=bc9d47d4690c3d1052fcc4de31b34610a0d93836be93796918bb2487e22e0cf5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-凤凰香港,https://live.catvod.com/iptv.php?id=fhhk01&token=b72cedf047fc88106eb4ef28fb4d019db8f533e7520aefef4735d0a7fe0abca2%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-凤凰香港,https://live.catvod.com/iptv.php?id=fhhk02&token=5a32c13c2e3386bc44103d1853af19c6b3b82ac8984ec476d15319c123d9f150%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-无线新闻台,https://live.catvod.com/iptv.php?id=wxxw01&token=f0c40120644293925e03a64fb2230768f2ef6660429513fc3a2d0251e81a547a%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-无线新闻,https://live.catvod.com/live.php?id=inews_twn&token=9f5083b8a9854fb0e179c5d1bddbe5c77afe8a2ad730ec1a0a66394ea9ed6862%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-无线新闻,https://live.catvod.com/iptv.php?id=tvbxw01&token=ef185d3adebb289c8bc5ce4d786e50365b508a537681a275dd50931673b8db3c%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-Now新闻台,https://live.catvod.com/iptv.php?id=nownews&token=18b5a1a6850697d6efa699d7c047fabbedb41384f8f95d4cab29dfe5e538aee5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-TVBS新闻台,https://live.catvod.com/live.php?id=tvbs_n&token=e01f10ba6252b69a6928b93b1fcc0ed41b94f7bb998f9d065cce6932effddae6%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-TVBSHD,https://live.catvod.com/live.php?id=tvbs&token=1a35140cc7dc9eae4c46143f74073911031c6fbcc8b240214694caa5ea8ffb2b%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-中天新闻,https://live.catvod.com/live.php?id=ctinews&token=d0325d840d3f91d297b5515cca4cc16cacf1d8cd3ee39491285a3c6ead54b921%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-中天亚洲,https://live.catvod.com/live.php?id=ctiasia_twn&token=c1cbca13564a29e20a157496e55d2bbd56cd8e7f35607be4f516b054d203e10f%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-台视新闻,https://live.catvod.com/live.php?id=ttvnews_twn&token=966ff9439ca7f2587bc08127f05a00415b270ec5481a54c84a02214c96f9171d%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-中视新闻,https://live.catvod.com/live.php?id=zhongshinews_twn&token=b0b92cf747729c7bc9e59935a8e46a758f7cf0d64629777e3a122ac17ab62fdc%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-民视新闻台,https://live.catvod.com/live.php?id=ftvnew_taiwan&token=a1b597f7e89d6e47ed24d1f84badcdb91088b1fd41467c3e0fca1711abe7e126%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-东森新闻台,https://live.catvod.com/live.php?id=ettvnews&token=8d869f92168e821c4b1767251132999d1bbf4207530fee623b44dc903fea2e12%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-寰宇新闻台,https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=1ba4a091c11667bb317efcc46f92dafde70132fb77e145dc72767cba01b6df35%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-壹新聞,https://live.catvod.com/live.php?id=yinews&token=262e86a3a482792e83f973235c3ffe4c31f1b6c333e3a539f0b668d5399083a5%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-非凡新闻,https://live.catvod.com/live.php?id=feifannews_twn&token=2ef60ab00b791d8d91eba74d5fcdf55609290c7ae238e2d5377f390214fba27c%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-年代新闻,https://live.catvod.com/live.php?id=niandainews_twn&token=083df3a8e53255513b0005b6d2a82584158511c31ec4d4eed95059cc51ce997b%3A1766107084%3AMjQwZTozYmE6MzBjYjphZGIwOmU1ODI6ZjEwOTpiZDhiOjliZTM%3D
-
 🏠汕头,#genre#
 
 汕头综合,http://denghao.net:4022/udp/239.77.1.130:5146
