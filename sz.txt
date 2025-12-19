@@ -964,32 +964,26 @@ CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 🌏港澳台,#genre#
 
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://r.jdshipin.com/yDoTN
-无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-无线翡翠,http://bxtv.3a.ink/api.php?id=fct
 无线明珠,http://bxtv.3a.ink/api.php?id=mz
+无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻, http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
+无线翡翠,http://bxtv.3a.ink/api.php?id=fct
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 NOW新闻台,https://cdn.163189.xyz/163189/now
 娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 生命电视台,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 台视,rtmp://f13h.mine.nu/sat/tv071
