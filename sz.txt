@@ -1894,61 +1894,6 @@ IPTV推荐8,http://116.30.248.161:9876/rtp/239.77.0.241:5146
 阳江-1,http://116.30.248.161:9876/rtp/239.253.43.82:5146
 阳江-2,http://116.30.248.161:9876/rtp/239.253.43.83:5146
 
-🏠央视咪咕,#genre#
-
-CCTV-1 综合,https://migu.188766.xyz/?migutoken=f26f6a915e2c9b60722636e99764e3ac&id=CCTV1&type=yy
-CCTV-2 财经,https://migu.188766.xyz/?migutoken=3138a4ce3cde8f6ae6b78f6d760b6eac&id=CCTV2&type=yy
-CCTV-3 综艺,https://migu.188766.xyz/?migutoken=b5d1064d07538727ec6f233c562dd7fd&id=CCTV3&type=yy
-CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=cda681198f00e7ca10ca8e318a9f2ae8&id=CCTV4&type=yy
-CCTV-5 体育,https://migu.188766.xyz/?migutoken=e45ef9e248325298eeaa19ff57301a94&id=CCTV5&type=yy
-CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=4cb8ba0277fed5e59d7bbf6992ec0c00&id=CCTV5p&type=yy
-CCTV-6 电影,https://migu.188766.xyz/?migutoken=50a0a24e5d42b0b9589317e3071d1f87&id=CCTV6&type=yy
-CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=4664373079840124929ab68ebf2c29df&id=CCTV7&type=yy
-CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=e2f6c7dc115b792174595823b2e7a7f1&id=CCTV8&type=yy
-CCTV-9 纪录,https://migu.188766.xyz/?migutoken=cd17eb6de03ff3767341b78292801ac7&id=CCTV9&type=yy
-CCTV-10 科教,https://migu.188766.xyz/?migutoken=9abfe2aa0d0550332f0abb4f84c5106b&id=CCTV10&type=yy
-CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=cc5ca00e927603cc9d04531fc216716c&id=CCTV11&type=yy
-CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=6ceada60134abae75e77132ef95209e4&id=CCTV12&type=yy
-CCTV-13 新闻,https://migu.188766.xyz/?migutoken=19469068871ea952d7eec108c27a6123&id=CCTV13&type=yy
-CCTV-14 少儿,https://migu.188766.xyz/?migutoken=2ca05c6d7e2bb2aef5296e3542debda9&id=CCTV14&type=yy
-CCTV-15 音乐,https://migu.188766.xyz/?migutoken=93c37a7aee624c212c361d4f444622ff&id=CCTV15&type=yy
-CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=0fa3d96231c0611ea279e92932e2d36d&id=CCTV17&type=yy
-CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=bbfc5c4fc7713f8d8b913569814fd0c5&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=3cb0c706ac93167a9db15aabc74b4503&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
-
-🏠卫视咪咕,#genre#
-
-湖南卫视,https://migu.188766.xyz/?migutoken=51fc016797c0d786a069ba7f8af4f76c&id=hnws&type=sz
-浙江卫视,https://migu.188766.xyz/?migutoken=54a0ec09d7a06e64a7eb3b48603bb7f9&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
-浙江卫视,https://migu.188766.xyz/?migutoken=697d5e064f43a2c5348ad8a59e1fc2e5&id=z_jws&type=sz
-江苏卫视,https://migu.188766.xyz/?migutoken=538fccd8296e7f6e949e4d82405a4018&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-东方卫视,https://migu.188766.xyz/?migutoken=ada8b0c22568bf44bbc363792a669983&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
-广东卫视,https://migu.188766.xyz/?migutoken=c4f35548fad83bb4208037235839dc82&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-湖北卫视,https://migu.188766.xyz/?migutoken=5899764909c74bae1df172144aaa00e5&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
-江西卫视,https://migu.188766.xyz/?migutoken=3c9f9f3a17eb33a4eb9399ff0614b036&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-辽宁卫视,https://migu.188766.xyz/?migutoken=e201b71c2f80a5119353e9330ed8d006&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
-陕西卫视,https://migu.188766.xyz/?migutoken=135e0506efdcd1b7b8e45c24b600e412&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-河南卫视,https://migu.188766.xyz/?migutoken=a4715b7808fe399212f9ab133a23ad7f&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
-海南卫视,https://migu.188766.xyz/?migutoken=18681fd45049b362936e4aef868a4daf&id=hn_hnws&type=sz
-三沙卫视,https://migu.188766.xyz/?migutoken=654aa516832b6f54a96de0c8d811dc15&id=hn_ssws&type=sz
-吉林卫视,https://migu.188766.xyz/?migutoken=1a104608f2b994f0c54fa24153a3bfa1&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
-青海卫视,https://migu.188766.xyz/?migutoken=63164739e06fbaf0f7541c17a58d5ad3&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
-海南卫视,https://migu.188766.xyz/?migutoken=284ca61324e63055e79ddfce6f3d5639&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-农林卫视,https://migu.188766.xyz/?migutoken=cba7ab4cacf6ed320388e4a2a268d4cd&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
-内蒙古卫视,https://migu.188766.xyz/?migutoken=3eaca55673d6e91f972d703978b974be&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-兵团卫视,https://migu.188766.xyz/?migutoken=7ad05457211ad67d5be4821d7a20260d&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
-大湾区卫视,https://migu.188766.xyz/?migutoken=537ab92d68eed8dd91bdc938b0268853&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
-
-🌏数字,#genre#
-
-湖南卫视4K,https://migu.188766.xyz/?migutoken=1bf40f8c3b125061b1ab6ece2b0f541d&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视4K,https://migu.188766.xyz/?migutoken=377a385fe1a09dbb794812418d749750&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-东方卫视4K,
-北京卫视4K,https://migu.188766.xyz/?migutoken=14bc123b60c5cb4b7d310634a6eb9f84&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-深圳卫视4K,https://migu.188766.xyz/?migutoken=97eeaef30365e4c9fa07eb8e3e506b69&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-
 🌏粤语频道,#genre#
 
 凤凰中文,https://mgev.188766.xyz/?migutoken=e1d4d736d68fb87823a5e235267630cf&id=fhzw&pp=1
