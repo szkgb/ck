@@ -1695,8 +1695,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻欣赏,http://rihou.cc:555/tv/[Mt]Now新闻
 中天新闻欣赏,http://rihou.cc:555/tv/[Hk]中天新聞
-中天新闻欣赏,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻欣赏,http://rihou.cc:555/tv/[Bx]中天新闻
 寰宇新闻欣赏,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻欣赏,http://rihou.cc:555/tv/[Hk]东森新闻
 中视新闻欣赏,http://rihou.cc:555/tv/[Hk]中视新闻
@@ -1711,7 +1711,6 @@ tvbS闽南欣赏,http://rihou.cc:555/tv/[Hk]tvbs闽南
 凤凰资讯欣赏,http://rihou.cc:555/tv/[Bx]凤凰资讯
 凤凰香港欣赏,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港欣赏,http://rihou.cc:555/tv/[Bx]凤凰香港
-
 
 🌏港澳台3,#genre#
 
