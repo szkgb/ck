@@ -1464,6 +1464,7 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 实况中国慢直播,https://live.iill.top/bilibili/26351451
 新疆博州赛里木湖,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 广东深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+深圳福田中心区,http://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广东韶关车八岭,http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
 广东广州远眺白江湖,http://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
@@ -1505,7 +1506,6 @@ tvbs新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 四川成都天府熊猫塔,http://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
 云南昆明寻甸县,http://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
 青海门源仙米国家公园,http://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
-北京鸟巢水立方,http://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 河北秦皇岛老龙头,http://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
 新疆昌吉州天山天池,http://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
 河北秦皇岛金梦海湾,http://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
