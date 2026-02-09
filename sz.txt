@@ -1909,9 +1909,8 @@ IPTV推荐8,http://116.30.250.199:9876/rtp/239.77.0.241:5146
 阳江-1,http://116.30.250.199:9876/rtp/239.253.43.82:5146
 阳江-2,http://116.30.250.199:9876/rtp/239.253.43.83:5146
 
-▶️电视直播,#genre#
+⬇️电视直播⬇️央视,#genre#
 
-央视,#genre#
 CCTV1,http://iptv.cqshushu.com/migu.php?pid=cctv1&token=1f0d507b06d2e07f5358b052f8c9e519
 CCTV2,http://iptv.cqshushu.com/migu.php?pid=cctv2&token=1f0d507b06d2e07f5358b052f8c9e519
 CCTV-3 综艺,http://iptv.cqshushu.com/migu.php?pid=cctv3&token=1f0d507b06d2e07f5358b052f8c9e519
@@ -1932,7 +1931,8 @@ CCTV-17 农业农村,http://iptv.cqshushu.com/migu.php?pid=cctv17&token=1f0d507b
 CCTV-4 中文国际 欧洲,http://iptv.cqshushu.com/migu.php?pid=cctv4oz&token=1f0d507b06d2e07f5358b052f8c9e519
 CCTV-4 中文国际 美洲,http://iptv.cqshushu.com/migu.php?pid=cctv4mz&token=1f0d507b06d2e07f5358b052f8c9e519
 
-卫视,#genre#
+⬇️电视直播⬇️卫视,#genre#
+
 湖南卫视,http://iptv.cqshushu.com/migu.php?pid=hnws&token=1f0d507b06d2e07f5358b052f8c9e519
 浙江卫视,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&token=1f0d507b06d2e07f5358b052f8c9e519
 浙江卫视,http://iptv.cqshushu.com/migu.php?pid=z_jws&token=1f0d507b06d2e07f5358b052f8c9e519
@@ -1955,7 +1955,8 @@ CCTV-4 中文国际 美洲,http://iptv.cqshushu.com/migu.php?pid=cctv4mz&token=1
 兵团卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&token=1f0d507b06d2e07f5358b052f8c9e519
 大湾区卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&token=1f0d507b06d2e07f5358b052f8c9e519
 
-超清,#genre#
+⬇️电视直播⬇️超清,#genre#
+
 湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864k&token=1f0d507b06d2e07f5358b052f8c9e519
 浙江卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864k&token=1f0d507b06d2e07f5358b052f8c9e519
 东方卫视4K,http://iptv.cqshushu.com/migu.php?pid=dfws&token=1f0d507b06d2e07f5358b052f8c9e519
@@ -1964,7 +1965,8 @@ CCTV-4 中文国际 美洲,http://iptv.cqshushu.com/migu.php?pid=cctv4mz&token=1
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=1f0d507b06d2e07f5358b052f8c9e519
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=1f0d507b06d2e07f5358b052f8c9e519
 
-地方,#genre#
+⬇️电视直播⬇️地方,#genre#
+
 卡酷少儿,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&token=1f0d507b06d2e07f5358b052f8c9e519
 北京影视,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&token=1f0d507b06d2e07f5358b052f8c9e519
 北京文艺,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&token=1f0d507b06d2e07f5358b052f8c9e519
@@ -2023,7 +2025,8 @@ CCTV-4 中文国际 美洲,http://iptv.cqshushu.com/migu.php?pid=cctv4mz&token=1
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8?token=1f0d507b06d2e07f5358b052f8c9e519
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8?token=1f0d507b06d2e07f5358b052f8c9e519
 
-广东,#genre#
+⬇️电视直播⬇️广东,#genre#
+
 广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=1f0d507b06d2e07f5358b052f8c9e519
 广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=1f0d507b06d2e07f5358b052f8c9e519
 广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=1f0d507b06d2e07f5358b052f8c9e519
@@ -2081,7 +2084,8 @@ CCTV-4 中文国际 美洲,http://iptv.cqshushu.com/migu.php?pid=cctv4mz&token=1
 肇庆生活,http://iptv.cqshushu.com/gddf.php?id=zqsh&token=1f0d507b06d2e07f5358b052f8c9e519
 怀集综合,http://iptv.cqshushu.com/gddf.php?id=hjzh&token=1f0d507b06d2e07f5358b052f8c9e519
 
-其他,#genre#
+⬇️电视直播⬇️其他,#genre#
+
 凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=1f0d507b06d2e07f5358b052f8c9e519
 凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=1f0d507b06d2e07f5358b052f8c9e519
 凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=1f0d507b06d2e07f5358b052f8c9e519
