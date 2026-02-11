@@ -3392,6 +3392,12 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8?$800x450
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
+Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+Brazzers TV Europe,http://31.148.48.15/Brazzers_TV_Europe/playlist.m3u8
+French Lover,http://31.148.48.15/French_Lover/mono.m3u8
+Playboy TV,http://31.148.48.15/Playboy_TV/playlist.m3u8
+Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 🌏港澳台2,#genre#
 
