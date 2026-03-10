@@ -1882,6 +1882,7 @@ TVBS HD(备),http://hls-pull-usmanriaz.speedws.com/live/TVBS.flv
 2024年珠江春晚,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
 2024央视网络春晚,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 2025年中央电视台春节联欢晚会,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+春晚2026,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
 
 💃直播中国,#genre#
 
