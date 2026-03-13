@@ -1313,16 +1313,10 @@ CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 🌏港澳台,#genre#
 
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 NOW新闻台,https://cdn.163189.xyz/163189/now
-娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 生命电视台,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 台视,rtmp://f13h.mine.nu/sat/tv071
@@ -1330,56 +1324,33 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来体育台,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-時尚FTV,FashionTV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 http://80.94.54.42/fashiontv/stream/playlist.m3u8?$800x450
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 
 🌏港澳台2,#genre#
 
-有线新闻欣赏,http://rihou.cc:555/tv/[Mt]有线新闻
-有线新闻欣赏,http://rihou.cc:555/tv/[Hv]有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[Hk]有线新闻
 无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
-无线新闻欣赏,http://rihou.cc:555/tv/[Mt]无线新闻
-无线新闻欣赏,http://rihou.cc:555/tv/[Hk]无线新闻
-无线新闻欣赏,http://rihou.cc:555/tv/[SZ]无线新闻
-无线新闻欣赏,http://rihou.cc:555/tv/[Bx]无线新闻
 Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
-Now新闻欣赏,http://rihou.cc:555/tv/[Hk]Now新闻
-Now新闻欣赏,http://rihou.cc:555/tv/[Mt]Now新闻
-中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
-寰宇新闻欣赏,http://rihou.cc:555/tv/[Hk]寰宇新闻
-东森新闻欣赏,http://rihou.cc:555/tv/[Hk]东森新闻
-中视新闻欣赏,http://rihou.cc:555/tv/[Hk]中视新闻
 民视新闻欣赏,http://rihou.cc:555/tv/[Hk]民视新聞
 民视新闻欣赏,http://rihou.cc:555/tv/[Hk]民视新闻
-台视新闻欣赏,http://rihou.cc:555/tv/[Hk]台视新闻
-年代新闻欣赏,http://rihou.cc:555/tv/[Hk]年代新闻
-非凡新闻欣赏,http://rihou.cc:555/tv/[Hk]非凡新闻
 闽镜新闻欣赏,http://rihou.cc:555/tv/[Hk]闽镜新闻
-闽南综合欣赏,http://rihou.cc:555/tv/[Hk]闽南综合
-tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
 凤凰中文欣赏,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰中文欣赏,http://rihou.cc:555/tv/[Bx]凤凰中文
 凤凰资讯欣赏,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰资讯欣赏,http://rihou.cc:555/tv/[Bx]凤凰资讯
 凤凰香港欣赏,http://rihou.cc:555/tv/[Pd]凤凰香港
-凤凰香港欣赏,http://rihou.cc:555/tv/[Bx]凤凰香港
 
 🌏港澳台3,#genre#
 
@@ -1387,46 +1358,22 @@ tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
 無線新聞台,https://t.freetv.fun/live/wu-xian-xin-wen-1.flv
 環球電視臺,https://t.freetv.fun/live/huan-qiu-dian-shi.m3u8
 鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-zi-xun-1.php
-鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-zi-xun.flv
 鳳凰資訊HD[geo-blocked],https://t.freetv.fun/live/feng-huang-zi-xun-2.php
-鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-zi-xun-6.php
 中天新聞FHD[geo-blocked],https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 中視新聞FHD,https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
 中視新聞臺[geo-blocked],https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
 中視新聞臺[geo-blocked],https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.m3u8
 中視新聞臺[geo-blocked],https://t.freetv.fun/live/zhong-shi-xin-wen-12.m3u8
-台視新聞FHD,https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
 台視新聞FHD,https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
 寰宇新聞[geo-blocked],https://t.freetv.fun/live/huan-yu-xin-wen-21.m3u8
 寰宇新聞台灣臺[geo-blocked],https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-16.m3u8
-民視新聞 HD,https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
 民視新聞HD,https://t.freetv.fun/live/min-shi-xin-wen.m3u8
-臺視新聞臺,https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
 臺視新聞臺,https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
-臺視新聞臺,https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
-臺視新聞臺,https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
 臺視財經臺,https://t.freetv.fun/live/tai-shi-cai-jing.m3u8
 華視新聞資訊,https://t.freetv.fun/live/hua-shi-xin-wen-zi-xun.m3u8
 鏡新聞,https://t.freetv.fun/live/jing-xin-wen.m3u8
 非凡新聞HD[geo-blocked],rtmp://f13h.mine.nu/sat/tv581
-中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-有线新闻欣赏,http://rihou.cc:555/tv/[Hv]有线新闻
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
-無綫新聞台,http://hls.168.us.kg/u/83/master.m3u8
-明珠台,http://hls.168.us.kg/u/84/master.m3u8
-HOY 國際財經台,http://hls.168.us.kg/u/76/master.m3u8
-HOY TV,http://hls.168.us.kg/u/77/master.m3u8
-HOY 資訊台,http://hls.168.us.kg/u/78/master.m3u8
-ViuTVsix,http://hls.168.us.kg/u/96/master.m3u8
-ViuTV,http://hls.168.us.kg/u/99/master.m3u8
-Now直播台,http://hls.168.us.kg/u/331/master.m3u8
-Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
-Now財經台,http://hls.168.us.kg/u/331/master.m3u8
-NowSports,http://hls.168.us.kg/u/630/master.m3u8
-港台電視 31,http://hls.168.us.kg/u/31/master.m3u8
-TVBS HD(备),http://hls-pull-usmanriaz.speedws.com/live/TVBS.flv
 
 🏠汕头,#genre#
 
