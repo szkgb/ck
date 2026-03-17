@@ -2091,6 +2091,9 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 
 🌏港澳台2,#genre#
 
+中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
+中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
+寰宇新闻欣赏,http://rihou.cc:555/tv/[Hk]寰宇新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[Hk]有线新闻
 无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
 Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
