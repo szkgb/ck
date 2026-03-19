@@ -2224,12 +2224,12 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 广东云浮象窝山小长城,http://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
 广东云浮象窝山小长城,http://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1/index.m3u8
 广东韶关车八岭,http://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8
-河北沧州南川老街,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 河北秦皇岛老龙头景区,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-河北秦皇岛老龙头,http://gctxyc.liveplay.myqcloud.com/gc/zjwzbblh_1/index.m3u8
+河北秦皇岛老龙头景区,http://gctxyc.liveplay.myqcloud.com/gc/zjwzbblh_1/index.m3u8
 河北秦皇岛金梦海湾,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
 河北秦皇岛金梦海湾,http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1/index.m3u8
 河北承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+河北承德金山岭长城,http://gctxyc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
 河北邯郸京娘湖1,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 河北邯郸京娘湖2,http://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 河北邯郸京娘湖2,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
@@ -2241,12 +2241,10 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 河北沧州南大港湿地2,http://gctxyc.liveplay.myqcloud.com/gc/ztn_1/index.m3u8
 河北沧州南川老街,http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1/index.m3u8
 河北沧州南川老街,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
-河北承德赛罕坝,http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+河北承德塞罕坝,http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 河北承德塞罕坝,http://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
 河北承德避暑山庄,http://gcalic.v.myalicdn.com/gc/zsslsfwsgz_1/index.m3u8
 河北承德避暑山庄,http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
-河北承德金山岭长城,http://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-河北承德金山岭长城,http://gctxyc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
 吉林省吉林市临江门大桥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
 吉林省吉林市临江门大桥,http://gctxyc.liveplay.myqcloud.com/gc/zh03_1/index.m3u8
 吉林省吉林市北山公园,http://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
@@ -2298,8 +2296,8 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 山东青岛艾山天文台,http://gctxyc.liveplay.myqcloud.com/gc/jhs01_1/index.m3u8
 山东济南趵突泉,http://gctxyc.liveplay.myqcloud.com/gc/wgw03_1/index.m3u8
 山东济南趵突泉,http://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
-福建南平武夷山,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
-福建南平武夷山,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+福建南平武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
+福建南平武夷山玉女峰,http://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
 💃熊猫直播,#genre#
 
