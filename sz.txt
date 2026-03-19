@@ -2210,8 +2210,18 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 
 汕头小公园,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
 实况中国慢直播,https://live.iill.top/bilibili/26351451
-新疆博州赛里木湖,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+壹视界1,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SHZM.m3u8
+壹视界2,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SSCS.m3u8
+壹视界3,https://livepull-tcyzb.sztv.com.cn/live/YSZ_YSHC.m3u8
+龙头新闻,http://210.76.60.23:1935/live/jhqiao/chunklist_w1668088012.m3u8
+西湖网红椅“云邂逅”,https://hls.quklive.com/live/play-sh-21.quklive.com/1752657394901065.m3u8?auth_key=2089260079-aea88b17101146b8b212cd6c64ee110c-0-4c38991fe3afbc460da26ed850375532
+河北承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
 广东深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+河北沧州南川老街,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+河北秦皇岛老龙头景区,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+河北秦皇岛金梦海湾,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+吉林省吉林市临江门大桥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+新疆博州赛里木湖,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 河北邯郸京娘湖,http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广东韶关车八岭,http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
 广东广州远眺白江湖,http://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
@@ -2240,7 +2250,7 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 黑龙江哈尔滨霋虹桥,http://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 河北承德金山岭长城,http://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
 黄山飞来石,http://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-吉林省吉林市,http://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+
 安徽黄山排云亭,http://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 安徽黄山西海大峡谷,http://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 河北沧州南大港湿地1,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
@@ -2280,7 +2290,9 @@ Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
 黑龙江哈尔滨霋虹桥,http://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
 河北承德金山岭长城,http://gctxyc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
 黄山飞来石,http://gctxyc.liveplay.myqcloud.com/gc/hsptgy_1/index.m3u8
-吉林省吉林市,http://gctxyc.liveplay.myqcloud.com/gc/zh03_1/index.m3u8
+吉林省吉林市临江门大桥,http://gctxyc.liveplay.myqcloud.com/gc/zh03_1/index.m3u8
+黑龙江哈尔滨霁虹桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+湖南邵阳崀山风景名胜区,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 安徽黄山排云亭,http://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8
 安徽黄山西海大峡谷,http://gctxyc.liveplay.myqcloud.com/gc/yxlcyt_1/index.m3u8
 河北沧州南大港湿地,http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8
