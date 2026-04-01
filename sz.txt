@@ -2993,6 +2993,20 @@ HOY TV,http://156.238.248.80:5050/smart.php?id=hoycaijing_twn&token=8522
 TVBS HD,http://156.238.248.80:5050/smart.php?id=tvbs&token=8522
 TVBS 新闻台,http://156.238.248.80:5050/smart.php?id=tvbs_n&token=8522
 
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+无线新闻台,http://r.jdshipin.com/CkuBd
+翡翠台,http://r.jdshipin.com/qClQf
+华丽翡翠台,http://r.jdshipin.com/thuYX
+TVB Plus,http://r.jdshipin.com/Nr5jq
+澳视澳门,http://r.jdshipin.com/n2YZI
+TVB星河,http://r.jdshipin.com/Voac4
+广东珠江,http://r.jdshipin.com/sE5vO
+广东体育,http://r.jdshipin.com/LiYdg
+
+
 🏠汕头,#genre#
 
 汕头综合,http://denghao.net:4022/udp/239.77.1.130:5146
