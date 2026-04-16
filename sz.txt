@@ -3083,6 +3083,14 @@ TVB星河,http://r.jdshipin.com/Voac4
 河北承德避暑山庄,http://gcalic.v.myalicdn.com/gc/zsslsfwsgz_1/index.m3u8
 河北承德避暑山庄,http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
 河北承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+河北石家庄,https://live.pull.hebtv.com/live/mzb109.m3u8
+河北赵州桥,https://live.pull.hebtv.com/live/mzb108.m3u8
+河北正定古城,https://live.pull.hebtv.com/live/mzb431.m3u8
+河北正定隆兴寺,https://live.pull.hebtv.com/live/mzb124.m3u8
+河北平山县西北波,https://live.pull.hebtv.com/live/mzb112.m3u8
+河北平山县天桂山,https://live.pull.hebtv.com/live/mzb104.m3u8
+河北灵寿县五岳寨,https://live.pull.hebtv.com/live/mzb664.m3u8
+河北井陉张河湾,https://live.pull.hebtv.com/live/mzb735.m3u8
 吉林省吉林市临江门大桥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
 吉林省吉林市临江门大桥,http://gctxyc.liveplay.myqcloud.com/gc/zh03_1/index.m3u8
 吉林省吉林市北山公园,http://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
