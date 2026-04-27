@@ -2873,10 +2873,11 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 
 中天新闻1,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻2,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
-中天新闻3,http://222.128.55.152:9080/live/fc.m3u8
-中天新闻4,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
+中天新闻3,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 中视新闻FHD[geo-blocked],https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
+中天新闻,http://8.218.84.3:8885/streams/3r3V_Qn-cML2RGlXnnrtDWvkqhjiNzzN7ryLHOA1KXuhOaqkZBa4c0c2MEi6TVuxr6_m2h8xR5s7DS5LWlZ44l0me4mjuttyK4ZUHKDWPeJxtvuwbGmRM-ejNivyw-p-T0Jau9hhcSOUSUwBZJTuAxl9Hnvil6o7KEx8LD6i4ZM-E2kB1Ya0PERsIVKTkYRssgONyPWJStTyhL82tBQ50aQCpDmzDcKYwY4QLtij5JcCl1InBNvxr5-GkNPEtcT1irlZzm3YiBmcEHR-u5YDeA.m3u8?ips=&u=1776595038
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新闻,http://8.218.84.3:8885/streams/BHXnwiHKQ3iZaWXleICXtsqPt5tbLLKiDPSoxkX2pMVQjqWvf5uIfauSnT4wZTC5U3eijZNegFe9dFXnuPDaGVyTLpwLGBfJ3BOc0yrfF0b-Axov6aBCzwS0rHtm-McDD_1f4nkv-5hIWob7iYcbzXn0fIJCRH6BDvV1YWBqm7uEPEM3lQUKBUYxJm0PNbHmgUdGZ3AkcYWnm-VD7EpvJRMPvQ7PrwyArKpCdmg3c2oPSWf4QjMmg4-FsFxxhT9hx_7StUujfqSt82267lg7lQ.m3u8?ips=&u=1776607276
 寰宇新闻[geo-blocked],https://t.freetv.fun/live/huan-yu-xin-wen-21.m3u8
 寰宇新闻台灣臺[geo-blocked],https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-16.m3u8
 无线新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbnews
