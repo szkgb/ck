@@ -5118,10 +5118,13 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 
 🌏港澳台3,#genre#
 
+中天新闻1,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 中天新闻2,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻3,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 中视新闻FHD[geo-blocked],https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新闻[geo-blocked],https://t.freetv.fun/live/huan-yu-xin-wen-21.m3u8
 寰宇新闻台灣臺[geo-blocked],https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-16.m3u8
 无线新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbnews
