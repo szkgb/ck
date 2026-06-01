@@ -3433,6 +3433,12 @@ TVB星河,http://r.jdshipin.com/Voac4
 
 💃直播中国,#genre#
 
+金平区小公园亭,https://media9.vgmcc.com:5161/HLS/live/MT_20241202094012286lr7GJHYcdI4p/index.m3u8?encrypt=tPNUT0JhkzI7vlNBYoVtcA&expires=1739424841
+澎湃景区,https://play-a2.quklive.com/live/1765245429980053.m3u8
+上海陆家嘴,https://tftp4ge3drmt1go5nhcju8yzdrptpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=8a15d23fe661e20e47cce670-177203770982085&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168187559701054860
+上海魔都眼,https://tftp0gaa1hcjagozdcmttgyan45djq311475uf3issh5pchzgg55p.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=5b0157b25e26fa5fbe3ebedf-177204125960201&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218615997031039
+上海外滩观光平台,https://tftp1go3nhqbtfa3d1mtugessa4mscwszqh3qppizg5m8f3ts65e.100ycdn.com/live-ws.kksmg.com/live/sdi4/playlist.m3u8?wsSession=e18328672261b2e3fcadcc17-177204266364389&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168276898037564649
+上海北外滩,https://tftp6graunmttghanhctofa3uymmcpf5gkmmzqczgs45upiu1ha5xpw.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=3ccfdb4284eaea73bb7cab60-177204275008725&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218612390266553
 龙头新闻,http://210.76.60.23:1935/live/jhqiao/chunklist_w1668088012.m3u8
 西湖网红椅“云邂逅”,https://hls.quklive.com/live/play-sh-21.quklive.com/1752657394901065.m3u8?auth_key=2089260079-aea88b17101146b8b212cd6c64ee110c-0-4c38991fe3afbc460da26ed850375532
 广东韶关车八岭,http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
