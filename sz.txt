@@ -52,72 +52,9 @@ CCTV16 4K,http://ddns.xryo.cn:8888/rtp/239.111.205.134:5140
 
 🏠广东电信组播,#genre#
 
-
 ⬇️直播⬇️广东,#genre#
 
-广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=94f7af0544fc88e2a362cf45571479e7
-广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=94f7af0544fc88e2a362cf45571479e7
-广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=94f7af0544fc88e2a362cf45571479e7
-大湾区卫视,http://iptv.cqshushu.com/gdtv.php?id=dwqws1&token=94f7af0544fc88e2a362cf45571479e7
-大湾区卫视(海外),http://iptv.cqshushu.com/gdtv.php?id=dwqws2&token=94f7af0544fc88e2a362cf45571479e7
-广东影视,http://iptv.cqshushu.com/gdtv.php?id=gdys&token=94f7af0544fc88e2a362cf45571479e7
-广东4K,http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=94f7af0544fc88e2a362cf45571479e7
-岭南戏曲,http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=94f7af0544fc88e2a362cf45571479e7
-广东民生,http://iptv.cqshushu.com/gdtv.php?id=gdms&token=94f7af0544fc88e2a362cf45571479e7
-广东新闻,http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=94f7af0544fc88e2a362cf45571479e7
-广东移动,http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=94f7af0544fc88e2a362cf45571479e7
-广东少儿,http://iptv.cqshushu.com/gdtv.php?id=gdse&token=94f7af0544fc88e2a362cf45571479e7
-嘉佳卡通,http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=94f7af0544fc88e2a362cf45571479e7
-广州综合,http://iptv.cqshushu.com/gddf.php?id=gzzh&token=94f7af0544fc88e2a362cf45571479e7
-广州新闻,http://iptv.cqshushu.com/gddf.php?id=gzxw&token=94f7af0544fc88e2a362cf45571479e7
-广州法治,http://iptv.cqshushu.com/gddf.php?id=gzfz&token=94f7af0544fc88e2a362cf45571479e7
-4K南国都市,http://iptv.cqshushu.com/gddf.php?id=ngds&token=94f7af0544fc88e2a362cf45571479e7
-番禺综合,http://iptv.cqshushu.com/gddf.php?id=pyzh&token=94f7af0544fc88e2a362cf45571479e7
-深圳卫视4K,http://iptv.cqshushu.com/gddf.php?id=szws4k&token=94f7af0544fc88e2a362cf45571479e7
-深圳卫视4K,http://iptv.cqshushu.com/gddf.php?id=szws4k2&token=94f7af0544fc88e2a362cf45571479e7
-深圳卫视,http://iptv.cqshushu.com/gddf.php?id=szws&token=94f7af0544fc88e2a362cf45571479e7
-深圳都市,http://iptv.cqshushu.com/gddf.php?id=szds&token=94f7af0544fc88e2a362cf45571479e7
-深圳都市,http://iptv.cqshushu.com/gddf.php?id=szds2&token=94f7af0544fc88e2a362cf45571479e7
-深圳电视剧,http://iptv.cqshushu.com/gddf.php?id=szdsj&token=94f7af0544fc88e2a362cf45571479e7
-深圳财经,http://iptv.cqshushu.com/gddf.php?id=szcj&token=94f7af0544fc88e2a362cf45571479e7
-深圳少儿,http://iptv.cqshushu.com/gddf.php?id=szse&token=94f7af0544fc88e2a362cf45571479e7
-深圳移动,http://iptv.cqshushu.com/gddf.php?id=szyd&token=94f7af0544fc88e2a362cf45571479e7
-深圳宜和购物,http://iptv.cqshushu.com/gddf.php?id=szyhgw&token=94f7af0544fc88e2a362cf45571479e7
-深圳国际,http://iptv.cqshushu.com/gddf.php?id=szgj&token=94f7af0544fc88e2a362cf45571479e7
-东莞综合,http://iptv.cqshushu.com/gddf.php?id=dgzh&token=94f7af0544fc88e2a362cf45571479e7
-东莞生活,http://iptv.cqshushu.com/gddf.php?id=dgsh&token=94f7af0544fc88e2a362cf45571479e7
-江门综合,http://iptv.cqshushu.com/gddf.php?id=jmzh&token=94f7af0544fc88e2a362cf45571479e7
-中山综合,http://iptv.cqshushu.com/gddf.php?id=zszh&token=94f7af0544fc88e2a362cf45571479e7
-云浮综合,http://iptv.cqshushu.com/gddf.php?id=yfzh&token=94f7af0544fc88e2a362cf45571479e7
-云浮文旅,http://iptv.cqshushu.com/gddf.php?id=yfwl&token=94f7af0544fc88e2a362cf45571479e7
-湛江综合,http://iptv.cqshushu.com/gddf.php?id=zjzh&token=94f7af0544fc88e2a362cf45571479e7
-湛江公共,http://iptv.cqshushu.com/gddf.php?id=zjgg&token=94f7af0544fc88e2a362cf45571479e7
-丰顺综合,http://iptv.cqshushu.com/gddf.php?id=fszh&token=94f7af0544fc88e2a362cf45571479e7
-五华综合,http://iptv.cqshushu.com/gddf.php?id=whzh&token=94f7af0544fc88e2a362cf45571479e7
-汕头综合,http://iptv.cqshushu.com/gddf.php?id=stzh&token=94f7af0544fc88e2a362cf45571479e7
-汕头生活,http://iptv.cqshushu.com/gddf.php?id=stsh&token=94f7af0544fc88e2a362cf45571479e7
-汕尾综合,http://iptv.cqshushu.com/gddf.php?id=swzh&token=94f7af0544fc88e2a362cf45571479e7
-汕尾生活,http://iptv.cqshushu.com/gddf.php?id=swsh&token=94f7af0544fc88e2a362cf45571479e7
-潮州综合,http://iptv.cqshushu.com/gddf.php?id=czzh&token=94f7af0544fc88e2a362cf45571479e7
-潮州民生,http://iptv.cqshushu.com/gddf.php?id=czms&token=94f7af0544fc88e2a362cf45571479e7
-揭阳综合,http://iptv.cqshushu.com/gddf.php?id=jytv1&token=94f7af0544fc88e2a362cf45571479e7
-揭阳生活,http://iptv.cqshushu.com/gddf.php?id=jytv2&token=94f7af0544fc88e2a362cf45571479e7
-河源综合,http://iptv.cqshushu.com/gddf.php?id=hyzh&token=94f7af0544fc88e2a362cf45571479e7
-河源生活,http://iptv.cqshushu.com/gddf.php?id=hysh&token=94f7af0544fc88e2a362cf45571479e7
-韶关综合,http://iptv.cqshushu.com/gddf.php?id=sgzh&token=94f7af0544fc88e2a362cf45571479e7
-阳江1,http://iptv.cqshushu.com/gddf.php?id=yjtv1&token=94f7af0544fc88e2a362cf45571479e7
-阳江2,http://iptv.cqshushu.com/gddf.php?id=yjtv2&token=94f7af0544fc88e2a362cf45571479e7
-清远综合,http://iptv.cqshushu.com/gddf.php?id=qyzh&token=94f7af0544fc88e2a362cf45571479e7
-肇庆综合,http://iptv.cqshushu.com/gddf.php?id=zqzh&token=94f7af0544fc88e2a362cf45571479e7
-肇庆生活,http://iptv.cqshushu.com/gddf.php?id=zqsh&token=94f7af0544fc88e2a362cf45571479e7
-怀集综合,http://iptv.cqshushu.com/gddf.php?id=hjzh&token=94f7af0544fc88e2a362cf45571479e7
-
 ⬇️直播⬇️其他,#genre#
-
-凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=94f7af0544fc88e2a362cf45571479e7
-凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=94f7af0544fc88e2a362cf45571479e7
-凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=94f7af0544fc88e2a362cf45571479e7
-纬来体育,http://iptv.cqshushu.com/wltv.php?id=wlty&token=94f7af0544fc88e2a362cf45571479e7
 
 ▶️陕西电信,#genre#
 
@@ -633,36 +570,24 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 🌏港澳台3,#genre#
 
 中天新闻,rtmp://home.aceimage.cn/live/332123-ztxw
-中天新闻1,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
+中天新闻1,https://4g.158.qzz.io/163189/60f5c767b807519a
+中天新闻2,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新闻3,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
-寰宇新聞台,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
-寰宇新聞台灣台,https://iptv.852851.xyz/ch/c923b10e6ed936189a40933fbd841da9/master.m3u8
-中天新闻(备),http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
-TVBS新闻,http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
-寰宇新闻,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台视新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
 民視新聞台,https://4gtv.158.qzz.io/163189/23cdb7e8-e336-4e46-955e-a14654148f1d/
 TVBS新聞,https://4g.158.qzz.io/163189/351e8567ea4a6f99
 中視新聞,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
 中視新聞,https://4gtv.158.qzz.io/163189/7a579ec9-d021-47f3-8ae0-756db38c4d63/
-中天新聞台,https://4g.158.qzz.io/163189/60f5c767b807519a
-TVBS新聞8528极速,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
-三立新聞iNEWS8528极速,https://iptv.852851.xyz/ch/6c0dfd2d665343f014b36b6888c1ff14/master.m3u8
-中天新聞台8528极速,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-中視新聞8528极速,https://iptv.852851.xyz/ch/c87ed6b3f13ae3f15e3cb76736f6c660/master.m3u8
-寰宇新聞台8528极速,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
-寰宇新聞台灣台8528极速,https://iptv.852851.xyz/ch/c923b10e6ed936189a40933fbd841da9/master.m3u8
-華視新聞8528极速,https://iptv.852851.xyz/ch/aded50059a1800c43d8550835d5bffc7/master.m3u8
-東森新聞台8528极速,https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
-民視新聞台8528极速,https://iptv.852851.xyz/ch/d189e089ebb1c52dc37afcaa7fb0f732/master.m3u8
-鳳凰衛視中文台8528极速,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
-鳳凰衛視資訊台8528极速,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
 
 🌏 台湾,#genre#
 
