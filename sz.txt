@@ -2444,6 +2444,7 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 
 🌏港澳台3,#genre#
 
+中天新闻,https://my5353.com/ztxw
 中天新闻,rtmp://home.aceimage.cn/live/332123-ztxw
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
 中天新闻1,https://4g.158.qzz.io/163189/60f5c767b807519a
