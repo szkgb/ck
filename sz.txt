@@ -3190,7 +3190,6 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 
 🌏港澳台3,#genre#
 
-中天新闻,https://my5353.com/ztxw
 中天新闻0,rtmp://221.4.216.91/live/332123-ztxw
 中天新闻1,rtmp://ai.unispc.com/live/nb-py-ztxw
 中天新闻2,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
