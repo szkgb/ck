@@ -1239,11 +1239,7 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 
 🌏港澳台1,#genre#
 
-中天新闻(备),rtmp://media.atmsiot.com/live/ztxw
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
-TVBS新闻,http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
-寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
 民視新聞,http://211.72.174.95:8117/0.ts
 台视新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
@@ -1257,6 +1253,7 @@ TVBS新闻,http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
 凤凰中文欣赏,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯欣赏,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港欣赏,http://rihou.cc:555/tv/[Pd]凤凰香港
+寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
 
 鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
