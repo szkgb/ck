@@ -503,7 +503,6 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 汕头小公园,https://media9.vgmcc.com:5089/HLS/live/MT_20260526222335461BwLEzGtdXkwt/index.m3u8?encrypt=KMQWQXU16ho0UZhMM_VCQQ&expires=1782201284
 南澳大桥,https://media9.vgmcc.com:5149/HLS/live/MT_202508131008502255HBLdkMuQwXm/index.m3u8?encrypt=ASELFBGf00kCXLG_Vqiqhw&expires=1783328175
 南澳后宅海滨,https://media9.vgmcc.com:5097/HLS/live/MT_20250813100541800RQNdBik0tYBw/index.m3u8?encrypt=gqQg2eNrpY8T4a37n9GWeQ&expires=1783328261
-汕头南澳十里银滩,https://media9.vgmcc.com:5196/HLS/live/MT_20251127101834496miegRIby0wq4/index.m3u8?encrypt=_Hxb4V8ywktWYK8gBZAOeg&expires=1782200482
 汕头东海岸观光大道,https://media9.vgmcc.com:5065/HLS/live/MT_20250813101821764yQOKyg1gBvYI/index.m3u8?encrypt=-7kbapKMBaET-5Sv_BYYlQ&expires=1782200579
 汕头内海湾与南滨新城,https://media9.vgmcc.com:5129/HLS/live/MT_20250814165608329vyzqusVGJWPs/index.m3u8?encrypt=meS45gyrAhXpRF-NJ1_Syg&expires=1782200693
 汕头濠江区北山湾,https://media9.vgmcc.com:5173/HLS/live/MT_20250128112931511VRHdz2PKwm76/index.m3u8?encrypt=dnNEgYo1ACj_jsTadO_WFA&expires=1782200736
