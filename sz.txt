@@ -9,29 +9,25 @@
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LR•IPV4
 
-CCTV4K,http://ddns.xryo.cn:8888/rtp/239.111.205.40:5140
-CCTV4K,http://ddns.xryo.cn:8888/rtp/239.109.205.192:9608
-CCTV4K,http://ddns.xryo.cn:8888/rtp/239.111.205.38:5140
-CCTV16 4K,http://ddns.xryo.cn:8888/rtp/239.111.205.134:5140
-北京卫视4K,http://ddns.xryo.cn:8888/rtp/239.109.205.5:9144
-北京卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.51:5140
-东方卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.67:5140
-广东卫视4K,http://ddns.xryo.cn:8888/rtp/239.110.205.36:9850
-广东卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.103:5140
-深圳卫视4K,http://ddns.xryo.cn:8888/rtp/239.109.205.195:9642
-深圳卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.104:5140
-湖南卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.63:5140
-湖南卫视4K,http://ddns.xryo.cn:8888/rtp/239.110.205.91:7912
-山东卫视4K,http://ddns.xryo.cn:8888/rtp/239.110.205.6:9770
-山东卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.66:5140
-四川卫视4K,http://ddns.xryo.cn:8888/rtp/239.110.205.90:7916
-四川卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.62:5140
-浙江卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.65:5140
-浙江卫视4K,http://ddns.xryo.cn:8888/rtp/239.109.205.104:8768
-江苏卫视4K,http://ddns.xryo.cn:8888/rtp/239.109.205.97:8712
-江苏卫视4K,http://ddns.xryo.cn:8888/rtp/239.111.205.64:5140
-爱上4K,http://ddns.xryo.cn:8888/rtp/239.112.205.186:5140
-爱上4K,http://ddns.xryo.cn:8888/rtp/239.109.205.53:8360
+CCTV4K,http://denghao.net:4022/rtp/239.77.0.194:5146
+CCTV4K,http://denghao.net:4022/rtp/239.77.1.180:5146
+北京卫视4K,http://denghao.net:4022/rtp/239.77.0.2:5146
+北京卫视4K,http://denghao.net:4022/rtp/239.77.0.3:5146
+北京卫视4K,http://denghao.net:4022/rtp/239.77.1.13:5146
+东方卫视4K,http://denghao.net:4022/rtp/239.77.0.59:5146
+广东卫视4K,http://denghao.net:4022/rtp/239.77.0.66:5146
+广东卫视4K,http://denghao.net:4022/rtp/239.77.0.65:5146
+湖南卫视4K,http://denghao.net:4022/rtp/239.77.0.56:5146
+山东卫视4K,http://denghao.net:4022/rtp/239.77.0.61:5146
+四川卫视4K,http://denghao.net:4022/rtp/239.77.0.60:5146
+广东综艺4K,http://denghao.net:4022/rtp/239.77.0.245:5146
+广东综艺4K,http://denghao.net:4022/rtp/239.77.0.244:5146
+广东综艺4K,http://denghao.net:4022/rtp/239.77.1.237:5146
+深圳卫视4K,http://denghao.net:4022/rtp/239.77.1.14:5146
+深圳卫视4K,http://denghao.net:4022/rtp/239.77.0.67:5146
+南国都市4K,http://denghao.net:4022/rtp/239.253.43.99:5146
+江苏卫视4K,http://denghao.net:4022/rtp/239.77.0.57:5146
+浙江卫视4K,http://denghao.net:4022/rtp/239.77.0.58:5146
 
 🌟电影,#genre#
 
