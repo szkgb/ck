@@ -1544,7 +1544,7 @@ TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 
 今日影视,#genre#
-需切换EXO解码,1
+
 凤凰中文,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
 凤凰资讯,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊備&key=***
 凤凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
@@ -1867,8 +1867,8 @@ TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
 
 广州live,
 大美云南,
-松赞梅里山居,
-松赞拉萨林卡,
+松赞梅里山居,https://live.bilibili.com/1940899751?live_from=&session_id=&launch_id=&trackid=&spm_id_from=333.337.search-card.all.click
+松赞拉萨林卡,https://cn-jsyz-ct-03-17.bilivideo.com/live-bvc/393887/live_10i0gggc9ie_STi2lIx_23pt.flv?expires=1785998497&pt=html5&deadline=1785998497&len=0&oi=0x240e03ba30ce2cc030752424987940c2&platform=html5&qn=10000&trid=100010e4cc7203bed2b425b803141e6a741e&uipk=100&uipv=100&nbs=1&bmt=2&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=47b0b33f825aa608a00286d2f760aae9&site=d43a4b549058d940776ce493035a607c&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-17&chash=0&sg=lr&trace=8388633&isp=ct&rg=South&pv=Guangdong&score=1&deploy_env=prod&sk=ec67a7d92244c76518fb0acb33ca116f&info_source=origin&codec=0&hdr_type=0&source=puv3_onetier&suffix=origin&p2p_type=-1&origin_bitrate=8346&pp=&hot_cdn=0&media_type=0&sl=1&vd=nc&zoneid_l=151371777&sid_l=stream_name_cold&src=puv3&order=1
 平潭海景,https://cn-jsyz-ct-03-18.bilivideo.com/live-bvc/531543/live_19589_332_SEJg3a5_c521e483/index.m3u8?expires=1785986939&len=0&oi=0x240e03ba30ce2cc030752424987940c2&pt=web&qn=10000&trid=10073a040dc65d0490b642b3d59c406a73f1&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=43341953942a7d5cc460a68ea9622cb5&site=71f6074f6a87483b3d14b028b384b0e8&free_type=0&mid=0&sche=ban&bvchls=1&sid=cn-jsyz-ct-03-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=South&pv=Guangdong&flvsk=23098e3da157f8606d93945ac22fd19c&codec=0&source=puv3_onetier&sk=679be3bb42e1a77921aed8e373f5a014&pp=rtmp&deploy_env=prod&hot_cdn=0&hdr_type=0&origin_bitrate=6049&suffix=origin&info_source=origin&p2p_type=1&sl=1&score=1&media_type=0&vd=nc&zoneid_l=151371777&sid_l=stream_name_cold&src=puv3&order=1
 景区联播,https://d1--cn-gotcha208.bilivideo.com/live-bvc/687372/live_ye73855e4i_Sfaphh0_3hfy5/index.m3u8?expires=1785986863&len=0&oi=0x240e03ba30ce2cc030752424987940c2&pt=web&qn=10000&trid=10072ae1593d28c4f6b70036c2582b6a73f1&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha208&sign=edcb61c6edb47c26b9c05002d66d1063&site=2c5923ad5b9aa2d6f9bb0b6f6070a1d4&free_type=0&mid=0&sche=ban&bvchls=1&trace=16&isp=ct&rg=South&pv=Guangdong&origin_bitrate=5761&hdr_type=0&codec=0&info_source=cache&pp=&sk=f173145f49a3c8976cc308986fb73dff&deploy_env=prod&flvsk=4c946c836756ed5c512ed271e340d97a&p2p_type=1&source=puv3_onetier&suffix=origin&score=50&media_type=0&sl=1&hot_cdn=852356&vd=bc&src=puv3&order=1
 维港美景,https://ec-jssz-ct-01-15.bilivideo.com/live-bvc/158001/live_11pkz_SLwHyAX_5c2nr/index.m3u8?expires=1785809203&len=0&oi=0x240e03ba30cc5e20a51a710ab984bd40&pt=web&qn=10000&trid=10077e96389030ed2d000898dbd9b46a713b&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=e86647725724518953c95509c040290c&site=3d84564a487ef086aa22f5d20a607bd8&free_type=0&mid=0&sche=ban&bvchls=1&sid=ec-jssz-ct-01-15&chash=1&sg=lr&trace=8388633&isp=ct&rg=South&pv=Guangdong&suffix=origin&deploy_env=prod&codec=0&source=puv3_onetier&p2p_type=1&pp=rtmp&info_source=origin&hdr_type=0&score=1&origin_bitrate=3998&media_type=0&hot_cdn=0&sl=1&flvsk=2487e85526f35520ed475cba8f2c70c9133444a97c6691cfc42c8ad80f8c4219&sk=b48cd6ac619a3170e774970e9737b8a3f7ce7c435362f7344758d8f3b48bc08d&vd=dec&zoneid_l=151371777&sid_l=stream_name_cold&src=puv3&order=1
