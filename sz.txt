@@ -1586,6 +1586,7 @@ TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
 汕头濠江区北山湾,https://media9.vgmcc.com:5173/HLS/live/MT_20250128112931511VRHdz2PKwm76/index.m3u8?encrypt=dnNEgYo1ACj_jsTadO_WFA&expires=1782200736
 汕头妈屿岛,https://media9.vgmcc.com:5001/HLS/live/MT_20250725171051960xodJCsR5Cung/index.m3u8?encrypt=k5sSNu-Fwmi7BS4SkrYYnA&expires=1782200899
 汕头澄海区漳林古港,https://media9.vgmcc.com:5189/HLS/live/MT_20250813101830501afKzHrouUrfa/index.m3u8?encrypt=VcmCa6Vj5r2-inZt7Cg_Gw&expires=1782201197
+汕头内海湾与南滨新城,https://media9.vgmcc.com:5129/HLS/live/MT_20250814165608329vyzqusVGJWPs/index.m3u8?encrypt=meS45gyrAhXpRF-NJ1_Syg&expires=1782200693
 深圳福田红树林,http://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 壹视界1,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SHZM.m3u8
 壹视界2,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SSCS.m3u8
