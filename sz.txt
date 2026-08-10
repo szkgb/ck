@@ -2697,19 +2697,6 @@ TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
 福建南平武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
 福建南平武夷山玉女峰,http://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
-💃熊猫直播,#genre#
-
-ipanda-青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
-ipanda-娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-ipanda-瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
-ipanda英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-ipanda玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
-ipanda怡然,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
-ipanda成都园区,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-ipanda都江堰园区,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
-ipanda都江堰园区,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-ipanda大丰园区,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
-
 💃历年春晚,#genre#
 	
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
