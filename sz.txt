@@ -2200,6 +2200,20 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台视新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
 
+凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
+凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
+凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
+NOW新闻台,https://cdn.qd.je/163189.php?id=now
+无线新闻,https://cdn.qd.je/163189.php?id=wxxw
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+
 🌏台湾,#genre#
 
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
