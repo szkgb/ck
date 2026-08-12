@@ -1922,7 +1922,7 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 汕头妈屿岛,https://media9.vgmcc.com:5001/HLS/live/MT_20250725171051960xodJCsR5Cung/index.m3u8?encrypt=k5sSNu-Fwmi7BS4SkrYYnA&expires=1782200899
 汕头澄海区漳林古港,https://media9.vgmcc.com:5189/HLS/live/MT_20250813101830501afKzHrouUrfa/index.m3u8?encrypt=VcmCa6Vj5r2-inZt7Cg_Gw&expires=1782201197
 汕头内海湾与南滨新城,https://media9.vgmcc.com:5129/HLS/live/MT_20250814165608329vyzqusVGJWPs/index.m3u8?encrypt=meS45gyrAhXpRF-NJ1_Syg&expires=1782200693
-深圳福田红树林,http://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 壹视界1,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SHZM.m3u8
 壹视界2,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SSCS.m3u8
 壹视界3,https://livepull-tcyzb.sztv.com.cn/live/YSZ_YSHC.m3u8
