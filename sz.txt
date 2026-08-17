@@ -2203,7 +2203,7 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 松赞拉萨林卡,
 维港美景,
 珠穆朗玛日出金山,
-广州live,
+广州live,https://ec-jssz-ct-01-04.bilivideo.com/live-bvc/673029/live_2ny1bu_SGX5e28_56oyd/index.m3u8?expires=1786958295&len=0&oi=244932254&pt=web&qn=10000&trid=10071ff82f8c87ef5d867f4652a2c66a82c3&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=9f6bf3ce9842ef901155ee4341aa14c5&site=a39ca5e7eccda348e686210ceef96d38&free_type=0&mid=0&sche=ban&bvchls=1&sid=ec-jssz-ct-01-04&chash=1&sg=lr&trace=8388633&isp=ct&rg=South&pv=Guangdong&hot_cdn=0&p2p_type=1&sk=73cdae932c07c8ada19f8af4193f1ef1&info_source=origin&hdr_type=0&source=puv3_onetier&origin_bitrate=2994&score=1&media_type=0&codec=0&deploy_env=prod&flvsk=3be9ccda8512633950329b4df315673b&pp=rtmp&sl=1&suffix=origin&vd=dec&zoneid_l=151371777&sid_l=stream_name_cold&src=puv3&order=1
 平潭海景,
 大美云南,
 珠海城市风景,https://cn-hnld-ct-01-18.bilivideo.com/live-bvc/784729/live_3zm41_SGEMm5W_53jua/index.m3u8?expires=1786938296&len=0&oi=244932254&pt=web&qn=10000&trid=10075eadf8e55cfa9a9d1945eaf6986a8275&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=2af228a114ebf4c3472a3937525df759&site=60770abb4ee1313c73fa78e006964444&free_type=0&mid=0&sche=ban&bvchls=1&sid=cn-hnld-ct-01-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=South&pv=Guangdong&deploy_env=prod&sk=a9156efcbc2d37148f1a08349a86ef2b&codec=0&score=1&flvsk=fdad93b08b0424c856d9e3ab7141df00&media_type=0&hot_cdn=0&p2p_type=1&sl=1&origin_bitrate=3243&suffix=origin&source=puv3_onetier&pp=rtmp&hdr_type=0&info_source=cache&vd=nc&zoneid_l=151371777&sid_l=stream_name_cold&src=puv3&order=1
