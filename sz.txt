@@ -1887,7 +1887,7 @@ tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
 
 平潭海景,
 雅鲁藏布江大峡谷,
-景区联播,
+景区联播,https://cn-jsnt-ct-01-11.bilivideo.com/live-bvc/976828/live_ye73855e4i_SQF2fiY_3hfy5/index.m3u8?expires=1788235239&len=0&oi=0x240e03ba30cc4650206aab95e5691dcd&pt=web&qn=10000&trid=10077223741eecef3003395a91b7b36a963f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=d4bfe80ff23e42797866a17f41ef113e&site=f38c7f3bf366964688b49ff3bfb9b2f2&free_type=0&mid=0&sche=ban&bvchls=1&sid=cn-jsnt-ct-01-11&chash=0&sg=lr&trace=8388625&isp=ct&rg=South&pv=Guangdong&flvsk=ec67a7d92244c76518fb0acb33ca116f&origin_bitrate=6595&hot_cdn=852356&suffix=origin&codec=0&hdr_type=0&source=puv3_onetier&score=42&info_source=origin&p2p_type=1&deploy_env=prod&sk=9ebcc7854d41a53ebda4e8d53318ed82&media_type=0&sl=1&pp=&vd=nc&zoneid_l=151371777&sid_l=live_ye73855e4i_SQF2fiY_3hfy5&src=puv3&order=1
 广州live,
 大美云南,
 珠穆朗玛日出金山,
