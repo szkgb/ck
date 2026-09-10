@@ -3074,21 +3074,14 @@ CGTNSD,http://denghao.net:4022/rtp/239.77.1.27:5146
 安徽黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 安徽黄山排云亭,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 安徽黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
-南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-天津海河,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
 河南焦作红石峡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-四川成都天府熊猫塔,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-甘肃敦煌鸣沙山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+江苏连云港228省道观鸟点,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
 云南丽江远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
-云南红河建水双龙桥,https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
-湖南邵阳崀山风景名胜区,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 黑龙江哈尔滨霁虹桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 黑龙江萝北县嘟噜河省级自然保护区,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
-北京密云古北水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 福建南平武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-山东青岛艾山天文台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 山东济南趵突泉,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
-福建南平武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+
 
 
 
