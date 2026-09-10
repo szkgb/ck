@@ -2015,15 +2015,10 @@ CGTNSD,http://denghao.net:4022/rtp/239.77.1.27:5146
 💃直播中国,#genre#
 
 深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-广东韶关车八岭,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-广东广州远眺白江湖,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-广东广州绿美白江湖,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-广东云浮象窝山小长城,https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
 广东韶关车八岭,https://gcalic.v.myalicdn.com//gc/zjjjjdl_1/index.m3u8
 河北秦皇岛老龙头景区,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-河北秦皇岛金梦海湾,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u88
+河北秦皇岛金梦海湾,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
 河北承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-河北承德金山岭长城,http://gctxyc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
 河北邯郸京娘湖1,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 河北邯郸京娘湖2,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 河北沧州运河公园,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
@@ -2035,9 +2030,6 @@ CGTNSD,http://denghao.net:4022/rtp/239.77.1.27:5146
 河北承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
 吉林省吉林市临江门大桥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
 吉林省吉林市北山公园,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-吉林省吉林市朱雀云顶远眺,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-新疆博州赛里木湖,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
-新疆昌吉州天山天池,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
 安徽黄山始信新道,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 安徽黄山始信峰,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 安徽黄山平天矼,https://gcalic.v.myalicdn.com/gc/wysyxdhp_1/index.m3u8
