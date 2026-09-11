@@ -1865,6 +1865,7 @@ FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 🌏港澳台1,#genre#
 
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻4Gtv,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
 民視新聞,http://211.72.174.95:8117/0.ts
 台视新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
