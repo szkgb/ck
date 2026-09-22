@@ -1571,6 +1571,7 @@ tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
 上海北外滩,https://tftp6graunmttghanhctofa3uymmcpf5gkmmzqczgs45upiu1ha5xpw.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=3ccfdb4284eaea73bb7cab60-177204275008725&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218612390266553
 龙头新闻,http://210.76.60.23:1935/live/jhqiao/chunklist_w1668088012.m3u8
 西湖网红椅“云邂逅”,https://hls.quklive.com/live/play-sh-21.quklive.com/1752657394901065.m3u8?auth_key=2089260079-aea88b17101146b8b212cd6c64ee110c-0-4c38991fe3afbc460da26ed850375532
+Live南京,https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京长江大桥,https://nklive2.nbs.cn/hls/292e69b9-9ca1-4908-bba0-32438dd7c464/index.m3u8
 南京南站北广场,https://nklive2.nbs.cn/hls/ed208474-9d66-48d1-adfe-55f0d783915c/index.m3u8
 南京新庄立交,https://nklive2.nbs.cn/hls/e75a4b63-c05f-49c1-9d53-9c24c09107de/index.m3u8
