@@ -1583,6 +1583,7 @@ tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
 南京眼,https://nklive2.nbs.cn/hls/2496cb32-fa2a-469b-bfd7-2d1991d671d5/index.m3u8
 南京五马渡,https://nklive1.nbs.cn/hls/019fe26e-5595-4330-a3be-df72d5e01e6b/index.m3u8
 南京石象路,https://yunlive.nbs.cn/live/mzb_sxl_1/playlist.m3u8
+长江五桥,https://nklive2.nbs.cn/hls/509207c4-e2b1-43f0-b8f0-f04d0f584ed8/index.m3u8
 河北石家庄滹沱河正定段,https://live.pull.hebtv.com/live/mzb109.m3u8
 河北赵县赵州桥,https://live.pull.hebtv.com/live/mzb108.m3u8
 河北石家庄正定古城,https://live.pull.hebtv.com/live/mzb431.m3u8
