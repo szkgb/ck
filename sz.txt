@@ -1540,7 +1540,7 @@ tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
 
 大美云南,
 珠穆朗玛日出金山,https://ec-gdgz-ct-01-03.bilivideo.com/live-bvc/577858/live_6zhyly_ShFDdyP_rsq33/index.m3u8?expires=1790560309&len=0&oi=0x240e03ba30ceae709d8f1c4c54b397c5&pt=web&qn=10000&trid=100724c91cca3be3867a19ececc1c46ab9ba&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=5743ea83e1f71fbe0d658d819ac16eac&site=97fb8b6b53ee57b3b9ac9f7826ff289d&free_type=0&mid=0&sche=ban&bvchls=1&sid=ec-gdgz-ct-01-03&chash=1&sg=lr&trace=8388625&isp=ct&rg=South&pv=Guangdong&hdr_type=0&codec=0&suffix=origin&origin_bitrate=1130&deploy_env=prod&info_source=cache&score=52&source=puv3_onetier&hot_cdn=0&flvsk=2c61cc7cbcfd44fd3ab5d09088ce3db1&sl=1&media_type=0&p2p_type=1&pp=rtmp&sk=447360ffe86d5e828c1028ae7239a1da&vd=dec&zoneid_l=151371777&sid_l=live_6zhyly_ShFDdyP_rsq33&src=puv3&order=1
-上海实况,
+上海实况,https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/691395/live_yx7l13lpl1_SLWfMzX_ohcla/index.m3u8?expires=1790569004&len=0&oi=0x240e03ba30ceae709d8f1c4c54b397c5&pt=web&qn=10000&trid=100732d1936c2e1bb2c7122fcf852c6ab9dc&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=ba3aa96fb7b427791e9ed0e9dba414d4&site=e3b67678943a2de4930d166167782aaa&free_type=0&mid=0&sche=ban&bvchls=1&sid=cn-jsyz-ct-03-19&chash=1&sg=lr&trace=8388633&isp=ct&rg=South&pv=Guangdong&hot_cdn=0&suffix=origin&hdr_type=0&deploy_env=prod&pp=&sk=7d7789a225bb023c1a3fef07f818653f&media_type=0&origin_bitrate=2765&p2p_type=1&info_source=origin&codec=0&flvsk=2db17919da47bedd7f337075ad871c52&source=puv3_onetier&sl=1&score=1&vd=nc&zoneid_l=151371777&sid_l=stream_name_cold&src=puv3&order=1
 平潭海景,
 景区联播,
 广州live,
