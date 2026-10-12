@@ -482,6 +482,10 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8?$800x450
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+法国时尚,https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+FL,http://stream.mcquack.net/119/index.m3u8
+WFC,http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+Fashion one,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
 🌏港澳台1,#genre#
 
