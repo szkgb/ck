@@ -489,8 +489,10 @@ Fashion one,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broa
 
 🌏港澳台1,#genre#
 
-中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻4Gtv,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 
 🌏台湾,#genre#
 
@@ -506,35 +508,6 @@ TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-
-凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
-中天新闻Pdtv,http://rihou.cc:555/tv/[Pd]中天新闻
-有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
-无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
-Now新闻Pdtv,http://rihou.cc:555/tv/[Pd]Now新闻
-有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
-
-有线新闻欣赏,http://rihou.cc:555/tv/[Pd]有线新闻
-无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
-Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
-Now新闻欣赏,http://rihou.cc:555/tv/[Hk]Now新闻
-中天新闻欣赏,http://rihou.cc:555/tv/[Pd]中天新闻
-寰宇新闻欣赏,http://rihou.cc:555/tv/[Hk]寰宇新闻
-东森新闻欣赏,http://rihou.cc:555/tv/[Hk]东森新闻
-中视新闻欣赏,http://rihou.cc:555/tv/[Hk]中视新闻
-民视新闻欣赏,http://rihou.cc:555/tv/[Hk]民视新聞
-民视新闻欣赏,http://rihou.cc:555/tv/[Hk]民视新闻
-台视新闻欣赏,http://rihou.cc:555/tv/[Hk]台视新闻
-年代新闻欣赏,http://rihou.cc:555/tv/[Hk]年代新闻
-非凡新闻欣赏,http://rihou.cc:555/tv/[Hk]非凡新闻
-闽镜新闻欣赏,http://rihou.cc:555/tv/[Hk]闽镜新闻
-闽壹新闻欣赏,http://rihou.cc:555/tv/[Hk]闽壹新闻
-tvbS闽南欣赏,http://rihou.cc:555/tv/[Hv]tvbS闽南
-凤凰中文欣赏,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯欣赏,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港欣赏,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 🏠汕头,#genre#
 
