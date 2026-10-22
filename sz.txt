@@ -1497,7 +1497,6 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 
 💃b站直播,#genre#
 
-景区联播,https://cn-gddg-ct-01-10.bilivideo.com/live-bvc/547473/live_ye73855e4i_S8g8vYv_3hfy5/index.m3u8?expires=1792655860&len=0&oi=0x240e03ba30dcb1a099405730f423ad8f&pt=web&qn=10000&trid=10073d630377f43d71d2570e2400bb6ad9b3&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha01&sign=7ec147a41c3615f4461d158444db3bd1&site=871eb193a042c1508ad5fb261a5ef8ab&free_type=0&mid=0&sche=ban&bvchls=1&sid=cn-gddg-ct-01-10&chash=0&sg=lr&trace=8388625&isp=ct&rg=South&pv=Guangdong&hot_cdn=852356&deploy_env=prod&cid=27407498&info_source=cache&sk=3bab61ed12df46bae74843639e10e47c&suffix=origin&source=puv3_onetier&origin_bitrate=8172&codec=0&media_type=0&pp=&p2p_type=1&hdr_type=0&flvsk=b39822bb92f387aa952556e8e1b1af7f&sl=1&score=42&vd=nc&zoneid_l=151371777&sid_l=live_ye73855e4i_S8g8vYv_3hfy5&src=puv3&order=1
 大美云南,
 平潭海景,
 珠穆朗玛日出金山,
