@@ -875,6 +875,7 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 壹视界1,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SHZM.m3u8
 壹视界2,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SSCS.m3u8
 壹视界3,https://livepull-tcyzb.sztv.com.cn/live/YSZ_YSHC.m3u8
+壹直播,https://livepull-tcyzb.sztv.com.cn/live/YSZ_regularlive.m3u8
 
 🏠揭阳IPTV,#genre#,DE=3
 
